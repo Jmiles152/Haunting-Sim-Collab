@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/h021185l/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/placement_system/st_build_parts.uasset",
+				"C:/Users/h021185l/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/placement_system/blueprint_examples/examle_2_child.uasset",
+				"C:/Users/h021185l/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/placement_system/blueprint_examples/bp_examle_1_child.uasset",
+				"C:/Users/h021185l/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/placement_system/blueprint_examples/bp_examle_2_child.uasset",
+				"C:/Users/h021185l/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/placement_system/blueprint_examples/bp_examle_3_child.uasset",
+				"C:/Users/h021185l/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/placement_system/blueprint_examples/bp_examle_4_child.uasset",
+				"C:/Users/h021185l/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/placement_system/blueprint_examples/bp_examples_master.uasset",
+				"C:/Users/h021185l/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/placement_system/dt_build_libery.uasset",
+				"C:/Users/h021185l/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/placement_system/materials/m_build_preview.uasset",
+				"C:/Users/h021185l/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/placement_system/imputs/imputs/ia_rotate_left.uasset",
+				"C:/Users/h021185l/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/placement_system/imputs/imputs/ia_rotate_right.uasset",
+				"C:/Users/h021185l/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/placement_system/bpc_placement_system.uasset",
+				"C:/Users/h021185l/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/placement_system/imputs/player_placement_actions.uasset",
+				"C:/Users/h021185l/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/h021185l/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/FirstPerson/Lvl_FirstPerson.umap",
+				"C:/Users/h021185l/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/UU/1ZY1QFVHRWZSP8YI4VZLMK.uasset",
+				"C:/Users/h021185l/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/placement_system/imputs/imputs/ia_build.uasset",
+				"C:/Users/h021185l/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/placement_system/imputs/imputs/ia_destroy.uasset",
+				"C:/Users/h021185l/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/placement_system/imputs/imputs/ia_place_build.uasset",
+				"C:/Users/h021185l/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/placement_system/player/player_gamemode.uasset"
+			]
+		}
+	]
+}
