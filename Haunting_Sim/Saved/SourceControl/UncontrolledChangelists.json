@@ -1,0 +1,45 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Owen Burley/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Blueprints/Shop-and-inventory/BP_ShopManager.uasset",
+				"C:/Users/Owen Burley/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/8W/R010R2PIEO2M0VJPVVA9OC.uasset",
+				"C:/Users/Owen Burley/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Shop-and-inventory/BP_ShopManager.uasset",
+				"C:/Users/Owen Burley/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Shop-and-inventory/ThingsToRelocate/S_TempItemStats.uasset",
+				"C:/Users/Owen Burley/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Shop-and-inventory/ThingsToRelocate/DT_TempItemTable.uasset",
+				"C:/Users/Owen Burley/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Shop-and-inventory/ThingsToRelocate/T_ShopCube.uasset",
+				"C:/Users/Owen Burley/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Shop-and-inventory/ThingsToRelocate/M_CubeMaster.uasset",
+				"C:/Users/Owen Burley/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Shop-and-inventory/ThingsToRelocate/T_InventoryCube.uasset",
+				"C:/Users/Owen Burley/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Shop-and-inventory/BP_InventoryManager.uasset",
+				"C:/Users/Owen Burley/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Shop-and-inventory/ThingsToRelocate/MI_CubeInventory.uasset",
+				"C:/Users/Owen Burley/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Shop-and-inventory/ThingsToRelocate/M_TempManagerCube.uasset",
+				"C:/Users/Owen Burley/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/TN/1ARDUNTC4KF4OLXMCCAEW1.uasset",
+				"C:/Users/Owen Burley/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Shop-and-inventory/WBP_TempInventory.uasset",
+				"C:/Users/Owen Burley/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Shop-and-inventory/WBP_TempShopEntry.uasset",
+				"C:/Users/Owen Burley/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset",
+				"C:/Users/Owen Burley/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Shop-and-inventory/WBP_TempHUD.uasset",
+				"C:/Users/Owen Burley/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Shop-and-inventory/WBP_InventorySlot.uasset",
+				"C:/Users/Owen Burley/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Blueprints/Shop-and-inventory/BP_Shop-Manager.uasset",
+				"C:/Users/Owen Burley/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Blueprints/Shop-and-inventory/S_Temp-Item-Stats.uasset",
+				"C:/Users/Owen Burley/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Blueprints/Shop-and-inventory/DT_Temp-Item-Table.uasset",
+				"C:/Users/Owen Burley/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Blueprints/Shop-and-inventory/DT_TempItemTable.uasset",
+				"C:/Users/Owen Burley/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Blueprints/Shop-and-inventory/S_TempItemStats.uasset",
+				"C:/Users/Owen Burley/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Meshes/Cube.uasset",
+				"C:/Users/Owen Burley/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Blueprints/Shop-and-inventory/Cube_2_.uasset",
+				"C:/Users/Owen Burley/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Blueprints/Shop-and-inventory/ShopManagerCube.uasset",
+				"C:/Users/Owen Burley/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Blueprints/Shop-and-inventory/Cube.uasset",
+				"C:/Users/Owen Burley/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Shop-and-inventory/S_TempItemStats.uasset",
+				"C:/Users/Owen Burley/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Shop-and-inventory/DT_TempItemTable.uasset",
+				"C:/Users/Owen Burley/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Shop-and-inventory/Cube.uasset",
+				"C:/Users/Owen Burley/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Shop-and-inventory/ShopManagerCube.uasset",
+				"C:/Users/Owen Burley/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Shop-and-inventory/Cube_2_.uasset",
+				"C:/Users/Owen Burley/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Shop-and-inventory/ThingsToRelocate/Cube.uasset",
+				"C:/Users/Owen Burley/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Shop-and-inventory/ThingsToRelocate/Cube_2_.uasset",
+				"C:/Users/Owen Burley/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Shop-and-inventory/ThingsToRelocate/ShopManagerCube.uasset"
+			]
+		}
+	]
+}
