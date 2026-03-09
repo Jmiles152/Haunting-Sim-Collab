@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/B020090M/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset",
+				"C:/Users/B020090M/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/placement_system/bpc_placement_system.uasset",
+				"C:/Users/B020090M/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/placement_system/st_build_parts.uasset",
+				"C:/Users/B020090M/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/B020090M/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/placement_system/dt_build_libery.uasset",
 				"C:/Users/h021185l/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/placement_system/st_build_parts.uasset",
 				"C:/Users/h021185l/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/placement_system/blueprint_examples/examle_2_child.uasset",
 				"C:/Users/h021185l/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/placement_system/blueprint_examples/bp_examle_1_child.uasset",
