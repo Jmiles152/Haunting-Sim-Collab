@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/B020090M/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Shop-and-inventory/BP_ShopManager.uasset",
+				"C:/Users/B020090M/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Shop-and-inventory/WBP_TempShopEntry.uasset",
+				"C:/Users/B020090M/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Shop-and-inventory/WBP_TempHUD.uasset",
 				"C:/Users/Owen Burley/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Blueprints/Shop-and-inventory/BP_ShopManager.uasset",
 				"C:/Users/Owen Burley/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/8W/R010R2PIEO2M0VJPVVA9OC.uasset",
 				"C:/Users/Owen Burley/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Shop-and-inventory/BP_ShopManager.uasset",
