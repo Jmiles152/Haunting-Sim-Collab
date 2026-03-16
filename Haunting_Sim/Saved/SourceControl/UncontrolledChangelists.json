@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/m017398o/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/DataTables/DT_Trap.uasset",
+				"C:/Users/m017398o/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/PlaceHolderTrap/BP_TestTrap.uasset",
+				"C:/Users/m017398o/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/PlaceHolderTrap/Can.uasset",
+				"C:/Users/m017398o/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/PlaceHolderTrap/BP_TrapParent.uasset",
 				"C:/Users/B020090M/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset",
 				"C:/Users/B020090M/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/placement_system/bpc_placement_system.uasset",
 				"C:/Users/B020090M/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/placement_system/st_build_parts.uasset",
