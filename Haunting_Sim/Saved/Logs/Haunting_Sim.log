@@ -5105,3 +5105,365 @@ Sampler Limit: 32
 [2026.03.16-15.00.45:044][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
 [2026.03.16-15.00.45:071][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
 [2026.03.16-15.00.45:097][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.03.16-15.03.00:791][201]LogSlate: Window 'Message' being destroyed
+[2026.03.16-15.03.00:808][201]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Art/Props/Paintings/M_PaintingSmall_Oval.M_PaintingSmall_Oval
+(Selecting 'No' will cause all changes to be lost!)
+[2026.03.16-15.03.01:004][201]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.03.16-15.03.03:819][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.03.16-15.03.06:432][201]LogSlate: Window 'Message' being destroyed
+[2026.03.16-15.03.06:448][201]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Art/Props/Paintings/M_PaintingLarge.M_PaintingLarge
+(Selecting 'No' will cause all changes to be lost!)
+[2026.03.16-15.03.06:633][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.03.16-15.03.06:853][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.03.16-15.03.06:894][201]LogSlate: Window 'M_PaintingLarge' being destroyed
+[2026.03.16-15.03.06:899][201]LogSlate: Window 'M_PaintingLarge' being destroyed
+[2026.03.16-15.03.06:937][201]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.03.16-15.03.06:937][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.16-15.03.06:996][201]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2026.03.16-15.03.06:996][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.16-15.03.07:053][201]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2026.03.16-15.03.07:053][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.16-15.03.07:108][201]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2026.03.16-15.03.07:108][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.16-15.03.07:161][201]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.03.16-15.03.07:161][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.16-15.03.07:312][201]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2026.03.16-15.03.46:168][429]LogShaderCompilers: Display: ================================================
+[2026.03.16-15.03.46:168][429]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.16-15.03.46:168][429]LogShaderCompilers: Display: Total job queries 19,597, among them cache hits 5,510 (28.12%), DDC hits 12,383 (63.19%), Duplicates 921 (4.70%)
+[2026.03.16-15.03.46:168][429]LogShaderCompilers: Display: Tracking 13,166 distinct input hashes that result in 12,040 distinct outputs (91.45%)
+[2026.03.16-15.03.46:168][429]LogShaderCompilers: Display: RAM used: 160.12 MiB of 1.60 GiB budget. Usage: 9.77%
+[2026.03.16-15.03.46:168][429]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.16-15.03.46:168][429]LogShaderCompilers: Display: Shaders Compiled: 783
+[2026.03.16-15.03.46:168][429]LogShaderCompilers: Display: Jobs assigned 783, completed 783 (100%)
+[2026.03.16-15.03.46:168][429]LogShaderCompilers: Display: Average time worker was idle: 90.23 s
+[2026.03.16-15.03.46:168][429]LogShaderCompilers: Display: Time job spent in pending queue: average 8.35 s, longest 84.42 s
+[2026.03.16-15.03.46:168][429]LogShaderCompilers: Display: Job execution time: average 12.00 s, max 54.65 s
+[2026.03.16-15.03.46:168][429]LogShaderCompilers: Display: Job life time (pending + execution): average 20.35 s, max 86.47
+[2026.03.16-15.03.46:168][429]LogShaderCompilers: Display: Shader code size: total 11.58 MiB, numShaders 806, average 14.713 KiB, min 2.246 KiB, max 55.505 KiB
+[2026.03.16-15.03.46:168][429]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 270.62 s
+[2026.03.16-15.03.46:168][429]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.30%
+[2026.03.16-15.03.46:168][429]LogShaderCompilers: Display: Jobs were issued in 336 batches (only local compilation was used), average 2.33 jobs/batch
+[2026.03.16-15.03.46:168][429]LogShaderCompilers: Display: Average processing rate: 2.89 jobs/sec
+[2026.03.16-15.03.46:168][429]LogShaderCompilers: Display: Total thread time: 1,541.79 s
+[2026.03.16-15.03.46:168][429]LogShaderCompilers: Display: Total thread preprocess time: 205.744 s
+[2026.03.16-15.03.46:168][429]LogShaderCompilers: Display: Percentage time preprocessing: 13.34%
+[2026.03.16-15.03.46:168][429]LogShaderCompilers: Display: Effective parallelization: 5.70 (times faster than compiling all shaders on one thread). Compare with number of workers: 4 - 1.424288
+[2026.03.16-15.03.46:168][429]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.16-15.03.46:168][429]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   10 times, average 9.17 sec, max 29.67 sec, min 3.75 sec)
+[2026.03.16-15.03.46:168][429]LogShaderCompilers: Display:                         FLumenVisualizeHardwareRayTracingRGS (compiled    8 times, average 7.98 sec, max 10.97 sec, min 7.35 sec)
+[2026.03.16-15.03.46:168][429]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   13 times, average 6.49 sec, max 18.49 sec, min 1.33 sec)
+[2026.03.16-15.03.46:168][429]LogShaderCompilers: Display:                      FPathTracingBuildCloudAccelerationMapCS (compiled    1 times, average 4.73 sec, max 4.73 sec, min 4.73 sec)
+[2026.03.16-15.03.46:168][429]LogShaderCompilers: Display:                          FPathTracingVolumetricCloudMaterial (compiled    1 times, average 4.37 sec, max 4.37 sec, min 4.37 sec)
+[2026.03.16-15.03.46:168][429]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.16-15.03.46:169][429]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 18.39% of total time (compiled   80 times, average 3.54 sec, max 7.09 sec, min 2.44 sec)
+[2026.03.16-15.03.46:169][429]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 11.59% of total time (compiled   57 times, average 3.13 sec, max 31.72 sec, min 1.02 sec)
+[2026.03.16-15.03.46:169][429]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 7.79% of total time (compiled   40 times, average 3.00 sec, max 31.71 sec, min 0.78 sec)
+[2026.03.16-15.03.46:169][429]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.27% of total time (compiled   83 times, average 1.16 sec, max 4.82 sec, min 0.35 sec)
+[2026.03.16-15.03.46:169][429]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 5.95% of total time (compiled   10 times, average 9.17 sec, max 29.67 sec, min 3.75 sec)
+[2026.03.16-15.03.46:169][429]LogShaderCompilers: Display: === Material stats ===
+[2026.03.16-15.03.46:169][429]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.16-15.03.46:169][429]LogShaderCompilers: Display: Materials Translated:    399
+[2026.03.16-15.03.46:169][429]LogShaderCompilers: Display: Material Total Translate Time: 0.21 s
+[2026.03.16-15.03.46:169][429]LogShaderCompilers: Display: Material Translation Only: 0.09 s (40%)
+[2026.03.16-15.03.46:169][429]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.03.16-15.03.46:169][429]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.03.16-15.03.46:169][429]LogShaderCompilers: Display: ================================================
+[2026.03.16-15.05.00:293][651]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.03.16-15.05.00:296][651]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.028
+[2026.03.16-15.05.00:296][651]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Props/Paintings/M_PaintingSmall_Oval] ([1] browsable assets)...
+[2026.03.16-15.05.00:444][651]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Art/Props/Paintings/M_PaintingSmall_Oval.M_PaintingSmall_Oval]
+[2026.03.16-15.05.00:444][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Props/Paintings/M_PaintingSmall_Oval]
+[2026.03.16-15.05.00:452][651]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Props/Paintings/M_PaintingSmall_Oval_Auto4
+[2026.03.16-15.05.00:452][651]LogSavePackage: Moving '../../../../../../Users/l012783n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/M_PaintingSmall_Oval_Auto4CDC4BEE94614832128ACA68E4DA0435B.tmp' to '../../../../../../Users/l012783n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/Autosaves/Game/Art/Props/Paintings/M_PaintingSmall_Oval_Auto4.uasset'
+[2026.03.16-15.05.00:453][651]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Props/Paintings/M_PaintingLarge] ([1] browsable assets)...
+[2026.03.16-15.05.00:482][651]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Art/Props/Paintings/M_PaintingLarge.M_PaintingLarge]
+[2026.03.16-15.05.00:482][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Props/Paintings/M_PaintingLarge]
+[2026.03.16-15.05.00:492][651]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Props/Paintings/M_PaintingLarge_Auto4
+[2026.03.16-15.05.00:492][651]LogSavePackage: Moving '../../../../../../Users/l012783n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/M_PaintingLarge_Auto4BD6CF67D46B0D9E91C6FB4AE4593AD42.tmp' to '../../../../../../Users/l012783n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/Autosaves/Game/Art/Props/Paintings/M_PaintingLarge_Auto4.uasset'
+[2026.03.16-15.05.00:494][651]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Props/Paintings/M_Painting_Narrow] ([1] browsable assets)...
+[2026.03.16-15.05.00:518][651]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Art/Props/Paintings/M_Painting_Narrow.M_Painting_Narrow]
+[2026.03.16-15.05.00:519][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Props/Paintings/M_Painting_Narrow]
+[2026.03.16-15.05.00:543][651]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Props/Paintings/M_Painting_Narrow_Auto4
+[2026.03.16-15.05.00:543][651]LogSavePackage: Moving '../../../../../../Users/l012783n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/M_Painting_Narrow_Auto46F9B4D3D4835666988AAFDBC1D125936.tmp' to '../../../../../../Users/l012783n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/Autosaves/Game/Art/Props/Paintings/M_Painting_Narrow_Auto4.uasset'
+[2026.03.16-15.05.00:545][651]LogFileHelpers: Auto-saving content packages took 0.249
+[2026.03.16-15.06.25:747][396]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3999.753174
+[2026.03.16-15.06.26:747][399]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.16-15.06.26:747][399]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4000.419922, Update Interval: 324.890289
+[2026.03.16-15.12.44:744][995]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4378.756348
+[2026.03.16-15.12.45:763][998]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.16-15.12.45:763][998]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4379.422852, Update Interval: 336.545288
+[2026.03.16-15.18.59:485][119]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4753.498047
+[2026.03.16-15.19.00:487][122]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.16-15.19.00:487][123]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4754.168457, Update Interval: 335.919067
+[2026.03.16-15.25.14:237][243]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5128.254883
+[2026.03.16-15.25.15:222][246]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.16-15.25.15:222][247]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5128.906738, Update Interval: 310.984833
+[2026.03.16-15.31.03:619][291]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5477.639160
+[2026.03.16-15.31.04:616][294]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.16-15.31.04:616][294]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5478.302246, Update Interval: 304.918365
+[2026.03.16-15.34.16:812][270]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Props/Candles/SM_Candle1.SM_Candle1
+[2026.03.16-15.34.16:812][270]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Props/Candles/SM_Candle1.SM_Candle1
+[2026.03.16-15.34.16:814][270]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Props/Candles/SM_Candle1.SM_Candle1 as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_49
+[2026.03.16-15.34.17:294][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.03.16-15.34.17:297][309]LogEditorActor: Deleted 0 Actors (0.033 secs)
+[2026.03.16-15.34.17:302][309]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Props/Candles/SM_Candle1.SM_Candle1
+[2026.03.16-15.34.17:302][309]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Props/Candles/SM_Candle1.SM_Candle1
+[2026.03.16-15.34.17:305][309]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Props/Candles/SM_Candle1.SM_Candle1 as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_84A93E8DAC6574C802_1907248122
+[2026.03.16-15.34.17:784][318]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Props/Candles/SM_Candle2.SM_Candle2
+[2026.03.16-15.34.17:784][318]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Props/Candles/SM_Candle2.SM_Candle2
+[2026.03.16-15.34.17:784][318]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Props/Candles/SM_Candle2.SM_Candle2 as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_50
+[2026.03.16-15.34.18:397][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.03.16-15.34.18:399][367]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2026.03.16-15.34.18:404][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Props/Candles/SM_Candle2.SM_Candle2
+[2026.03.16-15.34.18:404][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Props/Candles/SM_Candle2.SM_Candle2
+[2026.03.16-15.34.18:407][367]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Props/Candles/SM_Candle2.SM_Candle2 as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_84A93E8DAC6574C802_1908350123
+[2026.03.16-15.34.18:968][389]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Props/Candles/SM_CandleHolder.SM_CandleHolder
+[2026.03.16-15.34.18:968][389]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Props/Candles/SM_CandleHolder.SM_CandleHolder
+[2026.03.16-15.34.18:969][389]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Props/Candles/SM_CandleHolder.SM_CandleHolder as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_51
+[2026.03.16-15.34.19:983][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.03.16-15.34.19:985][479]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2026.03.16-15.34.19:991][479]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Props/Candles/SM_CandleHolder.SM_CandleHolder
+[2026.03.16-15.34.19:991][479]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Props/Candles/SM_CandleHolder.SM_CandleHolder
+[2026.03.16-15.34.19:994][479]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Props/Candles/SM_CandleHolder.SM_CandleHolder as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_84A93E8DAC6574C802_1909937124
+[2026.03.16-15.34.22:317][635]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Props/CoatRack/SM_CoatRack.SM_CoatRack
+[2026.03.16-15.34.22:317][635]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Props/CoatRack/SM_CoatRack.SM_CoatRack
+[2026.03.16-15.34.22:317][635]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Props/CoatRack/SM_CoatRack.SM_CoatRack as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_52
+[2026.03.16-15.34.23:168][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.03.16-15.34.23:171][708]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2026.03.16-15.34.23:176][708]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Props/CoatRack/SM_CoatRack.SM_CoatRack
+[2026.03.16-15.34.23:176][708]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Props/CoatRack/SM_CoatRack.SM_CoatRack
+[2026.03.16-15.34.23:179][708]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Props/CoatRack/SM_CoatRack.SM_CoatRack as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_84A93E8DAC6574C802_1913122125
+[2026.03.16-15.34.25:863][897]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Art/Props/Flashlight/BP_Flashlight.BP_Flashlight_C
+[2026.03.16-15.34.25:863][897]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Art/Props/Flashlight/BP_Flashlight.BP_Flashlight_C
+[2026.03.16-15.34.25:865][897]LogActorFactory: Actor Factory spawned Blueprint /Game/Art/Props/Flashlight/BP_Flashlight.BP_Flashlight as actor: BP_Flashlight_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_Flashlight_C_3
+[2026.03.16-15.34.25:869][897]LogActorFactory: Actor Factory spawned Blueprint /Game/Art/Props/Flashlight/BP_Flashlight.BP_Flashlight as actor: BP_Flashlight_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_Flashlight_C_3
+[2026.03.16-15.34.26:864][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.03.16-15.34.26:868][973]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2026.03.16-15.34.26:872][973]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Art/Props/Flashlight/BP_Flashlight.BP_Flashlight_C
+[2026.03.16-15.34.26:872][973]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Art/Props/Flashlight/BP_Flashlight.BP_Flashlight_C
+[2026.03.16-15.34.26:875][973]LogActorFactory: Actor Factory spawned Blueprint /Game/Art/Props/Flashlight/BP_Flashlight.BP_Flashlight as actor: BP_Flashlight_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_Flashlight_C_UAID_84A93E8DAC6574C802_1916818126
+[2026.03.16-15.34.26:877][973]LogActorFactory: Actor Factory spawned Blueprint /Game/Art/Props/Flashlight/BP_Flashlight.BP_Flashlight as actor: BP_Flashlight_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_Flashlight_C_UAID_84A93E8DAC6574C802_1916818126
+[2026.03.16-15.34.41:235][277]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.03.16-15.34.41:245][277]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.16-15.34.41:245][277]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.03.16-15.34.41:247][277]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 1.396 ms (total: 2.349 ms)
+[2026.03.16-15.34.41:247][277]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.16-15.34.41:247][277]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.03.16-15.34.41:255][277]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.16-15.34.41:256][277]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.657 ms (total: 3.267 ms)
+[2026.03.16-15.34.41:256][277]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009666s)
+[2026.03.16-15.34.41:256][277]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.009706s)
+[2026.03.16-15.34.41:284][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.03.16-15.34.41:289][277]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.03.16-15.34.41:290][277]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.16-15.34.41:290][277]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.16-15.34.41:290][277]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.16-15.34.41:290][277]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.16-15.34.41:293][277]LogWorldPartition: Display: WorldPartition initialize took 2.046 ms (total: 146.996 ms)
+[2026.03.16-15.34.41:293][277]LogPlayLevel: PIE: World Init took: (0.004544s)
+[2026.03.16-15.34.41:293][277]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.03.16-15.34.41:293][277]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.16-15.34.41:293][277]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.16-15.34.41:293][277]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.16-15.34.41:293][277]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.16-15.34.41:293][277]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.16-15.34.41:293][277]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.16-15.34.41:293][277]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.16-15.34.41:293][277]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.16-15.34.41:293][277]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.16-15.34.41:293][277]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.16-15.34.41:293][277]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.16-15.34.41:297][277]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.16-15.34.41:336][277]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics HD Audio)
+[2026.03.16-15.34.41:336][277]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.16-15.34.41:336][277]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.16-15.34.41:336][277]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.16-15.34.41:339][277]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.03.16-15.34.41:339][277]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.03.16-15.34.41:341][277]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.03.16-15.34.41:341][277]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.03.16-15.34.41:341][277]LogInit: FAudioDevice initialized with ID 3.
+[2026.03.16-15.34.41:341][277]LogAudio: Display: Audio Device (ID: 3) registered with world 'Lvl_FirstPerson'.
+[2026.03.16-15.34.41:341][277]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.03.16-15.34.41:404][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.16-15.34.41:405][277]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.16-15.34.41:410][277]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2026.03.16-15.34.41
+[2026.03.16-15.34.41:411][277]LogWorld: Bringing up level for play took: 0.004981
+[2026.03.16-15.34.41:414][277]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2026.03.16-15.34.41:434][277]PIE: Server logged in
+[2026.03.16-15.34.41:438][277]PIE: Play in editor total start time 0.192 seconds.
+[2026.03.16-15.34.41:532][278]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.16-15.34.46:828][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.16-15.34.46:828][672]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.03.16-15.34.46:828][672]LogSlate: Window 'Haunting_Sim Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.03.16-15.34.46:867][672]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.03.16-15.34.46:868][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.16-15.34.46:868][672]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.03.16-15.34.46:870][672]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.16-15.34.46:876][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.16-15.34.46:901][672]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.16-15.34.46:901][672]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.03.16-15.34.46:901][672]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2026.03.16-15.34.46:903][672]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2026.03.16-15.34.46:913][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2026.03.16-15.34.47:021][673]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2026.03.16-15.35.21:537][329]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.16-15.35.21:638][329]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/95/PWW63OFDZO4W2NU127OG1V
+[2026.03.16-15.35.21:638][329]LogSavePackage: Moving '../../../../../../Users/l012783n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/PWW63OFDZO4W2NU127OG1V87A10F7243A5C853DA986894E8F4DA00.tmp' to '../../../../../../Users/l012783n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/95/PWW63OFDZO4W2NU127OG1V.uasset'
+[2026.03.16-15.35.21:644][329]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/KR/XH2ZETIDYIAENPL1IZ7DBJ
+[2026.03.16-15.35.21:644][329]LogSavePackage: Moving '../../../../../../Users/l012783n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/XH2ZETIDYIAENPL1IZ7DBJ4CF30F774F0E1A1BE1D4AEA0BC616A10.tmp' to '../../../../../../Users/l012783n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/KR/XH2ZETIDYIAENPL1IZ7DBJ.uasset'
+[2026.03.16-15.35.21:649][329]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/PW/K04199HRWA3QGVV2XQ87T9
+[2026.03.16-15.35.21:649][329]LogSavePackage: Moving '../../../../../../Users/l012783n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/K04199HRWA3QGVV2XQ87T9611CACE04900875683B3D6A3B29888E3.tmp' to '../../../../../../Users/l012783n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/PW/K04199HRWA3QGVV2XQ87T9.uasset'
+[2026.03.16-15.35.21:654][329]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/VJ/G70L3EXLA6BG1WSPX8SD85
+[2026.03.16-15.35.21:654][329]LogSavePackage: Moving '../../../../../../Users/l012783n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/G70L3EXLA6BG1WSPX8SD8574219CBD4DF0CC482B637BA72EC1D138.tmp' to '../../../../../../Users/l012783n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/VJ/G70L3EXLA6BG1WSPX8SD85.uasset'
+[2026.03.16-15.35.21:662][329]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/WM/THG63DOQW94KRSUAE5TOL2
+[2026.03.16-15.35.21:662][329]LogSavePackage: Moving '../../../../../../Users/l012783n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/THG63DOQW94KRSUAE5TOL2AD81C37D484C7EB9ED467B9B72506208.tmp' to '../../../../../../Users/l012783n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/WM/THG63DOQW94KRSUAE5TOL2.uasset'
+[2026.03.16-15.35.21:678][329]LogFileHelpers: InternalPromptForCheckoutAndSave took 140.733 ms (total: 2.33 sec)
+[2026.03.16-15.35.21:740][329]LogContentValidation: Display: Starting to validate 5 assets
+[2026.03.16-15.35.21:740][329]LogContentValidation: Enabled validators:
+[2026.03.16-15.35.21:740][329]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.16-15.35.21:740][329]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.16-15.35.21:740][329]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.16-15.35.21:740][329]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.16-15.35.21:740][329]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.16-15.35.21:740][329]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.16-15.35.21:740][329]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2026.03.16-15.35.21:787][329]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/l012783n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.16-15.36.31:820][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.03.16-15.36.31:831][  2]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/WM/THG63DOQW94KRSUAE5TOL2_Auto5
+[2026.03.16-15.36.31:831][  2]LogSavePackage: Moving '../../../../../../Users/l012783n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/THG63DOQW94KRSUAE5TOL2_Auto51589184A4ED021BD67477AB70027B5C7.tmp' to '../../../../../../Users/l012783n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/WM/THG63DOQW94KRSUAE5TOL2_Auto5.uasset'
+[2026.03.16-15.36.31:833][  2]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.044
+[2026.03.16-15.36.31:833][  2]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.044
+[2026.03.16-15.37.03:073][ 96]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5837.104980
+[2026.03.16-15.37.04:077][ 99]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.16-15.37.04:077][ 99]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5837.770996, Update Interval: 353.909729
+[2026.03.16-15.43.50:871][319]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6244.901855
+[2026.03.16-15.43.51:858][322]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.16-15.43.51:860][322]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6245.549316, Update Interval: 322.213196
+[2026.03.16-15.50.02:591][434]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6616.612793
+[2026.03.16-15.50.03:589][437]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.16-15.50.03:589][437]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6617.278320, Update Interval: 301.880554
+[2026.03.16-15.53.00:634][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.03.16-15.53.01:966][968]LogSlate: Window 'Save Content' being destroyed
+[2026.03.16-15.53.02:022][968]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.16-15.53.02:089][968]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/WM/THG63DOQW94KRSUAE5TOL2
+[2026.03.16-15.53.02:089][968]LogSavePackage: Moving '../../../../../../Users/l012783n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/THG63DOQW94KRSUAE5TOL2EF2A65A046978E1F5ED6C992700F5F0A.tmp' to '../../../../../../Users/l012783n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/WM/THG63DOQW94KRSUAE5TOL2.uasset'
+[2026.03.16-15.53.02:093][968]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Props/Paintings/M_PaintingLarge] ([1] browsable assets)...
+[2026.03.16-15.53.02:093][968]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Props/Paintings/M_PaintingLarge]
+[2026.03.16-15.53.02:098][968]LogSavePackage: Moving output files for package: /Game/Art/Props/Paintings/M_PaintingLarge
+[2026.03.16-15.53.02:099][968]LogSavePackage: Moving '../../../../../../Users/l012783n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/M_PaintingLarge4E21804A4389DFB744BAA99FC2793981.tmp' to '../../../../../../Users/l012783n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Props/Paintings/M_PaintingLarge.uasset'
+[2026.03.16-15.53.02:101][968]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Props/Paintings/M_PaintingSmall_Oval] ([1] browsable assets)...
+[2026.03.16-15.53.02:101][968]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Props/Paintings/M_PaintingSmall_Oval]
+[2026.03.16-15.53.02:108][968]LogSavePackage: Moving output files for package: /Game/Art/Props/Paintings/M_PaintingSmall_Oval
+[2026.03.16-15.53.02:108][968]LogSavePackage: Moving '../../../../../../Users/l012783n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/M_PaintingSmall_Oval40A0D9014EB2554E39E49CA94F097113.tmp' to '../../../../../../Users/l012783n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Props/Paintings/M_PaintingSmall_Oval.uasset'
+[2026.03.16-15.53.02:110][968]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Props/Paintings/M_Painting_Narrow] ([1] browsable assets)...
+[2026.03.16-15.53.02:110][968]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Props/Paintings/M_Painting_Narrow]
+[2026.03.16-15.53.02:118][968]LogSavePackage: Moving output files for package: /Game/Art/Props/Paintings/M_Painting_Narrow
+[2026.03.16-15.53.02:118][968]LogSavePackage: Moving '../../../../../../Users/l012783n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/M_Painting_NarrowDCF757264B95E31B7E2F2FBA622C55FA.tmp' to '../../../../../../Users/l012783n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Props/Paintings/M_Painting_Narrow.uasset'
+[2026.03.16-15.53.02:133][968]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.460 ms (total: 2.45 sec)
+[2026.03.16-15.53.02:208][968]LogStall: Shutdown...
+[2026.03.16-15.53.02:208][968]LogStall: Shutdown complete.
+[2026.03.16-15.53.02:275][968]LogSlate: Window 'Haunting_Sim - Unreal Editor' being destroyed
+[2026.03.16-15.53.02:679][968]LogContentValidation: Display: Starting to validate 4 assets
+[2026.03.16-15.53.02:679][968]LogContentValidation: Enabled validators:
+[2026.03.16-15.53.02:679][968]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.16-15.53.02:679][968]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.16-15.53.02:679][968]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.16-15.53.02:679][968]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.16-15.53.02:679][968]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.16-15.53.02:679][968]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.16-15.53.02:679][968]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2026.03.16-15.53.02:679][968]AssetCheck: /Game/Art/Props/Paintings/M_PaintingLarge Validating asset
+[2026.03.16-15.53.02:679][968]AssetCheck: /Game/Art/Props/Paintings/M_PaintingSmall_Oval Validating asset
+[2026.03.16-15.53.02:679][968]AssetCheck: /Game/Art/Props/Paintings/M_Painting_Narrow Validating asset
+[2026.03.16-15.53.02:682][969]Cmd: QUIT_EDITOR
+[2026.03.16-15.53.02:682][969]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.03.16-15.53.02:690][969]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.03.16-15.53.02:691][969]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.03.16-15.53.02:691][969]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.03.16-15.53.02:693][969]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.03.16-15.53.02:693][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.16-15.53.02:693][969]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson
+[2026.03.16-15.53.02:708][969]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.03.16-15.53.02:708][969]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.03.16-15.53.02:709][969]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.03.16-15.53.02:726][969]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.03.16-15.53.02:726][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.16-15.53.02:730][969]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.03.16-15.53.02:730][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.16-15.53.02:733][969]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.03.16-15.53.02:733][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.16-15.53.02:737][969]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.16-15.53.02:737][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.16-15.53.02:741][969]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.03.16-15.53.02:741][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.16-15.53.02:744][969]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.03.16-15.53.02:744][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.16-15.53.02:748][969]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.03.16-15.53.02:748][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.16-15.53.02:751][969]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.03.16-15.53.02:751][969]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.03.16-15.53.02:758][969]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.03.16-15.53.02:961][969]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.03.16-15.53.02:961][969]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.03.16-15.53.02:961][969]LogAudio: Display: Audio Device unregistered from world 'Lvl_FirstPerson'.
+[2026.03.16-15.53.02:961][969]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.03.16-15.53.02:961][969]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.03.16-15.53.02:964][969]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.03.16-15.53.02:977][969]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.03.16-15.53.02:977][969]LogAudio: Display: Audio Device Manager Shutdown
+[2026.03.16-15.53.02:978][969]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2026.03.16-15.53.02:982][969]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.03.16-15.53.02:982][969]LogExit: Preparing to exit.
+[2026.03.16-15.53.03:065][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.03.16-15.53.03:087][969]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.16-15.53.03:087][969]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.16-15.53.03:087][969]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.16-15.53.03:087][969]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.16-15.53.03:087][969]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.16-15.53.03:087][969]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.16-15.53.03:087][969]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.16-15.53.03:087][969]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.16-15.53.03:087][969]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.16-15.53.03:087][969]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.16-15.53.03:087][969]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.16-15.53.03:087][969]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.16-15.53.03:088][969]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.16-15.53.03:088][969]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.16-15.53.03:088][969]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.16-15.53.03:088][969]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.16-15.53.03:088][969]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.16-15.53.03:088][969]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.16-15.53.03:088][969]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.16-15.53.03:088][969]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.16-15.53.03:088][969]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.16-15.53.03:716][969]LogEditorDataStorage: Deinitializing
+[2026.03.16-15.53.03:933][969]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.03.16-15.53.03:976][969]LogExit: Editor shut down
+[2026.03.16-15.53.03:988][969]LogExit: Transaction tracking system shut down
+[2026.03.16-15.53.04:353][969]LogExit: Object subsystem successfully closed.
+[2026.03.16-15.53.04:430][969]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.03.16-15.53.04:636][969]LogMemoryProfiler: Shutdown
+[2026.03.16-15.53.04:636][969]LogNetworkingProfiler: Shutdown
+[2026.03.16-15.53.04:636][969]LoadingProfiler: Shutdown
+[2026.03.16-15.53.04:636][969]LogTimingProfiler: Shutdown
+[2026.03.16-15.53.04:636][969]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.03.16-15.53.04:636][969]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.03.16-15.53.05:052][969]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.03.16-15.53.05:059][969]LogNFORDenoise: NFORDenoise function shutting down
+[2026.03.16-15.53.05:084][969]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.03.16-15.53.05:084][969]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8CA40ED6-46FA-C4FA-DC2A-969791334266%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=d9ee50ed45c008f01377d2aa1030ea51%7C%7Cdbcd243c-5192-48c7-bb79-f7db5bc22c14&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.03.16-15.53.05:637][969]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.03.16-15.53.05:638][969]RenderDocPlugin: plugin has been unloaded.
+[2026.03.16-15.53.05:638][969]LogXGEController: Cleaning working directory: C:/Users/l012783n/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.03.16-15.53.05:642][969]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.03.16-15.53.05:642][969]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.03.16-15.53.05:642][969]LogPakFile: Destroying PakPlatformFile
+[2026.03.16-15.53.06:154][969]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.03.16-15.53.06:180][969]LogExit: Exiting.
+[2026.03.16-15.53.06:206][969]Log file closed, 03/16/26 15:53:06
