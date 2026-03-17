@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/kaydo/Downloads/Haunting-Sim-Collab-Timer/Haunting-Sim-Collab-Timer/Haunting_Sim/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/PZ/KW3UR9GYYQ4A8JG2WRX2QP.uasset",
+				"C:/Users/kaydo/Downloads/Haunting-Sim-Collab-Timer/Haunting-Sim-Collab-Timer/Haunting_Sim/Content/PlaceHolderTimer/BP-TimerTest.uasset",
+				"C:/Users/kaydo/Downloads/Haunting-Sim-Collab-Timer/Haunting-Sim-Collab-Timer/Haunting_Sim/Content/PlaceHolderTimer/BPI_DayNightCycle.uasset",
 				"C:/Users/B020090M/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset",
 				"C:/Users/B020090M/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/placement_system/bpc_placement_system.uasset",
 				"C:/Users/B020090M/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/placement_system/st_build_parts.uasset",
