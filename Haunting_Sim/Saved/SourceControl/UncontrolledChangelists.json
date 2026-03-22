@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/kaydo/OneDrive/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/PlaceHolderTrap/BP_BaseTrap.uasset",
+				"C:/Users/kaydo/OneDrive/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/PlaceHolderTrap/BP_TestTrap_Triggerable.uasset",
 				"C:/Users/kaydo/Downloads/Haunting-Sim-Collab-Timer/Haunting-Sim-Collab-Timer/Haunting_Sim/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/PZ/KW3UR9GYYQ4A8JG2WRX2QP.uasset",
 				"C:/Users/kaydo/Downloads/Haunting-Sim-Collab-Timer/Haunting-Sim-Collab-Timer/Haunting_Sim/Content/PlaceHolderTimer/BP-TimerTest.uasset",
 				"C:/Users/kaydo/Downloads/Haunting-Sim-Collab-Timer/Haunting-Sim-Collab-Timer/Haunting_Sim/Content/PlaceHolderTimer/BPI_DayNightCycle.uasset",
