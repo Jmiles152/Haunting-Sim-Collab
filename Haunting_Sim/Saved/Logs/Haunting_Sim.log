@@ -1900,3 +1900,21 @@ Are you sure?
 [2026.03.23-13.53.14:497][744]LogPlayLevel: Display: Destroying online subsystem :Context_14
 [2026.03.23-13.53.24:076][761]LogSlate: Window 'Message Log' being destroyed
 [2026.03.23-13.53.24:089][761]LogSlate: Window 'Message Log' being destroyed
+[2026.03.23-13.54.45:490][410]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 639.692871
+[2026.03.23-13.54.46:487][413]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.23-13.54.46:487][413]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 640.351929, Update Interval: 344.561890
+[2026.03.23-13.55.15:229][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.03.23-13.55.15:231][499]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.029
+[2026.03.23-13.55.15:231][499]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.03.23-13.55.15:232][499]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.03.23-13.55.15:396][499]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C]
+[2026.03.23-13.55.15:431][499]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.03.23-13.55.15:431][499]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2026.03.23-13.55.15:470][499]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto1
+[2026.03.23-13.55.15:471][499]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/BP_FirstPersonCharacter_Auto12AFFBDD1454EB985379F2CB9DC8FA3D2.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto1.uasset'
+[2026.03.23-13.55.15:473][499]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Shop-and-inventory/BP_ShopManager] ([2] browsable assets)...
+[2026.03.23-13.55.15:507][499]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Shop-and-inventory/BP_ShopManager.BP_ShopManager]
+[2026.03.23-13.55.15:507][499]OBJ SavePackage: Finished generating thumbnails for package [/Game/Shop-and-inventory/BP_ShopManager]
+[2026.03.23-13.55.15:545][499]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Shop-and-inventory/BP_ShopManager_Auto1
+[2026.03.23-13.55.15:546][499]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/BP_ShopManager_Auto1EAABE55C4F585F91B1BEA1B9807F0DE8.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/Autosaves/Game/Shop-and-inventory/BP_ShopManager_Auto1.uasset'
+[2026.03.23-13.55.15:547][499]LogFileHelpers: Auto-saving content packages took 0.317
