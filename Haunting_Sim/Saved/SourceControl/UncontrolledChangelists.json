@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Fleddie/Documents/Unreal Projects/Haunting-Sim-Collab/Haunting_Sim/Content/Shop-and-inventory/WBP_InventorySlot.uasset",
+				"C:/Users/Fleddie/Documents/Unreal Projects/Haunting-Sim-Collab/Haunting_Sim/Content/Shop-and-inventory/WBP_TempShopEntry.uasset",
+				"C:/Users/Fleddie/Documents/Unreal Projects/Haunting-Sim-Collab/Haunting_Sim/Content/Shop-and-inventory/BP_ShopManager.uasset",
+				"C:/Users/Fleddie/Documents/Unreal Projects/Haunting-Sim-Collab/Haunting_Sim/Content/PlaceHolderTrap/BP_BaseTrap.uasset",
+				"C:/Users/Fleddie/Documents/Unreal Projects/Haunting-Sim-Collab/Haunting_Sim/Content/Abilities/BP_AbilityTrapMaster.uasset",
 				"C:/Users/Owen Burley/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/placement_system/bpc_placement_system.uasset",
 				"C:/Users/Owen Burley/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Shop-and-inventory/BP_InventoryManager.uasset",
 				"C:/Users/Owen Burley/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Shop-and-inventory/WBP_TempHUD.uasset",
