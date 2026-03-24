@@ -46,11 +46,11 @@ SourceArt/**/*.png
 SourceArt/**/*.tga
 
 # Binary Files
-Binaries/*
-Plugins/**/Binaries/*
+Haunting-Sim-Collab/Binaries/*
+Haunting-Sim-Collab/Plugins/**/Binaries/*
 
 # Builds
-Build/*
+Haunting-Sim-Collab/Build/*
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
