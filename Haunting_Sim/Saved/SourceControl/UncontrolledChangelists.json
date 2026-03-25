@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/c017376n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/PlaceHolderTrap/BP_BaseTrap.uasset",
+				"C:/Users/c017376n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Shop-and-inventory/BP_ShopManager.uasset",
+				"C:/Users/c017376n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/UI/ShopUI/WBP_shopui.uasset",
 				"C:/Users/f019230n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/UI/WBP_MainHud.uasset",
 				"C:/Users/f019230n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/UI/WBP_PauseMenu.uasset",
 				"C:/Users/f019230n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/UI/MainMenu/lvl_MainMenu.umap",
