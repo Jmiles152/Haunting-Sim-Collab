@@ -2809,3 +2809,235 @@ Could not find material nodes in template to connect outputs :
 [2026.04.09-11.54.30:671][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
 [2026.04.09-11.54.30:688][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
 [2026.04.09-11.54.30:706][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.04.09-11.58.41:010][181]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4011.033691
+[2026.04.09-11.58.42:009][184]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.09-11.58.42:009][184]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4011.699463, Update Interval: 353.404327
+[2026.04.09-12.03.01:052][  9]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.09-12.03.01:229][  9]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/D3/OGS7JSVSKYMWGEHBPITAH7
+[2026.04.09-12.03.01:229][  9]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/OGS7JSVSKYMWGEHBPITAH7BE3266D6495DB78B30FA9FAF05963215.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/D3/OGS7JSVSKYMWGEHBPITAH7.uasset'
+[2026.04.09-12.03.01:241][  9]LogFileHelpers: InternalPromptForCheckoutAndSave took 188.886 ms (total: 647.782 ms)
+[2026.04.09-12.03.01:303][  9]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.09-12.03.01:303][  9]LogContentValidation: Enabled validators:
+[2026.04.09-12.03.01:303][  9]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.09-12.03.01:303][  9]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.09-12.03.01:303][  9]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.09-12.03.01:303][  9]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.09-12.03.01:303][  9]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.09-12.03.01:303][  9]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.09-12.03.01:303][  9]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2026.04.09-12.04.26:057][602]LogWindows: LaunchURL https://www.substance3d.com/
+[2026.04.09-12.04.54:856][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.04.09-12.04.54:859][952]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.026
+[2026.04.09-12.04.54:860][952]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_MAT] ([1] browsable assets)...
+[2026.04.09-12.04.54:970][952]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_MAT.Pencil_Stripe_Print_Fabric_MAT]
+[2026.04.09-12.04.54:970][952]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_MAT]
+[2026.04.09-12.04.54:979][952]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_MAT_Auto3
+[2026.04.09-12.04.54:979][952]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Pencil_Stripe_Print_Fabric_MAT_AD4060E3B4941E00BB98752AC46675850.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Autosaves/Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_MAT_Auto3.uasset'
+[2026.04.09-12.04.54:980][952]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/Materials/pencil_stripe_print_fabric] ([1] browsable assets)...
+[2026.04.09-12.04.54:980][952]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/Materials/pencil_stripe_print_fabric]
+[2026.04.09-12.04.54:989][952]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Environment/Materials/Materials/pencil_stripe_print_fabric_Auto3
+[2026.04.09-12.04.54:989][952]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/pencil_stripe_print_fabric_Auto378D1165A4F419D62E546D68F97F086C0.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Autosaves/Game/Art/Environment/Materials/Materials/pencil_stripe_print_fabric_Auto3.uasset'
+[2026.04.09-12.04.54:990][952]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST] ([1] browsable assets)...
+[2026.04.09-12.04.54:990][952]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST]
+[2026.04.09-12.04.54:998][952]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST_Auto3
+[2026.04.09-12.04.54:998][952]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Pencil_Stripe_Print_Fabric_INST_F813600E4E8A2342DD6B74A30B56CC9F.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Autosaves/Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST_Auto3.uasset'
+[2026.04.09-12.04.55:000][952]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST_metallic] ([1] browsable assets)...
+[2026.04.09-12.04.55:003][952]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST_metallic.Pencil_Stripe_Print_Fabric_INST_metallic]
+[2026.04.09-12.04.55:003][952]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST_metallic]
+[2026.04.09-12.04.55:142][952]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST_metallic_Auto3
+[2026.04.09-12.04.55:142][952]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Pencil_Stripe_Print_Fabric_INST_160279FF49F71F8DBED79A92AA7C786D.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Autosaves/Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST_metallic_Auto3.uasset'
+[2026.04.09-12.04.55:143][952]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST_basecolor] ([1] browsable assets)...
+[2026.04.09-12.04.55:146][952]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST_basecolor.Pencil_Stripe_Print_Fabric_INST_basecolor]
+[2026.04.09-12.04.55:146][952]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST_basecolor]
+[2026.04.09-12.04.55:282][952]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST_basecolor_Auto3
+[2026.04.09-12.04.55:282][952]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Pencil_Stripe_Print_Fabric_INST_468606274501F71DEDE5F2BA88A45FD5.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Autosaves/Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST_basecolor_Auto3.uasset'
+[2026.04.09-12.04.55:283][952]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST_normal] ([1] browsable assets)...
+[2026.04.09-12.04.55:286][952]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST_normal.Pencil_Stripe_Print_Fabric_INST_normal]
+[2026.04.09-12.04.55:286][952]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST_normal]
+[2026.04.09-12.04.55:424][952]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST_normal_Auto3
+[2026.04.09-12.04.55:424][952]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Pencil_Stripe_Print_Fabric_INST_9EEB3A6B4A50E6D04FC9ADAEAE7E5EE6.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Autosaves/Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST_normal_Auto3.uasset'
+[2026.04.09-12.04.55:425][952]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST_roughness] ([1] browsable assets)...
+[2026.04.09-12.04.55:428][952]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST_roughness.Pencil_Stripe_Print_Fabric_INST_roughness]
+[2026.04.09-12.04.55:428][952]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST_roughness]
+[2026.04.09-12.04.55:564][952]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST_roughness_Auto3
+[2026.04.09-12.04.55:564][952]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Pencil_Stripe_Print_Fabric_INST_DEC7100E406C37F6460DFB9831404506.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Autosaves/Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST_roughness_Auto3.uasset'
+[2026.04.09-12.04.55:565][952]LogFileHelpers: Auto-saving content packages took 0.705
+[2026.04.09-12.05.31:610][ 61]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4421.635742
+[2026.04.09-12.05.32:610][ 64]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.09-12.05.32:610][ 64]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4422.301758, Update Interval: 343.723267
+[2026.04.09-12.05.47:277][109]LogSlate: Window 'Plugins' being destroyed
+[2026.04.09-12.05.47:302][109]LogSlate: Window 'Plugins' being destroyed
+[2026.04.09-12.05.53:596][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.04.09-12.05.54:752][340]LogSlate: Window 'Save Content' being destroyed
+[2026.04.09-12.05.54:768][340]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.09-12.05.54:818][340]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Env_Parts/Stairs/Hallway_Walls] ([1] browsable assets)...
+[2026.04.09-12.05.54:819][340]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Env_Parts/Stairs/Hallway_Walls]
+[2026.04.09-12.05.54:831][340]LogSavePackage: Moving output files for package: /Game/Art/Environment/Env_Parts/Stairs/Hallway_Walls
+[2026.04.09-12.05.54:831][340]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Hallway_Walls1DC1426F4CA35181FC2F399E0F1C31A4.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Env_Parts/Stairs/Hallway_Walls.uasset'
+[2026.04.09-12.05.54:832][340]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST] ([1] browsable assets)...
+[2026.04.09-12.05.54:832][340]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST]
+[2026.04.09-12.05.54:838][340]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST
+[2026.04.09-12.05.54:838][340]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Pencil_Stripe_Print_Fabric_INST1AAEB0F6424C09B8D3654C916378F9E2.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST.uasset'
+[2026.04.09-12.05.54:839][340]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST_basecolor] ([1] browsable assets)...
+[2026.04.09-12.05.54:840][340]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST_basecolor]
+[2026.04.09-12.05.54:905][340]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST_basecolor
+[2026.04.09-12.05.54:905][340]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Pencil_Stripe_Print_Fabric_INST_CFFCF33B422BA3D6F8D08AB4BFF4BBDA.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST_basecolor.uasset'
+[2026.04.09-12.05.54:907][340]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST_metallic] ([1] browsable assets)...
+[2026.04.09-12.05.54:907][340]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST_metallic]
+[2026.04.09-12.05.54:920][340]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST_metallic
+[2026.04.09-12.05.54:920][340]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Pencil_Stripe_Print_Fabric_INST_CC60F99B49E11CB09006CBBB9846DBC0.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST_metallic.uasset'
+[2026.04.09-12.05.54:921][340]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST_normal] ([1] browsable assets)...
+[2026.04.09-12.05.54:921][340]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST_normal]
+[2026.04.09-12.05.55:016][340]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST_normal
+[2026.04.09-12.05.55:016][340]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Pencil_Stripe_Print_Fabric_INST_41CBB62F42CE5EC9265B9B99053C78F5.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST_normal.uasset'
+[2026.04.09-12.05.55:020][340]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST_roughness] ([1] browsable assets)...
+[2026.04.09-12.05.55:020][340]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST_roughness]
+[2026.04.09-12.05.55:034][340]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST_roughness
+[2026.04.09-12.05.55:034][340]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Pencil_Stripe_Print_Fabric_INST_53CC30614FEA395BF7718E956CAD5F56.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST_roughness.uasset'
+[2026.04.09-12.05.55:035][340]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_MAT] ([1] browsable assets)...
+[2026.04.09-12.05.55:035][340]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_MAT]
+[2026.04.09-12.05.55:042][340]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_MAT
+[2026.04.09-12.05.55:042][340]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Pencil_Stripe_Print_Fabric_MATA0B5213C45D40F5FE661359E9F6876BB.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_MAT.uasset'
+[2026.04.09-12.05.55:043][340]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Env_Parts/Stairs/SM_Hallway_Stairs] ([1] browsable assets)...
+[2026.04.09-12.05.55:043][340]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Env_Parts/Stairs/SM_Hallway_Stairs]
+[2026.04.09-12.05.55:063][340]LogSavePackage: Moving output files for package: /Game/Art/Environment/Env_Parts/Stairs/SM_Hallway_Stairs
+[2026.04.09-12.05.55:063][340]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/SM_Hallway_Stairs7829353146D2ED1C836AE2B4D79F2C15.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Env_Parts/Stairs/SM_Hallway_Stairs.uasset'
+[2026.04.09-12.05.55:064][340]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/SM_Inner_Walls_Final] ([1] browsable assets)...
+[2026.04.09-12.05.55:064][340]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/SM_Inner_Walls_Final]
+[2026.04.09-12.05.55:083][340]LogSavePackage: Moving output files for package: /Game/Art/Environment/SM_Inner_Walls_Final
+[2026.04.09-12.05.55:084][340]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/SM_Inner_Walls_Final55E12CE54328FEBE2AD379A90E79577C.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/SM_Inner_Walls_Final.uasset'
+[2026.04.09-12.05.55:085][340]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Env_Parts/Stairs/Textures/Stairs_BaseColor] ([1] browsable assets)...
+[2026.04.09-12.05.55:085][340]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Env_Parts/Stairs/Textures/Stairs_BaseColor]
+[2026.04.09-12.05.55:232][340]LogSavePackage: Moving output files for package: /Game/Art/Environment/Env_Parts/Stairs/Textures/Stairs_BaseColor
+[2026.04.09-12.05.55:232][340]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Stairs_BaseColor17AD66D949429FDDEDAD9D805CDFE4E3.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Env_Parts/Stairs/Textures/Stairs_BaseColor.uasset'
+[2026.04.09-12.05.55:234][340]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Env_Parts/Stairs/Textures/Stairs_Carpet_BaseColor] ([1] browsable assets)...
+[2026.04.09-12.05.55:234][340]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Env_Parts/Stairs/Textures/Stairs_Carpet_BaseColor]
+[2026.04.09-12.05.55:272][340]LogSavePackage: Moving output files for package: /Game/Art/Environment/Env_Parts/Stairs/Textures/Stairs_Carpet_BaseColor
+[2026.04.09-12.05.55:272][340]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Stairs_Carpet_BaseColorB95EAC7C45EA628ABCB944B074F31523.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Env_Parts/Stairs/Textures/Stairs_Carpet_BaseColor.uasset'
+[2026.04.09-12.05.55:274][340]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Env_Parts/Stairs/Textures/Stairs_Carpet_Normal] ([1] browsable assets)...
+[2026.04.09-12.05.55:274][340]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Env_Parts/Stairs/Textures/Stairs_Carpet_Normal]
+[2026.04.09-12.05.55:333][340]LogSavePackage: Moving output files for package: /Game/Art/Environment/Env_Parts/Stairs/Textures/Stairs_Carpet_Normal
+[2026.04.09-12.05.55:333][340]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Stairs_Carpet_Normal501BD1B94B5BAA41E70641A2394D85BC.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Env_Parts/Stairs/Textures/Stairs_Carpet_Normal.uasset'
+[2026.04.09-12.05.55:335][340]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Env_Parts/Stairs/Textures/Stairs_Carpet_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2026.04.09-12.05.55:335][340]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Env_Parts/Stairs/Textures/Stairs_Carpet_OcclusionRoughnessMetallic]
+[2026.04.09-12.05.55:387][340]LogSavePackage: Moving output files for package: /Game/Art/Environment/Env_Parts/Stairs/Textures/Stairs_Carpet_OcclusionRoughnessMetallic
+[2026.04.09-12.05.55:387][340]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Stairs_Carpet_OcclusionRoughness178C445C47E07301EFBD25A535ABBA98.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Env_Parts/Stairs/Textures/Stairs_Carpet_OcclusionRoughnessMetallic.uasset'
+[2026.04.09-12.05.55:389][340]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Env_Parts/Stairs/Textures/Stairs_Normal] ([1] browsable assets)...
+[2026.04.09-12.05.55:389][340]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Env_Parts/Stairs/Textures/Stairs_Normal]
+[2026.04.09-12.05.55:514][340]LogSavePackage: Moving output files for package: /Game/Art/Environment/Env_Parts/Stairs/Textures/Stairs_Normal
+[2026.04.09-12.05.55:514][340]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Stairs_Normal746FED7C4EE7AD9EC0C0D79449EC7D5E.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Env_Parts/Stairs/Textures/Stairs_Normal.uasset'
+[2026.04.09-12.05.55:516][340]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Env_Parts/Stairs/Textures/Stairs_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2026.04.09-12.05.55:516][340]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Env_Parts/Stairs/Textures/Stairs_OcclusionRoughnessMetallic]
+[2026.04.09-12.05.55:552][340]LogSavePackage: Moving output files for package: /Game/Art/Environment/Env_Parts/Stairs/Textures/Stairs_OcclusionRoughnessMetallic
+[2026.04.09-12.05.55:552][340]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Stairs_OcclusionRoughnessMetalli45481712499629FAE8CFA5A885A23DF7.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Env_Parts/Stairs/Textures/Stairs_OcclusionRoughnessMetallic.uasset'
+[2026.04.09-12.05.55:553][340]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Env_Parts/Stairs/Textures/Stairs_Railings_BaseColor] ([1] browsable assets)...
+[2026.04.09-12.05.55:553][340]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Env_Parts/Stairs/Textures/Stairs_Railings_BaseColor]
+[2026.04.09-12.05.55:591][340]LogSavePackage: Moving output files for package: /Game/Art/Environment/Env_Parts/Stairs/Textures/Stairs_Railings_BaseColor
+[2026.04.09-12.05.55:591][340]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Stairs_Railings_BaseColor0976DE7049DE754C6A9E9B8D5C7C3462.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Env_Parts/Stairs/Textures/Stairs_Railings_BaseColor.uasset'
+[2026.04.09-12.05.55:592][340]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Env_Parts/Stairs/Textures/Stairs_Railings_Normal] ([1] browsable assets)...
+[2026.04.09-12.05.55:592][340]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Env_Parts/Stairs/Textures/Stairs_Railings_Normal]
+[2026.04.09-12.05.55:626][340]LogSavePackage: Moving output files for package: /Game/Art/Environment/Env_Parts/Stairs/Textures/Stairs_Railings_Normal
+[2026.04.09-12.05.55:626][340]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Stairs_Railings_NormalB03632C6494D36F93D677E9C5822B273.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Env_Parts/Stairs/Textures/Stairs_Railings_Normal.uasset'
+[2026.04.09-12.05.55:627][340]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Env_Parts/Stairs/Textures/Stairs_Railings_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2026.04.09-12.05.55:627][340]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Env_Parts/Stairs/Textures/Stairs_Railings_OcclusionRoughnessMetallic]
+[2026.04.09-12.05.55:656][340]LogSavePackage: Moving output files for package: /Game/Art/Environment/Env_Parts/Stairs/Textures/Stairs_Railings_OcclusionRoughnessMetallic
+[2026.04.09-12.05.55:656][340]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Stairs_Railings_OcclusionRoughne729B3346425A02963E68F2898B67C8E8.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Env_Parts/Stairs/Textures/Stairs_Railings_OcclusionRoughnessMetallic.uasset'
+[2026.04.09-12.05.55:657][340]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/Materials/pencil_stripe_print_fabric] ([1] browsable assets)...
+[2026.04.09-12.05.55:657][340]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/Materials/pencil_stripe_print_fabric]
+[2026.04.09-12.05.55:664][340]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/Materials/pencil_stripe_print_fabric
+[2026.04.09-12.05.55:664][340]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/pencil_stripe_print_fabric78DC9026403587A5B68CD1AC539EB348.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/Materials/pencil_stripe_print_fabric.uasset'
+[2026.04.09-12.05.55:672][340]LogFileHelpers: InternalPromptForCheckoutAndSave took 903.923 ms (total: 1.55 sec)
+[2026.04.09-12.05.55:770][340]LogStall: Shutdown...
+[2026.04.09-12.05.55:771][340]LogStall: Shutdown complete.
+[2026.04.09-12.05.55:853][340]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.04.09-12.05.55:853][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.09-12.05.55:934][340]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.04.09-12.05.55:934][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.09-12.05.55:982][340]LogSlate: Window 'Stairs_Railings' being destroyed
+[2026.04.09-12.05.56:011][340]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.04.09-12.05.56:011][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.09-12.05.56:089][340]LogSlate: Window 'Haunting_Sim - Unreal Editor' being destroyed
+[2026.04.09-12.05.56:218][340]LogContentValidation: Display: Starting to validate 19 assets
+[2026.04.09-12.05.56:218][340]LogContentValidation: Enabled validators:
+[2026.04.09-12.05.56:218][340]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.09-12.05.56:218][340]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.09-12.05.56:218][340]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.09-12.05.56:218][340]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.09-12.05.56:218][340]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.09-12.05.56:218][340]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.09-12.05.56:218][340]AssetCheck: /Game/Art/Environment/Env_Parts/Stairs/Hallway_Walls Validating asset
+[2026.04.09-12.05.56:218][340]AssetCheck: /Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST Validating asset
+[2026.04.09-12.05.56:218][340]AssetCheck: /Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST_basecolor Validating asset
+[2026.04.09-12.05.56:218][340]AssetCheck: /Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST_metallic Validating asset
+[2026.04.09-12.05.56:218][340]AssetCheck: /Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST_normal Validating asset
+[2026.04.09-12.05.56:218][340]AssetCheck: /Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST_roughness Validating asset
+[2026.04.09-12.05.56:219][340]AssetCheck: /Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_MAT Validating asset
+[2026.04.09-12.05.56:219][340]AssetCheck: /Game/Art/Environment/Env_Parts/Stairs/SM_Hallway_Stairs Validating asset
+[2026.04.09-12.05.56:219][340]AssetCheck: /Game/Art/Environment/SM_Inner_Walls_Final Validating asset
+[2026.04.09-12.05.56:219][340]AssetCheck: /Game/Art/Environment/Env_Parts/Stairs/Textures/Stairs_BaseColor Validating asset
+[2026.04.09-12.05.56:219][340]AssetCheck: /Game/Art/Environment/Env_Parts/Stairs/Textures/Stairs_Carpet_BaseColor Validating asset
+[2026.04.09-12.05.56:219][340]AssetCheck: /Game/Art/Environment/Env_Parts/Stairs/Textures/Stairs_Carpet_Normal Validating asset
+[2026.04.09-12.05.56:219][340]AssetCheck: /Game/Art/Environment/Env_Parts/Stairs/Textures/Stairs_Carpet_OcclusionRoughnessMetallic Validating asset
+[2026.04.09-12.05.56:219][340]AssetCheck: /Game/Art/Environment/Env_Parts/Stairs/Textures/Stairs_Normal Validating asset
+[2026.04.09-12.05.56:219][340]AssetCheck: /Game/Art/Environment/Env_Parts/Stairs/Textures/Stairs_OcclusionRoughnessMetallic Validating asset
+[2026.04.09-12.05.56:219][340]AssetCheck: /Game/Art/Environment/Env_Parts/Stairs/Textures/Stairs_Railings_BaseColor Validating asset
+[2026.04.09-12.05.56:219][340]AssetCheck: /Game/Art/Environment/Env_Parts/Stairs/Textures/Stairs_Railings_Normal Validating asset
+[2026.04.09-12.05.56:219][340]AssetCheck: /Game/Art/Environment/Env_Parts/Stairs/Textures/Stairs_Railings_OcclusionRoughnessMetallic Validating asset
+[2026.04.09-12.05.56:219][340]AssetCheck: /Game/Art/Environment/Materials/Materials/pencil_stripe_print_fabric Validating asset
+[2026.04.09-12.05.56:264][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.04.09-12.05.56:280][340]Cmd: QUIT_EDITOR
+[2026.04.09-12.05.56:280][340]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.04.09-12.05.56:285][340]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.09-12.05.56:295][341]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.04.09-12.05.56:296][341]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.04.09-12.05.56:296][341]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.04.09-12.05.56:297][341]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.04.09-12.05.56:297][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.09-12.05.56:297][341]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson
+[2026.04.09-12.05.56:315][341]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.04.09-12.05.56:316][341]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.04.09-12.05.56:316][341]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.04.09-12.05.56:321][341]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.04.09-12.05.56:321][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.09-12.05.56:322][341]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.04.09-12.05.56:322][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.09-12.05.56:322][341]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.04.09-12.05.56:322][341]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.04.09-12.05.56:324][341]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.04.09-12.05.57:029][341]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.04.09-12.05.57:029][341]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.04.09-12.05.57:029][341]LogAudio: Display: Audio Device unregistered from world 'Lvl_FirstPerson'.
+[2026.04.09-12.05.57:029][341]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.04.09-12.05.57:029][341]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.04.09-12.05.57:033][341]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.04.09-12.05.57:043][341]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.04.09-12.05.57:043][341]LogAudio: Display: Audio Device Manager Shutdown
+[2026.04.09-12.05.57:044][341]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.04.09-12.05.57:046][341]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.04.09-12.05.57:046][341]LogExit: Preparing to exit.
+[2026.04.09-12.05.57:085][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.04.09-12.05.57:542][341]LogEditorDataStorage: Deinitializing
+[2026.04.09-12.05.57:643][341]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.04.09-12.05.57:671][341]LogExit: Editor shut down
+[2026.04.09-12.05.57:679][341]LogExit: Transaction tracking system shut down
+[2026.04.09-12.05.57:854][341]LogExit: Object subsystem successfully closed.
+[2026.04.09-12.05.57:904][341]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.04.09-12.05.58:011][341]LogMemoryProfiler: Shutdown
+[2026.04.09-12.05.58:011][341]LogNetworkingProfiler: Shutdown
+[2026.04.09-12.05.58:011][341]LoadingProfiler: Shutdown
+[2026.04.09-12.05.58:011][341]LogTimingProfiler: Shutdown
+[2026.04.09-12.05.58:011][341]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.04.09-12.05.58:011][341]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.04.09-12.05.58:414][341]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.04.09-12.05.58:455][341]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.04.09-12.05.58:455][341]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7449D56A-480E-C075-BF42-A98DA01C8A8F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=45672cca4e1b0827b17ccfbaa90d7168%7Cbe7c0345336640a9bd1c11c88e3fb84c%7Cef466b60-fce9-4cd9-a459-79d11687d7a6&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.04.09-12.05.59:009][341]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.04.09-12.05.59:009][341]LogNFORDenoise: NFORDenoise function shutting down
+[2026.04.09-12.05.59:009][341]RenderDocPlugin: plugin has been unloaded.
+[2026.04.09-12.05.59:009][341]LogXGEController: Cleaning working directory: C:/Users/capra/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.04.09-12.05.59:012][341]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.04.09-12.05.59:012][341]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.04.09-12.05.59:012][341]LogPakFile: Destroying PakPlatformFile
+[2026.04.09-12.05.59:398][341]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.04.09-12.05.59:443][341]LogExit: Exiting.
+[2026.04.09-12.05.59:473][341]Log file closed, 04/09/26 13:05:59
