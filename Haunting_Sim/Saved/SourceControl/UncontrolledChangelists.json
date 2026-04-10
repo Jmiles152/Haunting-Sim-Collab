@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Administrator/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/UI/WBP_PauseMenu.uasset",
+				"C:/Users/Administrator/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/UI/WBP_OptionsMenu.uasset",
 				"C:/Users/User/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/placement_system/Backupplacement.uasset",
 				"C:/Users/User/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Shop-and-inventory/BP_ShopManager.uasset",
 				"C:/Users/User/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Shop-and-inventory/BP_ResetInventory.uasset",
