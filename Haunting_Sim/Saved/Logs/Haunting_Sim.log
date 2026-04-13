@@ -6166,3 +6166,354 @@ Sampler Limit: 32
 [2026.04.13-09.41.10:732][325]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.04.13-09.41.10:734][325]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
 [2026.04.13-09.41.10:781][325]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.13-09.41.45:027][713]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.13-09.41.45:104][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.04.13-09.41.45:124][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.04.13-09.41.45:143][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.04.13-09.41.45:157][713]LogFileHelpers: InternalPromptForCheckoutAndSave took 129.866 ms (total: 1.73 sec)
+[2026.04.13-09.41.46:619][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.04.13-09.41.46:620][873]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.020
+[2026.04.13-09.41.46:621][873]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Props/DoorMat/textures/LP_Mat_DefaultMaterial_BaseColor] ([1] browsable assets)...
+[2026.04.13-09.41.46:623][873]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Props/DoorMat/textures/LP_Mat_DefaultMaterial_BaseColor.LP_Mat_DefaultMaterial_BaseColor]
+[2026.04.13-09.41.46:623][873]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Props/DoorMat/textures/LP_Mat_DefaultMaterial_BaseColor]
+[2026.04.13-09.41.46:656][873]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Props/DoorMat/textures/LP_Mat_DefaultMaterial_BaseColor_Auto3
+[2026.04.13-09.41.46:656][873]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/LP_Mat_DefaultMaterial_BaseColor56374D284B4DDD2BEDFEC0B5BD90F34E.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Autosaves/Game/Art/Props/DoorMat/textures/LP_Mat_DefaultMaterial_BaseColor_Auto3.uasset'
+[2026.04.13-09.41.46:657][873]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Props/DoorMat/textures/LP_Mat_DefaultMaterial_Normal] ([1] browsable assets)...
+[2026.04.13-09.41.46:659][873]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Props/DoorMat/textures/LP_Mat_DefaultMaterial_Normal.LP_Mat_DefaultMaterial_Normal]
+[2026.04.13-09.41.46:659][873]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Props/DoorMat/textures/LP_Mat_DefaultMaterial_Normal]
+[2026.04.13-09.41.46:690][873]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Props/DoorMat/textures/LP_Mat_DefaultMaterial_Normal_Auto3
+[2026.04.13-09.41.46:690][873]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/LP_Mat_DefaultMaterial_Normal_AuA58B375D4D4F17D0B64C4CA815A46913.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Autosaves/Game/Art/Props/DoorMat/textures/LP_Mat_DefaultMaterial_Normal_Auto3.uasset'
+[2026.04.13-09.41.46:691][873]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Props/DoorMat/textures/LP_Mat_DefaultMaterial_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2026.04.13-09.41.46:693][873]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Props/DoorMat/textures/LP_Mat_DefaultMaterial_OcclusionRoughnessMetallic.LP_Mat_DefaultMaterial_OcclusionRoughnessMetallic]
+[2026.04.13-09.41.46:693][873]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Props/DoorMat/textures/LP_Mat_DefaultMaterial_OcclusionRoughnessMetallic]
+[2026.04.13-09.41.46:725][873]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Props/DoorMat/textures/LP_Mat_DefaultMaterial_OcclusionRoughnessMetallic_Auto3
+[2026.04.13-09.41.46:725][873]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/LP_Mat_DefaultMaterial_OcclusionCDF1999C47E837AF67E7BE9DA9186BFD.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Autosaves/Game/Art/Props/DoorMat/textures/LP_Mat_DefaultMaterial_OcclusionRoughnessMetallic_Auto3.uasset'
+[2026.04.13-09.41.46:726][873]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Props/MonsteraPlant/M_MonsteraPlant] ([1] browsable assets)...
+[2026.04.13-09.41.46:751][873]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Art/Props/MonsteraPlant/M_MonsteraPlant.M_MonsteraPlant]
+[2026.04.13-09.41.46:751][873]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Props/MonsteraPlant/M_MonsteraPlant]
+[2026.04.13-09.41.46:761][873]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Props/MonsteraPlant/M_MonsteraPlant_Auto3
+[2026.04.13-09.41.46:761][873]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/M_MonsteraPlant_Auto30AC796D4475B9FAA09B451B4E4BA6F2A.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Autosaves/Game/Art/Props/MonsteraPlant/M_MonsteraPlant_Auto3.uasset'
+[2026.04.13-09.41.46:762][873]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Props/MonsteraPlant/Monstera_Plant] ([1] browsable assets)...
+[2026.04.13-09.41.47:056][873]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/Props/MonsteraPlant/Monstera_Plant.Monstera_Plant]
+[2026.04.13-09.41.47:056][873]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Props/MonsteraPlant/Monstera_Plant]
+[2026.04.13-09.41.47:069][873]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Props/MonsteraPlant/Monstera_Plant_Auto3
+[2026.04.13-09.41.47:069][873]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Monstera_Plant_Auto3259E380D4B33EA69CE0FF3BE6CA5B103.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Autosaves/Game/Art/Props/MonsteraPlant/Monstera_Plant_Auto3.uasset'
+[2026.04.13-09.41.47:071][873]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Props/MonsteraPlant/textures/Monstera_Plant_Material__46_Normal] ([1] browsable assets)...
+[2026.04.13-09.41.47:072][873]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Props/MonsteraPlant/textures/Monstera_Plant_Material__46_Normal.Monstera_Plant_Material__46_Normal]
+[2026.04.13-09.41.47:073][873]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Props/MonsteraPlant/textures/Monstera_Plant_Material__46_Normal]
+[2026.04.13-09.41.47:182][873]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Props/MonsteraPlant/textures/Monstera_Plant_Material__46_Normal_Auto3
+[2026.04.13-09.41.47:182][873]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Monstera_Plant_Material__46_Norm70CEA0C84B1D327719643C8D57CB460F.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Autosaves/Game/Art/Props/MonsteraPlant/textures/Monstera_Plant_Material__46_Normal_Auto3.uasset'
+[2026.04.13-09.41.47:184][873]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Props/MonsteraPlant/textures/Monstera_Plant_Material__46_Roughness] ([1] browsable assets)...
+[2026.04.13-09.41.47:185][873]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Props/MonsteraPlant/textures/Monstera_Plant_Material__46_Roughness.Monstera_Plant_Material__46_Roughness]
+[2026.04.13-09.41.47:185][873]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Props/MonsteraPlant/textures/Monstera_Plant_Material__46_Roughness]
+[2026.04.13-09.41.47:217][873]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Props/MonsteraPlant/textures/Monstera_Plant_Material__46_Roughness_Auto3
+[2026.04.13-09.41.47:217][873]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Monstera_Plant_Material__46_Roug697986F84500D60E1CDD08931248B243.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Autosaves/Game/Art/Props/MonsteraPlant/textures/Monstera_Plant_Material__46_Roughness_Auto3.uasset'
+[2026.04.13-09.41.47:218][873]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Props/MonsteraPlant/textures/Monstera-plant_OPACITY] ([1] browsable assets)...
+[2026.04.13-09.41.47:220][873]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Props/MonsteraPlant/textures/Monstera-plant_OPACITY.Monstera-plant_OPACITY]
+[2026.04.13-09.41.47:220][873]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Props/MonsteraPlant/textures/Monstera-plant_OPACITY]
+[2026.04.13-09.41.47:254][873]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Props/MonsteraPlant/textures/Monstera-plant_OPACITY_Auto3
+[2026.04.13-09.41.47:254][873]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Monstera-plant_OPACITY_Auto35777EF5C43D6848E27B6DABB661518CA.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Autosaves/Game/Art/Props/MonsteraPlant/textures/Monstera-plant_OPACITY_Auto3.uasset'
+[2026.04.13-09.41.47:255][873]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Props/MonsteraPlant/textures/Monstera_Plant_Material__46_BaseColor] ([1] browsable assets)...
+[2026.04.13-09.41.47:256][873]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Props/MonsteraPlant/textures/Monstera_Plant_Material__46_BaseColor.Monstera_Plant_Material__46_BaseColor]
+[2026.04.13-09.41.47:256][873]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Props/MonsteraPlant/textures/Monstera_Plant_Material__46_BaseColor]
+[2026.04.13-09.41.47:361][873]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Props/MonsteraPlant/textures/Monstera_Plant_Material__46_BaseColor_Auto3
+[2026.04.13-09.41.47:361][873]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Monstera_Plant_Material__46_BaseA6EFF06B4CE0FFD87D919BA2F386E8E6.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Autosaves/Game/Art/Props/MonsteraPlant/textures/Monstera_Plant_Material__46_BaseColor_Auto3.uasset'
+[2026.04.13-09.41.47:363][873]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Props/MonsteraPlant/textures/Monstera_Plant_Material__46_Height] ([1] browsable assets)...
+[2026.04.13-09.41.47:364][873]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Props/MonsteraPlant/textures/Monstera_Plant_Material__46_Height.Monstera_Plant_Material__46_Height]
+[2026.04.13-09.41.47:364][873]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Props/MonsteraPlant/textures/Monstera_Plant_Material__46_Height]
+[2026.04.13-09.41.47:396][873]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Props/MonsteraPlant/textures/Monstera_Plant_Material__46_Height_Auto3
+[2026.04.13-09.41.47:396][873]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Monstera_Plant_Material__46_HeigEE2671284FC3BBC110ED5582E107B870.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Autosaves/Game/Art/Props/MonsteraPlant/textures/Monstera_Plant_Material__46_Height_Auto3.uasset'
+[2026.04.13-09.41.47:398][873]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Props/Sofa/textures/sofa_DefaultMaterial_BaseColor] ([1] browsable assets)...
+[2026.04.13-09.41.47:400][873]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Props/Sofa/textures/sofa_DefaultMaterial_BaseColor.sofa_DefaultMaterial_BaseColor]
+[2026.04.13-09.41.47:400][873]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Props/Sofa/textures/sofa_DefaultMaterial_BaseColor]
+[2026.04.13-09.41.47:504][873]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Props/Sofa/textures/sofa_DefaultMaterial_BaseColor_Auto3
+[2026.04.13-09.41.47:504][873]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/sofa_DefaultMaterial_BaseColor_AECA4B4F64E4446696AED2C9918371051.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Autosaves/Game/Art/Props/Sofa/textures/sofa_DefaultMaterial_BaseColor_Auto3.uasset'
+[2026.04.13-09.41.47:506][873]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Props/Sofa/textures/sofa_DefaultMaterial_Normal] ([1] browsable assets)...
+[2026.04.13-09.41.47:507][873]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Props/Sofa/textures/sofa_DefaultMaterial_Normal.sofa_DefaultMaterial_Normal]
+[2026.04.13-09.41.47:507][873]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Props/Sofa/textures/sofa_DefaultMaterial_Normal]
+[2026.04.13-09.41.47:613][873]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Props/Sofa/textures/sofa_DefaultMaterial_Normal_Auto3
+[2026.04.13-09.41.47:613][873]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/sofa_DefaultMaterial_Normal_Auto60C477F84787F36F9651399A8C70C498.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Autosaves/Game/Art/Props/Sofa/textures/sofa_DefaultMaterial_Normal_Auto3.uasset'
+[2026.04.13-09.41.47:614][873]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Props/Sofa/textures/sofa_DefaultMaterial_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2026.04.13-09.41.47:615][873]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Props/Sofa/textures/sofa_DefaultMaterial_OcclusionRoughnessMetallic.sofa_DefaultMaterial_OcclusionRoughnessMetallic]
+[2026.04.13-09.41.47:615][873]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Props/Sofa/textures/sofa_DefaultMaterial_OcclusionRoughnessMetallic]
+[2026.04.13-09.41.47:724][873]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Props/Sofa/textures/sofa_DefaultMaterial_OcclusionRoughnessMetallic_Auto3
+[2026.04.13-09.41.47:724][873]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/sofa_DefaultMaterial_OcclusionRoBF02D38848921AFBE1646092FDC41A6C.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Autosaves/Game/Art/Props/Sofa/textures/sofa_DefaultMaterial_OcclusionRoughnessMetallic_Auto3.uasset'
+[2026.04.13-09.41.47:726][873]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Props/Sofa/M_Sofa] ([1] browsable assets)...
+[2026.04.13-09.41.47:726][873]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Props/Sofa/M_Sofa]
+[2026.04.13-09.41.47:732][873]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Props/Sofa/M_Sofa_Auto3
+[2026.04.13-09.41.47:732][873]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/M_Sofa_Auto3D55A2B1A4BA8D47862F79E918A596CEE.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Autosaves/Game/Art/Props/Sofa/M_Sofa_Auto3.uasset'
+[2026.04.13-09.41.47:733][873]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Props/TV/SM_TV] ([1] browsable assets)...
+[2026.04.13-09.41.47:739][873]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/Props/TV/SM_TV.SM_TV]
+[2026.04.13-09.41.47:739][873]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Props/TV/SM_TV]
+[2026.04.13-09.41.47:751][873]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Props/TV/SM_TV_Auto3
+[2026.04.13-09.41.47:751][873]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/SM_TV_Auto3A3DD713F408C708A0C7A8FA65F3FCCD7.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Autosaves/Game/Art/Props/TV/SM_TV_Auto3.uasset'
+[2026.04.13-09.41.47:753][873]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Props/TV/textures/tv_screenTV_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2026.04.13-09.41.47:754][873]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Props/TV/textures/tv_screenTV_OcclusionRoughnessMetallic.tv_screenTV_OcclusionRoughnessMetallic]
+[2026.04.13-09.41.47:754][873]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Props/TV/textures/tv_screenTV_OcclusionRoughnessMetallic]
+[2026.04.13-09.41.47:860][873]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Props/TV/textures/tv_screenTV_OcclusionRoughnessMetallic_Auto3
+[2026.04.13-09.41.47:860][873]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/tv_screenTV_OcclusionRoughnessMe618928AC42428E7944BE5EA0A63FA181.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Autosaves/Game/Art/Props/TV/textures/tv_screenTV_OcclusionRoughnessMetallic_Auto3.uasset'
+[2026.04.13-09.41.47:861][873]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Props/TV/textures/tv_baseTV_BaseColor] ([1] browsable assets)...
+[2026.04.13-09.41.47:863][873]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Props/TV/textures/tv_baseTV_BaseColor.tv_baseTV_BaseColor]
+[2026.04.13-09.41.47:863][873]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Props/TV/textures/tv_baseTV_BaseColor]
+[2026.04.13-09.41.47:967][873]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Props/TV/textures/tv_baseTV_BaseColor_Auto3
+[2026.04.13-09.41.47:967][873]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/tv_baseTV_BaseColor_Auto373F6132743F067507B6163B0DF48D771.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Autosaves/Game/Art/Props/TV/textures/tv_baseTV_BaseColor_Auto3.uasset'
+[2026.04.13-09.41.47:968][873]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Props/TV/textures/tv_baseTV_Normal] ([1] browsable assets)...
+[2026.04.13-09.41.47:969][873]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Props/TV/textures/tv_baseTV_Normal.tv_baseTV_Normal]
+[2026.04.13-09.41.47:969][873]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Props/TV/textures/tv_baseTV_Normal]
+[2026.04.13-09.41.48:076][873]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Props/TV/textures/tv_baseTV_Normal_Auto3
+[2026.04.13-09.41.48:076][873]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/tv_baseTV_Normal_Auto3F64A77B144D525D06DAACF9E20611B4A.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Autosaves/Game/Art/Props/TV/textures/tv_baseTV_Normal_Auto3.uasset'
+[2026.04.13-09.41.48:077][873]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Props/TV/textures/tv_baseTV_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2026.04.13-09.41.48:078][873]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Props/TV/textures/tv_baseTV_OcclusionRoughnessMetallic.tv_baseTV_OcclusionRoughnessMetallic]
+[2026.04.13-09.41.48:078][873]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Props/TV/textures/tv_baseTV_OcclusionRoughnessMetallic]
+[2026.04.13-09.41.48:185][873]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Props/TV/textures/tv_baseTV_OcclusionRoughnessMetallic_Auto3
+[2026.04.13-09.41.48:185][873]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/tv_baseTV_OcclusionRoughnessMeta19710AD84546C25DFCB2DA9832B0D416.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Autosaves/Game/Art/Props/TV/textures/tv_baseTV_OcclusionRoughnessMetallic_Auto3.uasset'
+[2026.04.13-09.41.48:186][873]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Props/TV/textures/tv_screenTV_BaseColor] ([1] browsable assets)...
+[2026.04.13-09.41.48:187][873]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Props/TV/textures/tv_screenTV_BaseColor.tv_screenTV_BaseColor]
+[2026.04.13-09.41.48:187][873]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Props/TV/textures/tv_screenTV_BaseColor]
+[2026.04.13-09.41.48:219][873]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Props/TV/textures/tv_screenTV_BaseColor_Auto3
+[2026.04.13-09.41.48:219][873]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/tv_screenTV_BaseColor_Auto3CD03B6904B8020BC6218878DF4815D31.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Autosaves/Game/Art/Props/TV/textures/tv_screenTV_BaseColor_Auto3.uasset'
+[2026.04.13-09.41.48:220][873]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Props/TV/textures/tv_screenTV_Normal] ([1] browsable assets)...
+[2026.04.13-09.41.48:222][873]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Props/TV/textures/tv_screenTV_Normal.tv_screenTV_Normal]
+[2026.04.13-09.41.48:222][873]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Props/TV/textures/tv_screenTV_Normal]
+[2026.04.13-09.41.48:334][873]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Props/TV/textures/tv_screenTV_Normal_Auto3
+[2026.04.13-09.41.48:334][873]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/tv_screenTV_Normal_Auto37AB8FF3043ECDE48DB13338A192F7DD4.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Autosaves/Game/Art/Props/TV/textures/tv_screenTV_Normal_Auto3.uasset'
+[2026.04.13-09.41.48:336][873]LogFileHelpers: Auto-saving content packages took 1.716
+[2026.04.13-09.41.56:046][595]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2059.281738
+[2026.04.13-09.41.56:195][613]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-09.41.56:195][613]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2059.421631, Update Interval: 319.977417
+[2026.04.13-09.42.28:660][ 98]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Props/MonsteraPlant/Monstera_Plant.Monstera_Plant
+[2026.04.13-09.42.28:660][ 98]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Props/MonsteraPlant/Monstera_Plant.Monstera_Plant
+[2026.04.13-09.42.28:661][ 98]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Props/MonsteraPlant/Monstera_Plant.Monstera_Plant as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_2CF05D3659F531D102_1638145833
+[2026.04.13-09.42.29:505][187]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Props/MonsteraPlant/Monstera_Plant.Monstera_Plant
+[2026.04.13-09.42.29:505][187]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Props/MonsteraPlant/Monstera_Plant.Monstera_Plant
+[2026.04.13-09.42.29:508][187]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Props/MonsteraPlant/Monstera_Plant.Monstera_Plant as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_2CF05D3659F531D102_1638990834
+[2026.04.13-09.42.33:220][595]Cmd: DELETE
+[2026.04.13-09.42.33:220][595]Cmd: ACTOR DELETE
+[2026.04.13-09.42.33:227][595]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.13-09.42.33:247][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.04.13-09.42.33:252][595]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2026.04.13-09.44.45:319][319]LogInterchangeEngine: [Pending] Importing
+[2026.04.13-09.44.45:319][319]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/capra/OneDrive - Staffordshire University/COLLAB Stoke_12 - [Assets]/[Props]/Prop - Plants/Monstera_Plant/Monstera_Plant.fbx]
+[2026.04.13-09.44.45:596][324]LogStaticMesh: Display: Building static mesh Monstera_Plant (Required Memory Estimate: 2.184509 MB)...
+[2026.04.13-09.44.45:601][324]LogStaticMesh: Adjacency [0.00s], tris: 1400, UVs 1
+[2026.04.13-09.44.45:605][324]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.04.13-09.44.45:605][324]LogStaticMesh: Leaves [0.00s]
+[2026.04.13-09.44.45:645][324]LogStaticMesh: Reduce [0.04s]
+[2026.04.13-09.44.45:655][324]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Art/Props/MonsteraPlant/Monstera_Plant) ...
+[2026.04.13-09.44.45:670][324]LogStaticMesh: Fallback [0.03s], num tris: 482
+[2026.04.13-09.44.45:674][324]LogStaticMesh: Fallback [0.00s], num tris: 255
+[2026.04.13-09.44.45:674][324]LogStaticMesh: ConstrainClusters:
+[2026.04.13-09.44.45:674][324]LogStaticMesh:   Input: 23 Clusters, 2910 Triangles and 2485 Vertices
+[2026.04.13-09.44.45:674][324]LogStaticMesh:   Output without splits: 23 Clusters, 2910 Triangles and 2495 Vertices
+[2026.04.13-09.44.45:674][324]LogStaticMesh:   Output with splits: 23 Clusters, 2910 Triangles and 2495 Vertices
+[2026.04.13-09.44.45:674][324]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 23, Slow Path Clusters: 0, 1 Material: 23, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.04.13-09.44.45:675][324]LogStaticMesh: WritePages:
+[2026.04.13-09.44.45:675][324]LogStaticMesh:   Root: GPU size: 31924 bytes. 1 Pages. 31924.000 bytes per page (97.424% utilization).
+[2026.04.13-09.44.45:675][324]LogStaticMesh:   Streaming: GPU size: 1332 bytes. 1 Pages (1 with relative encoding). 1332.000 bytes per page (1.016% utilization).
+[2026.04.13-09.44.45:675][324]LogStaticMesh:   Page data disk size: 27512 bytes. Fixup data size: 240 bytes.
+[2026.04.13-09.44.45:675][324]LogStaticMesh:   Total GPU size: 33256 bytes, Total disk size: 27752 bytes.
+[2026.04.13-09.44.45:675][324]LogStaticMesh: Encode [0.00s]
+[2026.04.13-09.44.45:675][324]LogStaticMesh: NaniteBuild [0.07s]
+[2026.04.13-09.44.45:686][324]LogStaticMesh: Built static mesh [0.09s] /Game/Art/Props/MonsteraPlant/Monstera_Plant.Monstera_Plant
+[2026.04.13-09.44.45:799][325]LogInterchangeEngine: Display: Interchange import completed [C:/Users/capra/OneDr...lants/Monstera_Plant/Monstera_Plant.fbx]
+[2026.04.13-09.44.45:801][325]Interchange: Warning: [C:/Users/capra/OneDrive - Staffordshire University/COLLAB Stoke_12 - [Assets]/[Props]/Prop - Plants/Monstera_Plant/Monstera_Plant.fbx : 'Monstera_Plant', StaticMesh] No smoothing group information was found for this mesh 'Mesh_012' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.04.13-09.44.45:801][325]Interchange: Warning: [C:/Users/capra/OneDrive - Staffordshire University/COLLAB Stoke_12 - [Assets]/[Props]/Prop - Plants/Monstera_Plant/Monstera_Plant.fbx : 'Monstera_Plant', StaticMesh] No smoothing group information was found for this mesh 'Cube_001' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.04.13-09.44.45:819][325]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.04.13-09.44.45:819][325]LogInterchangeEngine: [Success] Import Done
+[2026.04.13-09.44.47:091][394]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Props/MonsteraPlant/Monstera_Plant.Monstera_Plant
+[2026.04.13-09.44.47:177][394]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_34
+[2026.04.13-09.44.56:735][ 73]LogSlate: Window 'Monstera_Plant' being destroyed
+[2026.04.13-09.44.56:741][ 73]LogSlate: Window 'Monstera_Plant' being destroyed
+[2026.04.13-09.44.56:813][ 73]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2026.04.13-09.44.56:813][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-09.44.56:865][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.04.13-09.45.00:809][454]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.04.13-09.45.00:823][454]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.13-09.45.00:823][454]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.04.13-09.45.00:826][454]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 2.377 ms (total: 3.007 ms)
+[2026.04.13-09.45.00:827][454]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.13-09.45.00:827][454]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.04.13-09.45.00:836][454]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.13-09.45.00:838][454]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.635 ms (total: 3.192 ms)
+[2026.04.13-09.45.00:838][454]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011076s)
+[2026.04.13-09.45.00:838][454]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.011100s)
+[2026.04.13-09.45.00:857][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.04.13-09.45.00:857][454]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.04.13-09.45.00:859][454]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.13-09.45.00:859][454]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.13-09.45.00:859][454]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.13-09.45.00:859][454]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.13-09.45.00:860][454]LogWorldPartition: Display: WorldPartition initialize took 1.809 ms (total: 167.943 ms)
+[2026.04.13-09.45.00:860][454]LogPlayLevel: PIE: World Init took: (0.003578s)
+[2026.04.13-09.45.00:862][454]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.04.13-09.45.00:862][454]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.13-09.45.00:862][454]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.13-09.45.00:862][454]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.13-09.45.00:862][454]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.13-09.45.00:862][454]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.13-09.45.00:862][454]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.13-09.45.00:862][454]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.13-09.45.00:862][454]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.13-09.45.00:862][454]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.13-09.45.00:862][454]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.13-09.45.00:862][454]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.13-09.45.00:864][454]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.13-09.45.00:886][454]LogAudioMixer: Display: Using Audio Hardware Device Sample (TC-Helicon GoXLR)
+[2026.04.13-09.45.00:886][454]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.13-09.45.00:886][454]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.13-09.45.00:886][454]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.13-09.45.00:886][454]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.04.13-09.45.00:886][454]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.04.13-09.45.00:889][454]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.04.13-09.45.00:889][454]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.04.13-09.45.00:889][454]LogInit: FAudioDevice initialized with ID 3.
+[2026.04.13-09.45.00:889][454]LogAudio: Display: Audio Device (ID: 3) registered with world 'Lvl_FirstPerson'.
+[2026.04.13-09.45.00:889][454]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.04.13-09.45.00:944][454]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.13-09.45.00:944][454]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.04.13-09.45.00:947][454]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2026.04.13-10.45.00
+[2026.04.13-09.45.00:948][454]LogWorld: Bringing up level for play took: 0.003846
+[2026.04.13-09.45.00:951][454]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2026.04.13-09.45.00:957][454]LogBlueprintUserMessages: [BP-TimerTest_C_UAID_40C2BA7E73C438C702_1899021495] Day
+[2026.04.13-09.45.00:958][454]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] Day
+[2026.04.13-09.45.00:965][454]PIE: Server logged in
+[2026.04.13-09.45.00:969][454]PIE: Play in editor total start time 0.146 seconds.
+[2026.04.13-09.45.01:024][455]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.13-09.45.01:817][519]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 9
+[2026.04.13-09.45.02:825][616]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 8
+[2026.04.13-09.45.02:914][625]LogBlueprintUserMessages: [STT_PickAndUseRandomSmartObject_C] Searching
+[2026.04.13-09.45.03:831][718]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 7
+[2026.04.13-09.45.04:841][821]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 6
+[2026.04.13-09.45.05:849][923]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 5
+[2026.04.13-09.45.06:856][ 28]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 4
+[2026.04.13-09.45.07:862][131]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 3
+[2026.04.13-09.45.08:868][238]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 2
+[2026.04.13-09.45.09:876][344]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 1
+[2026.04.13-09.45.10:292][384]LogBlueprintUserMessages: [STT_PickAndUseRandomSmartObject_C_0] Searching
+[2026.04.13-09.45.10:814][438]LogBlueprintUserMessages: [BP-TimerTest_C_UAID_40C2BA7E73C438C702_1899021495] Night
+[2026.04.13-09.45.10:885][445]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 0
+[2026.04.13-09.45.10:886][445]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] End
+[2026.04.13-09.45.10:886][445]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] Night
+[2026.04.13-09.45.11:891][551]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 9
+[2026.04.13-09.45.12:896][655]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 8
+[2026.04.13-09.45.13:900][757]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 7
+[2026.04.13-09.45.14:905][861]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 6
+[2026.04.13-09.45.15:572][930]LogBlueprintUserMessages: [Can_C_UAID_84A93E8DAADF71C802_1151834583] Hello
+[2026.04.13-09.45.15:927][965]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.04.13-09.45.15:927][965]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2026.04.13-09.45.15:927][965]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.04.13-09.45.15:927][965]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ShopEntryRefs' of length 0 in '/Game/UI/ShopUI/WBP_shopui.WBP_shopui_C'!
+[2026.04.13-09.45.15:927][965]LogScript: Warning: Script Msg called by: WBP_shopui_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WBP_shopui_C_0
+[2026.04.13-09.45.15:939][965]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'ShopEntryRefs' of length 1 in '/Game/UI/ShopUI/WBP_shopui.WBP_shopui_C'!
+[2026.04.13-09.45.15:939][965]LogScript: Warning: Script Msg called by: WBP_shopui_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WBP_shopui_C_0
+[2026.04.13-09.45.15:940][965]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'ShopEntryRefs' of length 2 in '/Game/UI/ShopUI/WBP_shopui.WBP_shopui_C'!
+[2026.04.13-09.45.15:940][965]LogScript: Warning: Script Msg called by: WBP_shopui_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WBP_shopui_C_0
+[2026.04.13-09.45.15:940][965]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'ShopEntryRefs' of length 3 in '/Game/UI/ShopUI/WBP_shopui.WBP_shopui_C'!
+[2026.04.13-09.45.15:940][965]LogScript: Warning: Script Msg called by: WBP_shopui_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WBP_shopui_C_0
+[2026.04.13-09.45.15:940][965]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'ShopEntryRefs' of length 4 in '/Game/UI/ShopUI/WBP_shopui.WBP_shopui_C'!
+[2026.04.13-09.45.15:940][965]LogScript: Warning: Script Msg called by: WBP_shopui_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WBP_shopui_C_0
+[2026.04.13-09.45.15:941][965]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 5
+[2026.04.13-09.45.16:256][997]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.04.13-09.45.16:256][997]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.04.13-09.45.16:915][ 68]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 4
+[2026.04.13-09.45.17:925][173]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 3
+[2026.04.13-09.45.18:929][276]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 2
+[2026.04.13-09.45.19:935][380]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 1
+[2026.04.13-09.45.19:945][381]LogBlueprintUserMessages: [Can_C_UAID_84A93E8DAADF71C802_1151834583] Hello
+[2026.04.13-09.45.20:819][470]LogBlueprintUserMessages: [BP-TimerTest_C_UAID_40C2BA7E73C438C702_1899021495] Reset
+[2026.04.13-09.45.20:819][470]LogBlueprintUserMessages: [BP-TimerTest_C_UAID_40C2BA7E73C438C702_1899021495] Day
+[2026.04.13-09.45.20:941][482]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 0
+[2026.04.13-09.45.20:941][482]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] End
+[2026.04.13-09.45.20:941][482]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] Day
+[2026.04.13-09.45.21:943][588]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 9
+[2026.04.13-09.45.22:897][690]LogBlueprintUserMessages: [Can_C_UAID_84A93E8DAADF71C802_1151834583] Hello
+[2026.04.13-09.45.22:907][691]LogBlueprintUserMessages: [Can_C_UAID_84A93E8DAADF71C802_1151834583] Hello
+[2026.04.13-09.45.22:944][695]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 8
+[2026.04.13-09.45.23:774][780]LogBlueprintUserMessages: [Can_C_UAID_84A93E8DAADF71C802_1151834583] Hello
+[2026.04.13-09.45.23:782][781]LogBlueprintUserMessages: [Can_C_UAID_84A93E8DAADF71C802_1151834583] Hello
+[2026.04.13-09.45.23:791][782]LogBlueprintUserMessages: [Can_C_UAID_84A93E8DAADF71C802_1151834583] Hello
+[2026.04.13-09.45.23:800][783]LogBlueprintUserMessages: [Can_C_UAID_84A93E8DAADF71C802_1151834583] Hello
+[2026.04.13-09.45.23:951][798]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 7
+[2026.04.13-09.45.24:961][901]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 6
+[2026.04.13-09.45.25:721][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.13-09.45.25:721][976]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.04.13-09.45.25:721][976]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.04.13-09.45.25:722][976]LogSlate: Window 'Haunting_Sim Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.04.13-09.45.25:727][976]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.04.13-09.45.25:728][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-09.45.25:728][976]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.04.13-09.45.25:729][976]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.13-09.45.25:732][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-09.45.25:752][976]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.04.13-09.45.25:752][976]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2026.04.13-09.45.25:754][976]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2026.04.13-09.45.25:763][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.04.13-09.45.25:875][977]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2026.04.13-09.45.46:491][376]Cmd: DELETE
+[2026.04.13-09.45.46:491][376]Cmd: ACTOR DELETE
+[2026.04.13-09.45.46:493][376]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.13-09.45.46:514][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.04.13-09.45.46:517][376]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2026.04.13-09.45.53:871][174]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Props/Bookcase/SM_Bookcase.SM_Bookcase
+[2026.04.13-09.45.53:871][174]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Props/Bookcase/SM_Bookcase.SM_Bookcase
+[2026.04.13-09.45.53:871][174]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Props/Bookcase/SM_Bookcase.SM_Bookcase as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_11
+[2026.04.13-09.45.54:674][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.04.13-09.45.54:678][250]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2026.04.13-09.45.54:681][250]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Props/Bookcase/SM_Bookcase.SM_Bookcase
+[2026.04.13-09.45.54:681][250]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Props/Bookcase/SM_Bookcase.SM_Bookcase
+[2026.04.13-09.45.54:683][250]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Props/Bookcase/SM_Bookcase.SM_Bookcase as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_2CF05D3659F531D102_1844166835
+[2026.04.13-09.46.17:496][489]Cmd: DELETE
+[2026.04.13-09.46.17:496][489]Cmd: ACTOR DELETE
+[2026.04.13-09.46.17:497][489]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.13-09.46.17:515][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.04.13-09.46.17:517][489]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2026.04.13-09.46.18:296][547]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Props/Bookcase/SM_Bookcase.SM_Bookcase
+[2026.04.13-09.46.18:296][547]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Props/Bookcase/SM_Bookcase.SM_Bookcase
+[2026.04.13-09.46.18:297][547]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Props/Bookcase/SM_Bookcase.SM_Bookcase as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_12
+[2026.04.13-09.46.18:755][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.04.13-09.46.18:757][591]LogEditorActor: Deleted 0 Actors (0.020 secs)
+[2026.04.13-09.46.18:761][591]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Props/Bookcase/SM_Bookcase.SM_Bookcase
+[2026.04.13-09.46.18:761][591]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Props/Bookcase/SM_Bookcase.SM_Bookcase
+[2026.04.13-09.46.18:763][591]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Props/Bookcase/SM_Bookcase.SM_Bookcase as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_2CF05D3659F531D102_1868246836
+[2026.04.13-09.46.19:496][661]Cmd: DELETE
+[2026.04.13-09.46.19:496][661]Cmd: ACTOR DELETE
+[2026.04.13-09.46.19:498][661]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.13-09.46.19:516][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.04.13-09.46.19:518][661]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2026.04.13-09.46.21:840][869]Cmd: EDIT COPY
+[2026.04.13-09.46.22:141][900]Cmd: EDIT PASTE
+[2026.04.13-09.46.47:311][237]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.13-09.46.47:386][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.04.13-09.46.47:408][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.04.13-09.46.47:427][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.04.13-09.46.47:439][237]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/1Z/HVI776VBFVOQD6A5Q7JWLM
+[2026.04.13-09.46.47:440][237]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/HVI776VBFVOQD6A5Q7JWLMB7B616DF44D1F1D6F04B95A3CDF4518F.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/1Z/HVI776VBFVOQD6A5Q7JWLM.uasset'
+[2026.04.13-09.46.47:448][237]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/ET/BUR6IQV3R1ZZCLNAML5VJM
+[2026.04.13-09.46.47:448][237]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/BUR6IQV3R1ZZCLNAML5VJM0F7F26F64133668517E09C8D3ACA063F.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/ET/BUR6IQV3R1ZZCLNAML5VJM.uasset'
+[2026.04.13-09.46.47:458][237]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/ZQ/7JURLRXCDV0LWEA0Y5POJA
+[2026.04.13-09.46.47:458][237]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/7JURLRXCDV0LWEA0Y5POJA32F1967748CACCC724BB80A2462633F3.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/ZQ/7JURLRXCDV0LWEA0Y5POJA.uasset'
+[2026.04.13-09.46.47:466][237]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/R5/KKCAKY0K58HICFCR9279S8
+[2026.04.13-09.46.47:467][237]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/KKCAKY0K58HICFCR9279S8BDD537924DA85E49584FEAB605150CE7.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/R5/KKCAKY0K58HICFCR9279S8.uasset'
+[2026.04.13-09.46.47:475][237]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/3P/UCSX8372IQF235OCITT4CK
+[2026.04.13-09.46.47:476][237]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/UCSX8372IQF235OCITT4CK26B1B47344AA73F924AF4E84B01621A8.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/3P/UCSX8372IQF235OCITT4CK.uasset'
+[2026.04.13-09.46.47:484][237]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/4/I8/KZDVZP5POP481K92C3YECR
+[2026.04.13-09.46.47:484][237]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/KZDVZP5POP481K92C3YECRD42F0DA74ED35DC742B476BEA1640F7C.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/4/I8/KZDVZP5POP481K92C3YECR.uasset'
+[2026.04.13-09.46.47:492][237]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/16/UAV9V2LUMIJHVP4LSDV8TX
+[2026.04.13-09.46.47:492][237]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/UAV9V2LUMIJHVP4LSDV8TX77177A104D28EC1BFD18EC8AE6F4091F.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/16/UAV9V2LUMIJHVP4LSDV8TX.uasset'
+[2026.04.13-09.46.47:500][237]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/GW/XMVD1YNFTBZ4NTLUENT69U
+[2026.04.13-09.46.47:500][237]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/XMVD1YNFTBZ4NTLUENT69U37ECA88C4211515D349D42991F3638C5.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/GW/XMVD1YNFTBZ4NTLUENT69U.uasset'
+[2026.04.13-09.46.47:509][237]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/GJ/LC5SGQFAWGL6TLINOHHXXZ
+[2026.04.13-09.46.47:509][237]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/LC5SGQFAWGL6TLINOHHXXZAED1704D4954A891FD9BC792A0C719FD.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/GJ/LC5SGQFAWGL6TLINOHHXXZ.uasset'
+[2026.04.13-09.46.47:521][237]LogFileHelpers: InternalPromptForCheckoutAndSave took 210.083 ms (total: 1.94 sec)
+[2026.04.13-09.46.47:577][237]LogContentValidation: Display: Starting to validate 9 assets
+[2026.04.13-09.46.47:577][237]LogContentValidation: Enabled validators:
+[2026.04.13-09.46.47:577][237]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.13-09.46.47:577][237]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.13-09.46.47:577][237]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.13-09.46.47:577][237]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.13-09.46.47:577][237]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.13-09.46.47:577][237]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.13-09.46.47:577][237]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2026.04.13-09.46.47:623][237]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/SourceControl/UncontrolledChangelists.json
