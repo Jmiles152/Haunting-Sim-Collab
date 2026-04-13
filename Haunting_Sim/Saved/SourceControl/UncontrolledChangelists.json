@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/o021175n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/Users/o021175n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/PlaceHolderTrap/BP_BaseTrap.uasset",
+				"C:/Users/o021175n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/PlaceHolderTimer/BP-TimerTest.uasset",
 				"C:/Users/kaydo/OneDrive/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/PlaceHolderTrap/BP_BaseTrap.uasset",
 				"C:/Users/kaydo/OneDrive/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/PlaceHolderTrap/BP_TestTrap_Triggerable.uasset",
 				"C:/Users/kaydo/OneDrive/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/O8/6IPAGMSUUAU3JTRCHHFUUG.uasset",
