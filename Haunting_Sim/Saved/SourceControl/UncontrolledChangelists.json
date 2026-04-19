@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/kaydo/OneDrive/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/DataTables/STR_TrapBackup.uasset",
+				"C:/Users/kaydo/OneDrive/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/DataTables/DT_TrapBackup.uasset",
+				"C:/Users/kaydo/OneDrive/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/placement_system/bpc_placement_system.uasset",
+				"C:/Users/kaydo/OneDrive/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Shop-and-inventory/BP_InventoryManager.uasset",
+				"C:/Users/kaydo/OneDrive/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Shop-and-inventory/BP_ShopManager.uasset",
+				"C:/Users/kaydo/OneDrive/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Characters/Mannequins/Rigs/CR_Mannequin_FootIK.uasset",
+				"C:/Users/kaydo/OneDrive/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/FirstPerson/Anims/CtrlRig_FPWarp.uasset",
+				"C:/Users/kaydo/OneDrive/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/PlaceHolderTrap/BP_BaseTrap.uasset",
+				"C:/Users/kaydo/OneDrive/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Shop-and-inventory/WBP_TempShopEntry.uasset",
+				"C:/Users/kaydo/OneDrive/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Shop-and-inventory/WBP_InventorySlot.uasset",
+				"C:/Users/kaydo/OneDrive/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/Traps/BP_BurgerTrap.uasset"
+			]
+		}
+	]
+}
