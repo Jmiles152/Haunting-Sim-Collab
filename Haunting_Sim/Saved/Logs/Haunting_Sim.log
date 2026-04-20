@@ -5895,3 +5895,939 @@ Sampler Limit: 32
 [2026.04.20-14.10.16:547][666]AssetCheck: /Game/Art/Environment/Materials/Textures/exterior_day Validating asset
 [2026.04.20-14.10.16:585][666]LogSourceControl: Display: Uncontrolled Changelist persistency file saved E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/SourceControl/UncontrolledChangelists.json
 [2026.04.20-14.10.19:346][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.04.20-14.11.11:106][198]LogContentBrowser: Attempting asset rename: Materials -> SubstanceMaterials
+[2026.04.20-14.11.11:206][198]LogStreaming: Display: FlushAsyncLoading(479): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.20-14.11.11:346][198]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.20-14.11.11:349][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models_import/Environment/Materials/Materials/Collab_Carpet_Bedroom_MAT] ([1] browsable assets)...
+[2026.04.20-14.11.11:349][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models_import/Environment/Materials/Materials/Collab_Carpet_Bedroom_MAT]
+[2026.04.20-14.11.11:358][198]LogSavePackage: Moving output files for package: /Game/Models_import/Environment/Materials/Materials/Collab_Carpet_Bedroom_MAT
+[2026.04.20-14.11.11:358][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Carpet_Bedroom_MATABF009704E61BAE0BF7B9E92440E5457.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Models_import/Environment/Materials/Materials/Collab_Carpet_Bedroom_MAT.uasset'
+[2026.04.20-14.11.11:362][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models_import/Environment/Materials/Materials/Collab_Carpet_Bedroom_INST] ([1] browsable assets)...
+[2026.04.20-14.11.11:362][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models_import/Environment/Materials/Materials/Collab_Carpet_Bedroom_INST]
+[2026.04.20-14.11.11:368][198]LogSavePackage: Moving output files for package: /Game/Models_import/Environment/Materials/Materials/Collab_Carpet_Bedroom_INST
+[2026.04.20-14.11.11:369][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Carpet_Bedroom_INSTFC349F40461F9486ED77CE9F12ED839C.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Models_import/Environment/Materials/Materials/Collab_Carpet_Bedroom_INST.uasset'
+[2026.04.20-14.11.11:375][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models_import/Environment/Materials/Materials/Collab_Kitchen_Floor_MAT] ([1] browsable assets)...
+[2026.04.20-14.11.11:376][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models_import/Environment/Materials/Materials/Collab_Kitchen_Floor_MAT]
+[2026.04.20-14.11.11:383][198]LogSavePackage: Moving output files for package: /Game/Models_import/Environment/Materials/Materials/Collab_Kitchen_Floor_MAT
+[2026.04.20-14.11.11:384][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Kitchen_Floor_MATBB007ACB444AC4CE3ABB1EA6A6627ECB.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Models_import/Environment/Materials/Materials/Collab_Kitchen_Floor_MAT.uasset'
+[2026.04.20-14.11.11:389][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models_import/Environment/Materials/Materials/Collab_Kitchen_Floor_INST] ([1] browsable assets)...
+[2026.04.20-14.11.11:389][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models_import/Environment/Materials/Materials/Collab_Kitchen_Floor_INST]
+[2026.04.20-14.11.11:394][198]LogSavePackage: Moving output files for package: /Game/Models_import/Environment/Materials/Materials/Collab_Kitchen_Floor_INST
+[2026.04.20-14.11.11:396][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Kitchen_Floor_INSTA8CF5BA346DA076511AF4B991082B1AA.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Models_import/Environment/Materials/Materials/Collab_Kitchen_Floor_INST.uasset'
+[2026.04.20-14.11.11:398][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models_import/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_MAT] ([1] browsable assets)...
+[2026.04.20-14.11.11:398][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models_import/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_MAT]
+[2026.04.20-14.11.11:407][198]LogSavePackage: Moving output files for package: /Game/Models_import/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_MAT
+[2026.04.20-14.11.11:408][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Pencil_Stripe_Print_Fabric_MATB06392A8415BB8D7A37DA3944E036847.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Models_import/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_MAT.uasset'
+[2026.04.20-14.11.11:410][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models_import/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST] ([1] browsable assets)...
+[2026.04.20-14.11.11:410][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models_import/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST]
+[2026.04.20-14.11.11:417][198]LogSavePackage: Moving output files for package: /Game/Models_import/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST
+[2026.04.20-14.11.11:419][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Pencil_Stripe_Print_Fabric_INST9897FD38499F52D869A5AF971C81F0B7.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Models_import/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST.uasset'
+[2026.04.20-14.11.11:422][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models_import/Environment/Materials/Collab_Plastered_Coving] ([1] browsable assets)...
+[2026.04.20-14.11.11:422][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models_import/Environment/Materials/Collab_Plastered_Coving]
+[2026.04.20-14.11.11:427][198]LogSavePackage: Moving output files for package: /Game/Models_import/Environment/Materials/Collab_Plastered_Coving
+[2026.04.20-14.11.11:428][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Plastered_CovingCCE712A64D614763BFB837B2D305486F.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Models_import/Environment/Materials/Collab_Plastered_Coving.uasset'
+[2026.04.20-14.11.11:431][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/Collab_Plastered_Coving] ([1] browsable assets)...
+[2026.04.20-14.11.11:431][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/Collab_Plastered_Coving]
+[2026.04.20-14.11.11:436][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/Collab_Plastered_Coving
+[2026.04.20-14.11.11:438][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Plastered_CovingA45EC1864AC0F1C7C90148BA50D06647.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/Collab_Plastered_Coving.uasset'
+[2026.04.20-14.11.11:440][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models_import/Environment/Materials/Materials/Collab_Platered_Wall_MAT] ([1] browsable assets)...
+[2026.04.20-14.11.11:440][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models_import/Environment/Materials/Materials/Collab_Platered_Wall_MAT]
+[2026.04.20-14.11.11:447][198]LogSavePackage: Moving output files for package: /Game/Models_import/Environment/Materials/Materials/Collab_Platered_Wall_MAT
+[2026.04.20-14.11.11:448][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Platered_Wall_MATA71FEF4742A83D90928278AE7FA41EEB.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Models_import/Environment/Materials/Materials/Collab_Platered_Wall_MAT.uasset'
+[2026.04.20-14.11.11:451][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models_import/Environment/Materials/Materials/Collab_Platered_Wall_INST] ([1] browsable assets)...
+[2026.04.20-14.11.11:452][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models_import/Environment/Materials/Materials/Collab_Platered_Wall_INST]
+[2026.04.20-14.11.11:457][198]LogSavePackage: Moving output files for package: /Game/Models_import/Environment/Materials/Materials/Collab_Platered_Wall_INST
+[2026.04.20-14.11.11:458][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Platered_Wall_INSTB888C6F345EB70F7735A32A7FC623142.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Models_import/Environment/Materials/Materials/Collab_Platered_Wall_INST.uasset'
+[2026.04.20-14.11.11:461][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models_import/Environment/Materials/Materials/Collab_Platered_Wall_KitchenWalls_Instance] ([1] browsable assets)...
+[2026.04.20-14.11.11:461][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models_import/Environment/Materials/Materials/Collab_Platered_Wall_KitchenWalls_Instance]
+[2026.04.20-14.11.11:466][198]LogSavePackage: Moving output files for package: /Game/Models_import/Environment/Materials/Materials/Collab_Platered_Wall_KitchenWalls_Instance
+[2026.04.20-14.11.11:467][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Platered_Wall_KitchenWall76B1C57D4667DF059F6BAF9A9A422E27.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Models_import/Environment/Materials/Materials/Collab_Platered_Wall_KitchenWalls_Instance.uasset'
+[2026.04.20-14.11.11:470][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models_import/Environment/Materials/Materials/Collab_Platered_Wall_KitchenWalls] ([1] browsable assets)...
+[2026.04.20-14.11.11:470][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models_import/Environment/Materials/Materials/Collab_Platered_Wall_KitchenWalls]
+[2026.04.20-14.11.11:476][198]LogSavePackage: Moving output files for package: /Game/Models_import/Environment/Materials/Materials/Collab_Platered_Wall_KitchenWalls
+[2026.04.20-14.11.11:477][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Platered_Wall_KitchenWall3A95DF804002D42771CD6CAFA6E11424.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Models_import/Environment/Materials/Materials/Collab_Platered_Wall_KitchenWalls.uasset'
+[2026.04.20-14.11.11:480][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/SM_Inner_Walls_Final] ([1] browsable assets)...
+[2026.04.20-14.11.11:480][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/SM_Inner_Walls_Final]
+[2026.04.20-14.11.11:507][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/SM_Inner_Walls_Final
+[2026.04.20-14.11.11:508][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/SM_Inner_Walls_Final950BBC0E44AA5E3AC3E3BC99E6C9DF31.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/SM_Inner_Walls_Final.uasset'
+[2026.04.20-14.11.11:512][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models_import/Environment/Materials/Materials/Collab_Platered_Wall_Bedroom] ([1] browsable assets)...
+[2026.04.20-14.11.11:512][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models_import/Environment/Materials/Materials/Collab_Platered_Wall_Bedroom]
+[2026.04.20-14.11.11:524][198]LogSavePackage: Moving output files for package: /Game/Models_import/Environment/Materials/Materials/Collab_Platered_Wall_Bedroom
+[2026.04.20-14.11.11:525][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Platered_Wall_BedroomAB73EB5242F5D6FCF260B59A07778E67.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Models_import/Environment/Materials/Materials/Collab_Platered_Wall_Bedroom.uasset'
+[2026.04.20-14.11.11:528][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models_import/Environment/Materials/Materials/Collab_Platered_Wall_INST1] ([1] browsable assets)...
+[2026.04.20-14.11.11:528][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models_import/Environment/Materials/Materials/Collab_Platered_Wall_INST1]
+[2026.04.20-14.11.11:534][198]LogSavePackage: Moving output files for package: /Game/Models_import/Environment/Materials/Materials/Collab_Platered_Wall_INST1
+[2026.04.20-14.11.11:535][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Platered_Wall_INST169DE5434451A97D74B73BBB2AF0CFB40.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Models_import/Environment/Materials/Materials/Collab_Platered_Wall_INST1.uasset'
+[2026.04.20-14.11.11:538][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models_import/Environment/Materials/Materials/Collab_Platered_Wall_INST2] ([1] browsable assets)...
+[2026.04.20-14.11.11:538][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models_import/Environment/Materials/Materials/Collab_Platered_Wall_INST2]
+[2026.04.20-14.11.11:544][198]LogSavePackage: Moving output files for package: /Game/Models_import/Environment/Materials/Materials/Collab_Platered_Wall_INST2
+[2026.04.20-14.11.11:545][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Platered_Wall_INST2BAF8E5374E5E2B2228ED029E2344D4D1.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Models_import/Environment/Materials/Materials/Collab_Platered_Wall_INST2.uasset'
+[2026.04.20-14.11.11:547][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models_import/Environment/Materials/Materials/Collab_Platered_Wall_Livingroom] ([1] browsable assets)...
+[2026.04.20-14.11.11:547][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models_import/Environment/Materials/Materials/Collab_Platered_Wall_Livingroom]
+[2026.04.20-14.11.11:553][198]LogSavePackage: Moving output files for package: /Game/Models_import/Environment/Materials/Materials/Collab_Platered_Wall_Livingroom
+[2026.04.20-14.11.11:554][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Platered_Wall_Livingroom000BC082431B44796297C580493AF099.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Models_import/Environment/Materials/Materials/Collab_Platered_Wall_Livingroom.uasset'
+[2026.04.20-14.11.11:558][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models_import/Environment/Materials/Materials/Collab_Material_Set2] ([1] browsable assets)...
+[2026.04.20-14.11.11:558][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models_import/Environment/Materials/Materials/Collab_Material_Set2]
+[2026.04.20-14.11.11:613][198]LogSavePackage: Moving output files for package: /Game/Models_import/Environment/Materials/Materials/Collab_Material_Set2
+[2026.04.20-14.11.11:614][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Material_Set25D05DF944B466B0A8C9860829CD28D40.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Models_import/Environment/Materials/Materials/Collab_Material_Set2.uasset'
+[2026.04.20-14.11.11:617][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models_import/Environment/Materials/Materials/Collab_Ceiling_INST] ([1] browsable assets)...
+[2026.04.20-14.11.11:617][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models_import/Environment/Materials/Materials/Collab_Ceiling_INST]
+[2026.04.20-14.11.11:623][198]LogSavePackage: Moving output files for package: /Game/Models_import/Environment/Materials/Materials/Collab_Ceiling_INST
+[2026.04.20-14.11.11:625][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Ceiling_INST0527869948490500E933C5990B3DEEA0.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Models_import/Environment/Materials/Materials/Collab_Ceiling_INST.uasset'
+[2026.04.20-14.11.11:627][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models_import/Environment/Materials/Materials/Collab_Ceiling_MAT] ([1] browsable assets)...
+[2026.04.20-14.11.11:627][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models_import/Environment/Materials/Materials/Collab_Ceiling_MAT]
+[2026.04.20-14.11.11:634][198]LogSavePackage: Moving output files for package: /Game/Models_import/Environment/Materials/Materials/Collab_Ceiling_MAT
+[2026.04.20-14.11.11:635][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Ceiling_MAT65C09CF542C34B504FAD45A4085D92AD.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Models_import/Environment/Materials/Materials/Collab_Ceiling_MAT.uasset'
+[2026.04.20-14.11.11:638][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models_import/Environment/Materials/Materials/pencil_stripe_print_fabric] ([1] browsable assets)...
+[2026.04.20-14.11.11:638][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models_import/Environment/Materials/Materials/pencil_stripe_print_fabric]
+[2026.04.20-14.11.11:645][198]LogSavePackage: Moving output files for package: /Game/Models_import/Environment/Materials/Materials/pencil_stripe_print_fabric
+[2026.04.20-14.11.11:646][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/pencil_stripe_print_fabricBBAC878A458F4450AF13C5987B39EEF0.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Models_import/Environment/Materials/Materials/pencil_stripe_print_fabric.uasset'
+[2026.04.20-14.11.11:650][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Carpet_Bedroom_INST_ambientocclusion] ([1] browsable assets)...
+[2026.04.20-14.11.11:650][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Carpet_Bedroom_INST_ambientocclusion]
+[2026.04.20-14.11.11:746][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Carpet_Bedroom_INST_ambientocclusion
+[2026.04.20-14.11.11:746][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Carpet_Bedroom_INST_ambieD0628E3441A4C84D96116CBF9F435667.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Collab_Carpet_Bedroom_INST_ambientocclusion.uasset'
+[2026.04.20-14.11.11:752][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Carpet_Bedroom_INST_basecolor] ([1] browsable assets)...
+[2026.04.20-14.11.11:752][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Carpet_Bedroom_INST_basecolor]
+[2026.04.20-14.11.11:844][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Carpet_Bedroom_INST_basecolor
+[2026.04.20-14.11.11:844][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Carpet_Bedroom_INST_basecD282AB4C4C2282C1F000098020CBC31E.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Collab_Carpet_Bedroom_INST_basecolor.uasset'
+[2026.04.20-14.11.11:847][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Carpet_Bedroom_INST_metallic] ([1] browsable assets)...
+[2026.04.20-14.11.11:847][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Carpet_Bedroom_INST_metallic]
+[2026.04.20-14.11.11:854][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Carpet_Bedroom_INST_metallic
+[2026.04.20-14.11.11:854][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Carpet_Bedroom_INST_metal1194B4D349243F6E1E38B8AF03557618.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Collab_Carpet_Bedroom_INST_metallic.uasset'
+[2026.04.20-14.11.11:856][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Carpet_Bedroom_INST_normal] ([1] browsable assets)...
+[2026.04.20-14.11.11:856][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Carpet_Bedroom_INST_normal]
+[2026.04.20-14.11.12:042][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Carpet_Bedroom_INST_normal
+[2026.04.20-14.11.12:043][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Carpet_Bedroom_INST_norma569777B640A54827483BE68336F5CF32.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Collab_Carpet_Bedroom_INST_normal.uasset'
+[2026.04.20-14.11.12:044][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Carpet_Bedroom_INST_roughness] ([1] browsable assets)...
+[2026.04.20-14.11.12:045][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Carpet_Bedroom_INST_roughness]
+[2026.04.20-14.11.12:085][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Carpet_Bedroom_INST_roughness
+[2026.04.20-14.11.12:086][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Carpet_Bedroom_INST_rough8A39023D49C825633E18CD89FAB50064.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Collab_Carpet_Bedroom_INST_roughness.uasset'
+[2026.04.20-14.11.12:088][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Carpet_Bedroom_MAT] ([1] browsable assets)...
+[2026.04.20-14.11.12:089][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Carpet_Bedroom_MAT]
+[2026.04.20-14.11.12:100][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Carpet_Bedroom_MAT
+[2026.04.20-14.11.12:100][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Carpet_Bedroom_MAT142EC32E41607AD690010A9CB0CBB163.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Collab_Carpet_Bedroom_MAT.uasset'
+[2026.04.20-14.11.12:102][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/Materials/Collab_Carpet_Bedroom_MAT] ([1] browsable assets)...
+[2026.04.20-14.11.12:102][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/Materials/Collab_Carpet_Bedroom_MAT]
+[2026.04.20-14.11.12:108][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/Materials/Collab_Carpet_Bedroom_MAT
+[2026.04.20-14.11.12:110][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Carpet_Bedroom_MATFB86C1E8431D00000D703D846F52D2F8.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/Materials/Collab_Carpet_Bedroom_MAT.uasset'
+[2026.04.20-14.11.12:114][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Kitchen_Floor_INST_ambientocclusion] ([1] browsable assets)...
+[2026.04.20-14.11.12:114][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Kitchen_Floor_INST_ambientocclusion]
+[2026.04.20-14.11.12:142][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Kitchen_Floor_INST_ambientocclusion
+[2026.04.20-14.11.12:142][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Kitchen_Floor_INST_ambien5DF1168A48B15470903380A916954F94.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Collab_Kitchen_Floor_INST_ambientocclusion.uasset'
+[2026.04.20-14.11.12:144][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Kitchen_Floor_INST_basecolor] ([1] browsable assets)...
+[2026.04.20-14.11.12:144][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Kitchen_Floor_INST_basecolor]
+[2026.04.20-14.11.12:223][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Kitchen_Floor_INST_basecolor
+[2026.04.20-14.11.12:223][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Kitchen_Floor_INST_baseco59E4DB14487F4AF2C820FCBE10AED998.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Collab_Kitchen_Floor_INST_basecolor.uasset'
+[2026.04.20-14.11.12:225][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Kitchen_Floor_INST_normal] ([1] browsable assets)...
+[2026.04.20-14.11.12:225][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Kitchen_Floor_INST_normal]
+[2026.04.20-14.11.12:253][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Kitchen_Floor_INST_normal
+[2026.04.20-14.11.12:253][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Kitchen_Floor_INST_normalA3F7806449386DF0FEEDAC890B5D34C9.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Collab_Kitchen_Floor_INST_normal.uasset'
+[2026.04.20-14.11.12:256][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Kitchen_Floor_INST_roughness] ([1] browsable assets)...
+[2026.04.20-14.11.12:256][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Kitchen_Floor_INST_roughness]
+[2026.04.20-14.11.12:299][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Kitchen_Floor_INST_roughness
+[2026.04.20-14.11.12:299][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Kitchen_Floor_INST_roughnC1C1E2D54B490BA1A106CB95D6A08030.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Collab_Kitchen_Floor_INST_roughness.uasset'
+[2026.04.20-14.11.12:302][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Kitchen_Floor_MAT] ([1] browsable assets)...
+[2026.04.20-14.11.12:302][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Kitchen_Floor_MAT]
+[2026.04.20-14.11.12:312][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Kitchen_Floor_MAT
+[2026.04.20-14.11.12:312][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Kitchen_Floor_MAT0357F2E644552FEA224701ADD636AD0E.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Collab_Kitchen_Floor_MAT.uasset'
+[2026.04.20-14.11.12:315][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/Materials/Collab_Kitchen_Floor_MAT] ([1] browsable assets)...
+[2026.04.20-14.11.12:315][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/Materials/Collab_Kitchen_Floor_MAT]
+[2026.04.20-14.11.12:321][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/Materials/Collab_Kitchen_Floor_MAT
+[2026.04.20-14.11.12:323][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Kitchen_Floor_MAT81663F1C4E69B83F627BF585A38C0348.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/Materials/Collab_Kitchen_Floor_MAT.uasset'
+[2026.04.20-14.11.12:327][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Pencil_Stripe_Print_Fabric_INST_basecolor] ([1] browsable assets)...
+[2026.04.20-14.11.12:327][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Pencil_Stripe_Print_Fabric_INST_basecolor]
+[2026.04.20-14.11.12:403][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Pencil_Stripe_Print_Fabric_INST_basecolor
+[2026.04.20-14.11.12:403][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Pencil_Stripe_Print_Fabric_INST_A439982A4A8AC00A80A7BFBF5FE81EBE.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Pencil_Stripe_Print_Fabric_INST_basecolor.uasset'
+[2026.04.20-14.11.12:405][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Pencil_Stripe_Print_Fabric_INST_metallic] ([1] browsable assets)...
+[2026.04.20-14.11.12:405][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Pencil_Stripe_Print_Fabric_INST_metallic]
+[2026.04.20-14.11.12:418][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Pencil_Stripe_Print_Fabric_INST_metallic
+[2026.04.20-14.11.12:418][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Pencil_Stripe_Print_Fabric_INST_0D700CC84D6485440B087C94551E8D60.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Pencil_Stripe_Print_Fabric_INST_metallic.uasset'
+[2026.04.20-14.11.12:420][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Pencil_Stripe_Print_Fabric_INST_normal] ([1] browsable assets)...
+[2026.04.20-14.11.12:420][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Pencil_Stripe_Print_Fabric_INST_normal]
+[2026.04.20-14.11.12:568][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Pencil_Stripe_Print_Fabric_INST_normal
+[2026.04.20-14.11.12:568][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Pencil_Stripe_Print_Fabric_INST_E520B3C8485C95BE7B2FE6A3DF0FC4E4.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Pencil_Stripe_Print_Fabric_INST_normal.uasset'
+[2026.04.20-14.11.12:573][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Pencil_Stripe_Print_Fabric_INST_roughness] ([1] browsable assets)...
+[2026.04.20-14.11.12:573][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Pencil_Stripe_Print_Fabric_INST_roughness]
+[2026.04.20-14.11.12:587][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Pencil_Stripe_Print_Fabric_INST_roughness
+[2026.04.20-14.11.12:587][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Pencil_Stripe_Print_Fabric_INST_4B5A610D48DB545A415AEABC1483145C.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Pencil_Stripe_Print_Fabric_INST_roughness.uasset'
+[2026.04.20-14.11.12:589][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Pencil_Stripe_Print_Fabric_MAT] ([1] browsable assets)...
+[2026.04.20-14.11.12:590][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Pencil_Stripe_Print_Fabric_MAT]
+[2026.04.20-14.11.12:600][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Pencil_Stripe_Print_Fabric_MAT
+[2026.04.20-14.11.12:600][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Pencil_Stripe_Print_Fabric_MATC734F6E2451485F3A01D46BE3F8D05BF.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Pencil_Stripe_Print_Fabric_MAT.uasset'
+[2026.04.20-14.11.12:602][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_MAT] ([1] browsable assets)...
+[2026.04.20-14.11.12:602][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_MAT]
+[2026.04.20-14.11.12:609][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_MAT
+[2026.04.20-14.11.12:610][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Pencil_Stripe_Print_Fabric_MAT1C77E844476A6D001F5088BA2B44C416.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_MAT.uasset'
+[2026.04.20-14.11.12:614][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST_ambientocclusion] ([1] browsable assets)...
+[2026.04.20-14.11.12:615][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST_ambientocclusion]
+[2026.04.20-14.11.12:686][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST_ambientocclusion
+[2026.04.20-14.11.12:686][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Platered_Wall_INST_ambien307E7DD94A28CF51591DBFAC0A93F98F.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST_ambientocclusion.uasset'
+[2026.04.20-14.11.12:690][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST_basecolor] ([1] browsable assets)...
+[2026.04.20-14.11.12:690][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST_basecolor]
+[2026.04.20-14.11.12:729][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST_basecolor
+[2026.04.20-14.11.12:729][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Platered_Wall_INST_baseco558F740146504F612D387DB569DFBB0B.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST_basecolor.uasset'
+[2026.04.20-14.11.12:732][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST_normal] ([1] browsable assets)...
+[2026.04.20-14.11.12:732][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST_normal]
+[2026.04.20-14.11.12:817][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST_normal
+[2026.04.20-14.11.12:817][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Platered_Wall_INST_normalF6E0E175494F00301D7BB5B695A2BD95.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST_normal.uasset'
+[2026.04.20-14.11.12:820][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST_roughness] ([1] browsable assets)...
+[2026.04.20-14.11.12:820][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST_roughness]
+[2026.04.20-14.11.12:853][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST_roughness
+[2026.04.20-14.11.12:853][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Platered_Wall_INST_roughnD34D688F44B0A5A2389B59B4101900AB.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST_roughness.uasset'
+[2026.04.20-14.11.12:856][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_MAT] ([1] browsable assets)...
+[2026.04.20-14.11.12:856][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_MAT]
+[2026.04.20-14.11.12:867][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_MAT
+[2026.04.20-14.11.12:867][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Platered_Wall_MAT65CF249E485E6030431A4A890EEC5FA0.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_MAT.uasset'
+[2026.04.20-14.11.12:870][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_KitchenWalls_Instance_ambientocclusion] ([1] browsable assets)...
+[2026.04.20-14.11.12:870][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_KitchenWalls_Instance_ambientocclusion]
+[2026.04.20-14.11.12:902][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_KitchenWalls_Instance_ambientocclusion
+[2026.04.20-14.11.12:903][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Platered_Wall_KitchenWallBBDF015C407CA5F01B07C2B5C4BCDC2B.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_KitchenWalls_Instance_ambientocclusion.uasset'
+[2026.04.20-14.11.12:904][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_KitchenWalls_Instance_basecolor] ([1] browsable assets)...
+[2026.04.20-14.11.12:904][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_KitchenWalls_Instance_basecolor]
+[2026.04.20-14.11.12:945][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_KitchenWalls_Instance_basecolor
+[2026.04.20-14.11.12:945][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Platered_Wall_KitchenWall9C1DBFEA47ABB396F2D0C183D66CA090.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_KitchenWalls_Instance_basecolor.uasset'
+[2026.04.20-14.11.12:946][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_KitchenWalls_Instance_normal] ([1] browsable assets)...
+[2026.04.20-14.11.12:946][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_KitchenWalls_Instance_normal]
+[2026.04.20-14.11.12:978][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_KitchenWalls_Instance_normal
+[2026.04.20-14.11.12:978][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Platered_Wall_KitchenWall6B81B52147C22A81950929909FF031D5.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_KitchenWalls_Instance_normal.uasset'
+[2026.04.20-14.11.12:982][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_KitchenWalls_Instance_roughness] ([1] browsable assets)...
+[2026.04.20-14.11.12:982][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_KitchenWalls_Instance_roughness]
+[2026.04.20-14.11.12:997][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_KitchenWalls_Instance_roughness
+[2026.04.20-14.11.12:997][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Platered_Wall_KitchenWall9AC9CD3649AA007BBD2448A301FB6D04.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_KitchenWalls_Instance_roughness.uasset'
+[2026.04.20-14.11.12:999][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_KitchenWalls] ([1] browsable assets)...
+[2026.04.20-14.11.12:999][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_KitchenWalls]
+[2026.04.20-14.11.13:008][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_KitchenWalls
+[2026.04.20-14.11.13:008][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Platered_Wall_KitchenWallC1C0BC4F4EFBD47A87AF1589EF1CD6CB.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_KitchenWalls.uasset'
+[2026.04.20-14.11.13:010][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST1_ambientocclusion] ([1] browsable assets)...
+[2026.04.20-14.11.13:010][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST1_ambientocclusion]
+[2026.04.20-14.11.13:046][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST1_ambientocclusion
+[2026.04.20-14.11.13:047][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Platered_Wall_INST1_ambieADBD0D4248707C48DBAD019A5F7E0072.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST1_ambientocclusion.uasset'
+[2026.04.20-14.11.13:049][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST1_basecolor] ([1] browsable assets)...
+[2026.04.20-14.11.13:049][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST1_basecolor]
+[2026.04.20-14.11.13:087][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST1_basecolor
+[2026.04.20-14.11.13:087][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Platered_Wall_INST1_basec0A5ED9CD4833C6749BA07DA9554CD820.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST1_basecolor.uasset'
+[2026.04.20-14.11.13:088][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST1_normal] ([1] browsable assets)...
+[2026.04.20-14.11.13:088][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST1_normal]
+[2026.04.20-14.11.13:126][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST1_normal
+[2026.04.20-14.11.13:126][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Platered_Wall_INST1_normaCB5C6D404E77E0E85B5FABACE31DD8F9.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST1_normal.uasset'
+[2026.04.20-14.11.13:129][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST1_roughness] ([1] browsable assets)...
+[2026.04.20-14.11.13:129][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST1_roughness]
+[2026.04.20-14.11.13:156][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST1_roughness
+[2026.04.20-14.11.13:156][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Platered_Wall_INST1_rough962D624749583D3B5D0CE486A1123CA9.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST1_roughness.uasset'
+[2026.04.20-14.11.13:158][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST1] ([1] browsable assets)...
+[2026.04.20-14.11.13:158][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST1]
+[2026.04.20-14.11.13:167][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST1
+[2026.04.20-14.11.13:167][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Platered_Wall_INST11516B3AA438CD36E65CBFDBABE4C52B5.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST1.uasset'
+[2026.04.20-14.11.13:169][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_Bedroom] ([1] browsable assets)...
+[2026.04.20-14.11.13:169][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_Bedroom]
+[2026.04.20-14.11.13:178][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_Bedroom
+[2026.04.20-14.11.13:178][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Platered_Wall_Bedroom5917A73643AC5F7DD41D1A96F96D4B50.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_Bedroom.uasset'
+[2026.04.20-14.11.13:179][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST2] ([1] browsable assets)...
+[2026.04.20-14.11.13:180][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST2]
+[2026.04.20-14.11.13:187][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST2
+[2026.04.20-14.11.13:187][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Platered_Wall_INST233B913964BCA77F57381E99CF1CC4F12.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST2.uasset'
+[2026.04.20-14.11.13:188][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_Livingroom] ([1] browsable assets)...
+[2026.04.20-14.11.13:188][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_Livingroom]
+[2026.04.20-14.11.13:195][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_Livingroom
+[2026.04.20-14.11.13:195][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Platered_Wall_Livingroom7C6B193B425DBA513E1BD083ABBCDCC5.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_Livingroom.uasset'
+[2026.04.20-14.11.13:196][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST2_roughness] ([1] browsable assets)...
+[2026.04.20-14.11.13:196][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST2_roughness]
+[2026.04.20-14.11.13:214][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST2_roughness
+[2026.04.20-14.11.13:214][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Platered_Wall_INST2_roughF8B9DF274F90C7E501FD308621D74A74.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST2_roughness.uasset'
+[2026.04.20-14.11.13:216][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST2_normal] ([1] browsable assets)...
+[2026.04.20-14.11.13:216][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST2_normal]
+[2026.04.20-14.11.13:290][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST2_normal
+[2026.04.20-14.11.13:290][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Platered_Wall_INST2_normaC78BAB3F4F0035933F49D29D0EF863D0.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST2_normal.uasset'
+[2026.04.20-14.11.13:293][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST2_basecolor] ([1] browsable assets)...
+[2026.04.20-14.11.13:293][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST2_basecolor]
+[2026.04.20-14.11.13:375][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST2_basecolor
+[2026.04.20-14.11.13:375][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Platered_Wall_INST2_basecB56B0B15428C955F931CABAD394EAB64.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST2_basecolor.uasset'
+[2026.04.20-14.11.13:378][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST2_ambientocclusion] ([1] browsable assets)...
+[2026.04.20-14.11.13:378][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST2_ambientocclusion]
+[2026.04.20-14.11.13:470][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST2_ambientocclusion
+[2026.04.20-14.11.13:470][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Platered_Wall_INST2_ambie2BB8CC86478480F7EB969783997DC310.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST2_ambientocclusion.uasset'
+[2026.04.20-14.11.13:475][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_KitchenWalls_Instance] ([1] browsable assets)...
+[2026.04.20-14.11.13:475][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_KitchenWalls_Instance]
+[2026.04.20-14.11.13:486][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_KitchenWalls_Instance
+[2026.04.20-14.11.13:486][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Platered_Wall_KitchenWallE78D1F7841615EDA350B79B12C9CBD87.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_KitchenWalls_Instance.uasset'
+[2026.04.20-14.11.13:489][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Ceiling_INST] ([1] browsable assets)...
+[2026.04.20-14.11.13:489][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Ceiling_INST]
+[2026.04.20-14.11.13:496][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Ceiling_INST
+[2026.04.20-14.11.13:496][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Ceiling_INST90C2E13B423B2D59ED41E0865B59EC2E.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Collab_Ceiling_INST.uasset'
+[2026.04.20-14.11.13:498][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Material_Set2] ([1] browsable assets)...
+[2026.04.20-14.11.13:499][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Material_Set2]
+[2026.04.20-14.11.13:558][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Material_Set2
+[2026.04.20-14.11.13:558][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Material_Set211D7B6DC4E26042D0A16CFBF1814B145.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Collab_Material_Set2.uasset'
+[2026.04.20-14.11.13:560][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Carpet_Bedroom_INST] ([1] browsable assets)...
+[2026.04.20-14.11.13:560][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Carpet_Bedroom_INST]
+[2026.04.20-14.11.13:570][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Carpet_Bedroom_INST
+[2026.04.20-14.11.13:570][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Carpet_Bedroom_INST7FAAD49748DFE04BFCF5968748E6370E.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Collab_Carpet_Bedroom_INST.uasset'
+[2026.04.20-14.11.13:573][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Kitchen_Floor_INST] ([1] browsable assets)...
+[2026.04.20-14.11.13:573][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Kitchen_Floor_INST]
+[2026.04.20-14.11.13:582][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Kitchen_Floor_INST
+[2026.04.20-14.11.13:582][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Kitchen_Floor_INST8390A7964A6AED6E6FC68FAF21CED9B9.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Collab_Kitchen_Floor_INST.uasset'
+[2026.04.20-14.11.13:584][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST] ([1] browsable assets)...
+[2026.04.20-14.11.13:584][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST]
+[2026.04.20-14.11.13:594][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST
+[2026.04.20-14.11.13:594][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Platered_Wall_INST8C07FFBE484F9EB455B9B4BAA5AD792D.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST.uasset'
+[2026.04.20-14.11.13:595][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Ceiling_MAT] ([1] browsable assets)...
+[2026.04.20-14.11.13:595][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Ceiling_MAT]
+[2026.04.20-14.11.13:604][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Ceiling_MAT
+[2026.04.20-14.11.13:604][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Ceiling_MAT436258924ABAC2D18C24B0B72CBF8AA6.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Collab_Ceiling_MAT.uasset'
+[2026.04.20-14.11.13:606][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Ceiling_INST_roughness] ([1] browsable assets)...
+[2026.04.20-14.11.13:606][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Ceiling_INST_roughness]
+[2026.04.20-14.11.13:624][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Ceiling_INST_roughness
+[2026.04.20-14.11.13:624][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Ceiling_INST_roughness59B72D334A8BF33F12C5C48E2E97DD6A.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Collab_Ceiling_INST_roughness.uasset'
+[2026.04.20-14.11.13:626][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Ceiling_INST_normal] ([1] browsable assets)...
+[2026.04.20-14.11.13:626][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Ceiling_INST_normal]
+[2026.04.20-14.11.13:658][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Ceiling_INST_normal
+[2026.04.20-14.11.13:658][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Ceiling_INST_normal6568B0184AC23E1B0B2F8E859BE18E75.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Collab_Ceiling_INST_normal.uasset'
+[2026.04.20-14.11.13:660][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Ceiling_INST_metallic] ([1] browsable assets)...
+[2026.04.20-14.11.13:660][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Ceiling_INST_metallic]
+[2026.04.20-14.11.13:666][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Ceiling_INST_metallic
+[2026.04.20-14.11.13:666][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Ceiling_INST_metallic59BBF63F44BA6E338ED4F0B53BB8E4D0.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Collab_Ceiling_INST_metallic.uasset'
+[2026.04.20-14.11.13:668][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Ceiling_INST_basecolor] ([1] browsable assets)...
+[2026.04.20-14.11.13:668][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Ceiling_INST_basecolor]
+[2026.04.20-14.11.13:689][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Ceiling_INST_basecolor
+[2026.04.20-14.11.13:689][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Ceiling_INST_basecolor4FAF39AA4E92D8359DF98ABF36556899.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Collab_Ceiling_INST_basecolor.uasset'
+[2026.04.20-14.11.13:690][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Ceiling_INST_ambientocclusion] ([1] browsable assets)...
+[2026.04.20-14.11.13:690][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Collab_Ceiling_INST_ambientocclusion]
+[2026.04.20-14.11.13:726][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Ceiling_INST_ambientocclusion
+[2026.04.20-14.11.13:726][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Collab_Ceiling_INST_ambientoccluAFCA29C14187C6B34B2289A517BB5506.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Collab_Ceiling_INST_ambientocclusion.uasset'
+[2026.04.20-14.11.13:728][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/pencil_stripe_print_fabric] ([1] browsable assets)...
+[2026.04.20-14.11.13:728][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/pencil_stripe_print_fabric]
+[2026.04.20-14.11.13:736][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/pencil_stripe_print_fabric
+[2026.04.20-14.11.13:736][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/pencil_stripe_print_fabricF252D9764901D9B5BE1F068B21C22AE4.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/pencil_stripe_print_fabric.uasset'
+[2026.04.20-14.11.13:739][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Environment/Materials/SubstanceMaterials/Pencil_Stripe_Print_Fabric_INST] ([1] browsable assets)...
+[2026.04.20-14.11.13:739][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/SubstanceMaterials/Pencil_Stripe_Print_Fabric_INST]
+[2026.04.20-14.11.13:746][198]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/SubstanceMaterials/Pencil_Stripe_Print_Fabric_INST
+[2026.04.20-14.11.13:747][198]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Pencil_Stripe_Print_Fabric_INST5E61984B48FBE97E0F3DA791BDE9D3F3.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/SubstanceMaterials/Pencil_Stripe_Print_Fabric_INST.uasset'
+[2026.04.20-14.11.13:750][198]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.40 sec (total: 6.83 sec)
+[2026.04.20-14.11.14:275][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.04.20-14.11.14:292][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.04.20-14.11.14:309][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.04.20-14.11.14:449][198]LogContentValidation: Display: Starting to validate 76 assets
+[2026.04.20-14.11.14:449][198]LogContentValidation: Enabled validators:
+[2026.04.20-14.11.14:449][198]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.20-14.11.14:449][198]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-14.11.14:449][198]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.20-14.11.14:449][198]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.20-14.11.14:449][198]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-14.11.14:449][198]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-14.11.14:449][198]AssetCheck: /Game/Models_import/Environment/Materials/Materials/Collab_Carpet_Bedroom_MAT Validating asset
+[2026.04.20-14.11.14:449][198]AssetCheck: /Game/Models_import/Environment/Materials/Materials/Collab_Carpet_Bedroom_INST Validating asset
+[2026.04.20-14.11.14:449][198]AssetCheck: /Game/Models_import/Environment/Materials/Materials/Collab_Kitchen_Floor_MAT Validating asset
+[2026.04.20-14.11.14:449][198]AssetCheck: /Game/Models_import/Environment/Materials/Materials/Collab_Kitchen_Floor_INST Validating asset
+[2026.04.20-14.11.14:449][198]AssetCheck: /Game/Models_import/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_MAT Validating asset
+[2026.04.20-14.11.14:449][198]AssetCheck: /Game/Models_import/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_INST Validating asset
+[2026.04.20-14.11.14:450][198]AssetCheck: /Game/Models_import/Environment/Materials/Collab_Plastered_Coving Validating asset
+[2026.04.20-14.11.14:450][198]AssetCheck: /Game/Art/Environment/Materials/Collab_Plastered_Coving Validating asset
+[2026.04.20-14.11.14:450][198]AssetCheck: /Game/Models_import/Environment/Materials/Materials/Collab_Platered_Wall_MAT Validating asset
+[2026.04.20-14.11.14:450][198]AssetCheck: /Game/Models_import/Environment/Materials/Materials/Collab_Platered_Wall_INST Validating asset
+[2026.04.20-14.11.14:450][198]AssetCheck: /Game/Models_import/Environment/Materials/Materials/Collab_Platered_Wall_KitchenWalls_Instance Validating asset
+[2026.04.20-14.11.14:450][198]AssetCheck: /Game/Models_import/Environment/Materials/Materials/Collab_Platered_Wall_KitchenWalls Validating asset
+[2026.04.20-14.11.14:450][198]AssetCheck: /Game/Art/Environment/SM_Inner_Walls_Final Validating asset
+[2026.04.20-14.11.14:450][198]AssetCheck: /Game/Models_import/Environment/Materials/Materials/Collab_Platered_Wall_Bedroom Validating asset
+[2026.04.20-14.11.14:450][198]AssetCheck: /Game/Models_import/Environment/Materials/Materials/Collab_Platered_Wall_INST1 Validating asset
+[2026.04.20-14.11.14:450][198]AssetCheck: /Game/Models_import/Environment/Materials/Materials/Collab_Platered_Wall_INST2 Validating asset
+[2026.04.20-14.11.14:450][198]AssetCheck: /Game/Models_import/Environment/Materials/Materials/Collab_Platered_Wall_Livingroom Validating asset
+[2026.04.20-14.11.14:450][198]AssetCheck: /Game/Models_import/Environment/Materials/Materials/Collab_Material_Set2 Validating asset
+[2026.04.20-14.11.14:450][198]AssetCheck: /Game/Models_import/Environment/Materials/Materials/Collab_Ceiling_INST Validating asset
+[2026.04.20-14.11.14:450][198]AssetCheck: /Game/Models_import/Environment/Materials/Materials/Collab_Ceiling_MAT Validating asset
+[2026.04.20-14.11.14:450][198]AssetCheck: /Game/Models_import/Environment/Materials/Materials/pencil_stripe_print_fabric Validating asset
+[2026.04.20-14.11.14:450][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Carpet_Bedroom_INST_ambientocclusion Validating asset
+[2026.04.20-14.11.14:450][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Carpet_Bedroom_INST_basecolor Validating asset
+[2026.04.20-14.11.14:450][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Carpet_Bedroom_INST_metallic Validating asset
+[2026.04.20-14.11.14:450][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Carpet_Bedroom_INST_normal Validating asset
+[2026.04.20-14.11.14:450][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Carpet_Bedroom_INST_roughness Validating asset
+[2026.04.20-14.11.14:450][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Carpet_Bedroom_MAT Validating asset
+[2026.04.20-14.11.14:450][198]AssetCheck: /Game/Art/Environment/Materials/Materials/Collab_Carpet_Bedroom_MAT Validating asset
+[2026.04.20-14.11.14:450][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Kitchen_Floor_INST_ambientocclusion Validating asset
+[2026.04.20-14.11.14:450][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Kitchen_Floor_INST_basecolor Validating asset
+[2026.04.20-14.11.14:450][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Kitchen_Floor_INST_normal Validating asset
+[2026.04.20-14.11.14:450][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Kitchen_Floor_INST_roughness Validating asset
+[2026.04.20-14.11.14:450][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Kitchen_Floor_MAT Validating asset
+[2026.04.20-14.11.14:450][198]AssetCheck: /Game/Art/Environment/Materials/Materials/Collab_Kitchen_Floor_MAT Validating asset
+[2026.04.20-14.11.14:450][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Pencil_Stripe_Print_Fabric_INST_basecolor Validating asset
+[2026.04.20-14.11.14:451][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Pencil_Stripe_Print_Fabric_INST_metallic Validating asset
+[2026.04.20-14.11.14:451][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Pencil_Stripe_Print_Fabric_INST_normal Validating asset
+[2026.04.20-14.11.14:451][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Pencil_Stripe_Print_Fabric_INST_roughness Validating asset
+[2026.04.20-14.11.14:451][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Pencil_Stripe_Print_Fabric_MAT Validating asset
+[2026.04.20-14.11.14:451][198]AssetCheck: /Game/Art/Environment/Materials/Materials/Pencil_Stripe_Print_Fabric_MAT Validating asset
+[2026.04.20-14.11.14:451][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST_ambientocclusion Validating asset
+[2026.04.20-14.11.14:451][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST_basecolor Validating asset
+[2026.04.20-14.11.14:451][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST_normal Validating asset
+[2026.04.20-14.11.14:451][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST_roughness Validating asset
+[2026.04.20-14.11.14:451][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_MAT Validating asset
+[2026.04.20-14.11.14:451][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_KitchenWalls_Instance_ambientocclusion Validating asset
+[2026.04.20-14.11.14:451][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_KitchenWalls_Instance_basecolor Validating asset
+[2026.04.20-14.11.14:451][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_KitchenWalls_Instance_normal Validating asset
+[2026.04.20-14.11.14:451][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_KitchenWalls_Instance_roughness Validating asset
+[2026.04.20-14.11.14:451][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_KitchenWalls Validating asset
+[2026.04.20-14.11.14:451][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST1_ambientocclusion Validating asset
+[2026.04.20-14.11.14:451][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST1_basecolor Validating asset
+[2026.04.20-14.11.14:451][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST1_normal Validating asset
+[2026.04.20-14.11.14:451][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST1_roughness Validating asset
+[2026.04.20-14.11.14:452][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST1 Validating asset
+[2026.04.20-14.11.14:452][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_Bedroom Validating asset
+[2026.04.20-14.11.14:452][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST2 Validating asset
+[2026.04.20-14.11.14:452][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_Livingroom Validating asset
+[2026.04.20-14.11.14:452][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST2_roughness Validating asset
+[2026.04.20-14.11.14:452][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST2_normal Validating asset
+[2026.04.20-14.11.14:452][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST2_basecolor Validating asset
+[2026.04.20-14.11.14:452][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST2_ambientocclusion Validating asset
+[2026.04.20-14.11.14:452][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_KitchenWalls_Instance Validating asset
+[2026.04.20-14.11.14:452][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Ceiling_INST Validating asset
+[2026.04.20-14.11.14:452][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Material_Set2 Validating asset
+[2026.04.20-14.11.14:452][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Carpet_Bedroom_INST Validating asset
+[2026.04.20-14.11.14:452][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Kitchen_Floor_INST Validating asset
+[2026.04.20-14.11.14:452][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Platered_Wall_INST Validating asset
+[2026.04.20-14.11.14:452][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Ceiling_MAT Validating asset
+[2026.04.20-14.11.14:452][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Ceiling_INST_roughness Validating asset
+[2026.04.20-14.11.14:452][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Ceiling_INST_normal Validating asset
+[2026.04.20-14.11.14:452][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Ceiling_INST_metallic Validating asset
+[2026.04.20-14.11.14:453][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Ceiling_INST_basecolor Validating asset
+[2026.04.20-14.11.14:453][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Collab_Ceiling_INST_ambientocclusion Validating asset
+[2026.04.20-14.11.14:453][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/pencil_stripe_print_fabric Validating asset
+[2026.04.20-14.11.14:453][198]AssetCheck: /Game/Art/Environment/Materials/SubstanceMaterials/Pencil_Stripe_Print_Fabric_INST Validating asset
+[2026.04.20-14.11.14:497][198]LogSourceControl: Display: Uncontrolled Changelist persistency file saved E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.20-14.11.20:589][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.04.20-14.11.23:814][805]LogSlate: Window 'Delete Assets' being destroyed
+[2026.04.20-14.11.28:437][223]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.04.20-14.11.28:437][223]LogStreaming: Display: FlushAsyncLoading(490): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.20-14.11.28:456][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.04.20-14.11.30:388][223]LogTexture: Display: Building textures: /Game/Art/Environment/HDRI/church_meeting_room.church_meeting_room (TFO_AutoDXT, 8192x4096 x1x1x1) (Required Memory Estimate: 2240.999969 MB), EncodeSpeed: Fast
+[2026.04.20-14.11.31:299][223]LogSlate: Window 'Delete Assets' being destroyed
+[2026.04.20-14.11.31:322][223]LogTexture: Display: Waiting for textures to be ready 0/2 (/Game/Art/Environment/HDRI/church_meeting_room_4k) ...
+[2026.04.20-14.11.32:050][223]LogTexture: Display: Building textures: /Game/Art/Environment/HDRI/church_meeting_room_4k.church_meeting_room_4k (TFO_BC6H, 4096x2048 x1x1x1) (Required Memory Estimate: 758.333296 MB), EncodeSpeed: Fast
+[2026.04.20-14.11.36:241][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.04.20-14.11.36:279][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.04.20-14.11.36:295][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.04.20-14.11.36:420][223]LogSourceControl: Display: Uncontrolled Changelist persistency file saved E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.20-14.11.36:604][225]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.04.20-14.11.36:782][228]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.04.20-14.11.36:868][232]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.04.20-14.11.36:904][232]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.20-14.11.36:904][232]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.04.20-14.11.36:904][232]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 746 us (total: 6.156 ms)
+[2026.04.20-14.11.36:905][232]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.20-14.11.36:906][232]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.04.20-14.11.36:915][232]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.20-14.11.36:917][232]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.921 ms (total: 7.888 ms)
+[2026.04.20-14.11.36:917][232]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011667s)
+[2026.04.20-14.11.36:917][232]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.011697s)
+[2026.04.20-14.11.36:933][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.04.20-14.11.36:935][232]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.04.20-14.11.36:937][232]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.20-14.11.36:937][232]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.20-14.11.36:937][232]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.20-14.11.36:937][232]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.20-14.11.36:939][232]LogWorldPartition: Display: WorldPartition initialize took 2.242 ms (total: 1.44 sec)
+[2026.04.20-14.11.36:939][232]LogPlayLevel: PIE: World Init took: (0.004134s)
+[2026.04.20-14.11.36:940][232]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.04.20-14.11.36:940][232]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.20-14.11.36:940][232]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.20-14.11.36:940][232]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.20-14.11.36:940][232]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.20-14.11.36:940][232]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.20-14.11.36:940][232]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.20-14.11.36:940][232]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.20-14.11.36:940][232]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.20-14.11.36:940][232]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.20-14.11.36:940][232]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.20-14.11.36:940][232]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.20-14.11.36:943][232]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.20-14.11.36:981][232]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics HD Audio)
+[2026.04.20-14.11.36:981][232]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.20-14.11.36:981][232]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.20-14.11.36:981][232]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.20-14.11.36:982][232]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2026.04.20-14.11.36:982][232]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.04.20-14.11.36:986][232]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.04.20-14.11.36:986][232]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2026.04.20-14.11.36:986][232]LogInit: FAudioDevice initialized with ID 5.
+[2026.04.20-14.11.36:986][232]LogAudio: Display: Audio Device (ID: 5) registered with world 'Lvl_FirstPerson'.
+[2026.04.20-14.11.36:986][232]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.04.20-14.11.37:063][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.20-14.11.37:063][232]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.04.20-14.11.37:070][232]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2026.04.20-15.11.37
+[2026.04.20-14.11.37:070][232]LogWorld: Bringing up level for play took: 0.006859
+[2026.04.20-14.11.37:074][232]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2026.04.20-14.11.37:080][232]LogBlueprintUserMessages: [BP-TimerTest_C_UAID_40C2BA7E73C438C702_1899021495] Day
+[2026.04.20-14.11.37:080][232]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] Day
+[2026.04.20-14.11.37:089][232]PIE: Server logged in
+[2026.04.20-14.11.37:094][232]PIE: Play in editor total start time 0.191 seconds.
+[2026.04.20-14.11.37:179][233]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.20-14.11.37:224][233]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.04.20-14.11.37:346][234]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.04.20-14.11.37:432][237]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.04.20-14.11.37:492][238]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.04.20-14.11.37:527][239]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2026.04.20-14.11.37:646][244]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.04.20-14.11.37:762][245]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.04.20-14.11.37:857][246]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.04.20-14.11.37:895][247]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 9
+[2026.04.20-14.11.38:892][320]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 8
+[2026.04.20-14.11.39:136][339]LogBlueprintUserMessages: [STT_PickAndUseRandomSmartObject_C] Searching
+[2026.04.20-14.11.39:902][398]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 7
+[2026.04.20-14.11.40:909][486]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 6
+[2026.04.20-14.11.41:223][507]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2026.04.20-14.11.41:956][549]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 5
+[2026.04.20-14.11.42:101][557]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2026.04.20-14.11.42:197][561]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2026.04.20-14.11.42:239][562]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2026.04.20-14.11.42:915][618]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 4
+[2026.04.20-14.11.43:809][701]LogBlueprintUserMessages: [Can_C_UAID_84A93E8DAADF71C802_1151834583] Hello
+[2026.04.20-14.11.43:916][711]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 3
+[2026.04.20-14.11.44:917][803]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 2
+[2026.04.20-14.11.45:926][895]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 1
+[2026.04.20-14.11.46:384][937]LogBlueprintUserMessages: [Can_C_UAID_84A93E8DAADF71C802_1151834583] Hello
+[2026.04.20-14.11.46:875][983]LogBlueprintUserMessages: [BP-TimerTest_C_UAID_40C2BA7E73C438C702_1899021495] Night
+[2026.04.20-14.11.46:930][988]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 0
+[2026.04.20-14.11.46:930][988]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] End
+[2026.04.20-14.11.46:930][988]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] Night
+[2026.04.20-14.11.47:937][ 82]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 9
+[2026.04.20-14.11.48:942][177]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 8
+[2026.04.20-14.11.49:950][268]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 7
+[2026.04.20-14.11.50:285][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.20-14.11.50:285][294]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.04.20-14.11.50:285][294]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.04.20-14.11.50:286][294]LogSlate: Window 'Haunting_Sim Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.04.20-14.11.50:322][294]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-14.11.50:326][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-14.11.50:326][294]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.04.20-14.11.50:332][294]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.20-14.11.50:342][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-14.11.50:382][294]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.04.20-14.11.50:382][294]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2026.04.20-14.11.50:385][294]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2026.04.20-14.11.50:400][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.04.20-14.11.50:507][295]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2026.04.20-14.12.13:101][268]LogShaderCompilers: Display: ================================================
+[2026.04.20-14.12.13:101][268]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.04.20-14.12.13:101][268]LogShaderCompilers: Display: Total job queries 19,297, among them cache hits 5,413 (28.05%), DDC hits 12,380 (64.16%), Duplicates 754 (3.91%)
+[2026.04.20-14.12.13:101][268]LogShaderCompilers: Display: Tracking 13,130 distinct input hashes that result in 12,001 distinct outputs (91.40%)
+[2026.04.20-14.12.13:101][268]LogShaderCompilers: Display: RAM used: 159.75 MiB of 1.60 GiB budget. Usage: 9.75%
+[2026.04.20-14.12.13:101][268]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.04.20-14.12.13:101][268]LogShaderCompilers: Display: Shaders Compiled: 750
+[2026.04.20-14.12.13:101][268]LogShaderCompilers: Display: Jobs assigned 750, completed 750 (100%)
+[2026.04.20-14.12.13:101][268]LogShaderCompilers: Display: Average time worker was idle: 185.56 s
+[2026.04.20-14.12.13:101][268]LogShaderCompilers: Display: Time job spent in pending queue: average 11.56 s, longest 96.45 s
+[2026.04.20-14.12.13:101][268]LogShaderCompilers: Display: Job execution time: average 12.93 s, max 62.98 s
+[2026.04.20-14.12.13:101][268]LogShaderCompilers: Display: Job life time (pending + execution): average 24.49 s, max 109.32
+[2026.04.20-14.12.13:101][268]LogShaderCompilers: Display: Shader code size: total 11.251 MiB, numShaders 776, average 14.847 KiB, min 2.246 KiB, max 55.505 KiB
+[2026.04.20-14.12.13:101][268]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 259.02 s
+[2026.04.20-14.12.13:101][268]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.26%
+[2026.04.20-14.12.13:101][268]LogShaderCompilers: Display: Jobs were issued in 293 batches (only local compilation was used), average 2.56 jobs/batch
+[2026.04.20-14.12.13:101][268]LogShaderCompilers: Display: Average processing rate: 2.90 jobs/sec
+[2026.04.20-14.12.13:101][268]LogShaderCompilers: Display: Total thread time: 1,571.442 s
+[2026.04.20-14.12.13:101][268]LogShaderCompilers: Display: Total thread preprocess time: 185.208 s
+[2026.04.20-14.12.13:101][268]LogShaderCompilers: Display: Percentage time preprocessing: 11.79%
+[2026.04.20-14.12.13:101][268]LogShaderCompilers: Display: Effective parallelization: 6.07 (times faster than compiling all shaders on one thread). Compare with number of workers: 4 - 1.516692
+[2026.04.20-14.12.13:101][268]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.04.20-14.12.13:101][268]LogShaderCompilers: Display:                         FLumenVisualizeHardwareRayTracingRGS (compiled    8 times, average 11.87 sec, max 13.58 sec, min 4.49 sec)
+[2026.04.20-14.12.13:101][268]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   10 times, average 8.64 sec, max 14.08 sec, min 1.91 sec)
+[2026.04.20-14.12.13:101][268]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   15 times, average 8.20 sec, max 22.10 sec, min 1.62 sec)
+[2026.04.20-14.12.13:101][268]LogShaderCompilers: Display:                                        FRayTracingLightingMS (compiled    1 times, average 6.54 sec, max 6.54 sec, min 6.54 sec)
+[2026.04.20-14.12.13:101][268]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled   13 times, average 6.45 sec, max 24.98 sec, min 2.07 sec)
+[2026.04.20-14.12.13:101][268]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.04.20-14.12.13:101][268]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 19.37% of total time (compiled   80 times, average 3.81 sec, max 6.62 sec, min 2.72 sec)
+[2026.04.20-14.12.13:101][268]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 7.83% of total time (compiled   15 times, average 8.20 sec, max 22.10 sec, min 1.62 sec)
+[2026.04.20-14.12.13:101][268]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.75% of total time (compiled   75 times, average 1.62 sec, max 13.09 sec, min 0.37 sec)
+[2026.04.20-14.12.13:101][268]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 6.88% of total time (compiled   47 times, average 2.30 sec, max 11.22 sec, min 0.99 sec)
+[2026.04.20-14.12.13:101][268]LogShaderCompilers: Display:                         FLumenVisualizeHardwareRayTracingRGS - 6.04% of total time (compiled    8 times, average 11.87 sec, max 13.58 sec, min 4.49 sec)
+[2026.04.20-14.12.13:101][268]LogShaderCompilers: Display: === Material stats ===
+[2026.04.20-14.12.13:101][268]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.04.20-14.12.13:101][268]LogShaderCompilers: Display: Materials Translated:    355
+[2026.04.20-14.12.13:101][268]LogShaderCompilers: Display: Material Total Translate Time: 0.23 s
+[2026.04.20-14.12.13:101][268]LogShaderCompilers: Display: Material Translation Only: 0.11 s (48%)
+[2026.04.20-14.12.13:101][268]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.04.20-14.12.13:101][268]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.04.20-14.12.13:101][268]LogShaderCompilers: Display: ================================================
+[2026.04.20-14.12.43:108][358]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7111.944336
+[2026.04.20-14.12.44:113][361]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-14.12.44:113][361]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7112.615234, Update Interval: 343.080536
+[2026.04.20-14.13.57:691][582]LogDerivedDataCache: C:/Users/l012783n/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.20-14.18.57:847][482]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7486.680176
+[2026.04.20-14.18.58:848][485]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-14.18.58:848][485]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7487.347168, Update Interval: 350.732758
+[2026.04.20-14.22.49:028][719]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Environment/Env_Parts/Stairs/SM_Hallway_Stairs.SM_Hallway_Stairs
+[2026.04.20-14.22.49:143][719]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2026.04.20-14.22.49:370][719]LogStreaming: Display: FlushAsyncLoading(492): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.20-14.24.04:823][590]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.04.20-14.24.04:842][590]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.20-14.24.04:842][590]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.04.20-14.24.04:843][590]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 867 us (total: 7.024 ms)
+[2026.04.20-14.24.04:844][590]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.20-14.24.04:844][590]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.04.20-14.24.04:855][590]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.20-14.24.04:857][590]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.915 ms (total: 9.803 ms)
+[2026.04.20-14.24.04:857][590]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011605s)
+[2026.04.20-14.24.04:857][590]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.011635s)
+[2026.04.20-14.24.04:892][590]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.04.20-14.24.04:897][590]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.04.20-14.24.04:898][590]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.20-14.24.04:898][590]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.20-14.24.04:898][590]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.20-14.24.04:898][590]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.20-14.24.04:901][590]LogWorldPartition: Display: WorldPartition initialize took 2.249 ms (total: 1.44 sec)
+[2026.04.20-14.24.04:901][590]LogPlayLevel: PIE: World Init took: (0.004199s)
+[2026.04.20-14.24.04:902][590]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.04.20-14.24.04:902][590]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.20-14.24.04:902][590]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.20-14.24.04:902][590]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.20-14.24.04:902][590]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.20-14.24.04:902][590]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.20-14.24.04:902][590]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.20-14.24.04:902][590]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.20-14.24.04:902][590]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.20-14.24.04:902][590]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.20-14.24.04:902][590]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.20-14.24.04:902][590]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.20-14.24.04:905][590]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.20-14.24.04:948][590]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics HD Audio)
+[2026.04.20-14.24.04:948][590]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.20-14.24.04:948][590]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.20-14.24.04:948][590]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.20-14.24.04:948][590]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.04.20-14.24.04:948][590]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.04.20-14.24.04:952][590]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.04.20-14.24.04:952][590]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.04.20-14.24.04:952][590]LogInit: FAudioDevice initialized with ID 6.
+[2026.04.20-14.24.04:952][590]LogAudio: Display: Audio Device (ID: 6) registered with world 'Lvl_FirstPerson'.
+[2026.04.20-14.24.04:952][590]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.04.20-14.24.05:028][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.20-14.24.05:028][590]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.04.20-14.24.05:035][590]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2026.04.20-15.24.05
+[2026.04.20-14.24.05:036][590]LogWorld: Bringing up level for play took: 0.007465
+[2026.04.20-14.24.05:039][590]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2026.04.20-14.24.05:045][590]LogBlueprintUserMessages: [BP-TimerTest_C_UAID_40C2BA7E73C438C702_1899021495] Day
+[2026.04.20-14.24.05:045][590]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] Day
+[2026.04.20-14.24.05:055][590]PIE: Server logged in
+[2026.04.20-14.24.05:060][590]PIE: Play in editor total start time 0.217 seconds.
+[2026.04.20-14.24.05:165][591]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.20-14.24.05:839][630]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 9
+[2026.04.20-14.24.06:505][675]LogBlueprintUserMessages: [STT_PickAndUseRandomSmartObject_C] Searching
+[2026.04.20-14.24.06:853][698]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 8
+[2026.04.20-14.24.07:854][765]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 7
+[2026.04.20-14.24.08:868][833]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 6
+[2026.04.20-14.24.09:882][901]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 5
+[2026.04.20-14.24.10:885][967]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 4
+[2026.04.20-14.24.11:548][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.20-14.24.11:548][  9]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.04.20-14.24.11:548][  9]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.04.20-14.24.11:549][  9]LogSlate: Window 'Haunting_Sim Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.04.20-14.24.11:559][  9]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-14.24.11:560][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-14.24.11:560][  9]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.04.20-14.24.11:562][  9]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.20-14.24.11:565][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-14.24.11:582][  9]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.20-14.24.11:582][  9]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.04.20-14.24.11:583][  9]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2026.04.20-14.24.11:585][  9]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2026.04.20-14.24.11:593][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.04.20-14.24.11:712][ 10]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2026.04.20-14.24.13:217][ 92]LogShaderCompilers: Display: ================================================
+[2026.04.20-14.24.13:217][ 92]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.04.20-14.24.13:217][ 92]LogShaderCompilers: Display: Total job queries 19,343, among them cache hits 5,440 (28.12%), DDC hits 12,381 (64.01%), Duplicates 754 (3.90%)
+[2026.04.20-14.24.13:217][ 92]LogShaderCompilers: Display: Tracking 13,149 distinct input hashes that result in 12,016 distinct outputs (91.38%)
+[2026.04.20-14.24.13:217][ 92]LogShaderCompilers: Display: RAM used: 159.84 MiB of 1.60 GiB budget. Usage: 9.76%
+[2026.04.20-14.24.13:217][ 92]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.04.20-14.24.13:217][ 92]LogShaderCompilers: Display: Shaders Compiled: 768
+[2026.04.20-14.24.13:217][ 92]LogShaderCompilers: Display: Jobs assigned 768, completed 768 (100%)
+[2026.04.20-14.24.13:217][ 92]LogShaderCompilers: Display: Average time worker was idle: 197.16 s
+[2026.04.20-14.24.13:217][ 92]LogShaderCompilers: Display: Time job spent in pending queue: average 11.29 s, longest 96.45 s
+[2026.04.20-14.24.13:217][ 92]LogShaderCompilers: Display: Job execution time: average 12.65 s, max 62.98 s
+[2026.04.20-14.24.13:217][ 92]LogShaderCompilers: Display: Job life time (pending + execution): average 23.94 s, max 109.32
+[2026.04.20-14.24.13:217][ 92]LogShaderCompilers: Display: Shader code size: total 11.386 MiB, numShaders 797, average 14.629 KiB, min 1.727 KiB, max 55.505 KiB
+[2026.04.20-14.24.13:217][ 92]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 264.85 s
+[2026.04.20-14.24.13:217][ 92]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.25%
+[2026.04.20-14.24.13:217][ 92]LogShaderCompilers: Display: Jobs were issued in 311 batches (only local compilation was used), average 2.47 jobs/batch
+[2026.04.20-14.24.13:217][ 92]LogShaderCompilers: Display: Average processing rate: 2.90 jobs/sec
+[2026.04.20-14.24.13:217][ 92]LogShaderCompilers: Display: Total thread time: 1,582.444 s
+[2026.04.20-14.24.13:217][ 92]LogShaderCompilers: Display: Total thread preprocess time: 185.823 s
+[2026.04.20-14.24.13:217][ 92]LogShaderCompilers: Display: Percentage time preprocessing: 11.74%
+[2026.04.20-14.24.13:217][ 92]LogShaderCompilers: Display: Effective parallelization: 5.97 (times faster than compiling all shaders on one thread). Compare with number of workers: 4 - 1.493742
+[2026.04.20-14.24.13:217][ 92]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.04.20-14.24.13:217][ 92]LogShaderCompilers: Display:                         FLumenVisualizeHardwareRayTracingRGS (compiled    8 times, average 11.87 sec, max 13.58 sec, min 4.49 sec)
+[2026.04.20-14.24.13:217][ 92]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   10 times, average 8.64 sec, max 14.08 sec, min 1.91 sec)
+[2026.04.20-14.24.13:217][ 92]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   15 times, average 8.20 sec, max 22.10 sec, min 1.62 sec)
+[2026.04.20-14.24.13:217][ 92]LogShaderCompilers: Display:                                        FRayTracingLightingMS (compiled    1 times, average 6.54 sec, max 6.54 sec, min 6.54 sec)
+[2026.04.20-14.24.13:217][ 92]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled   13 times, average 6.45 sec, max 24.98 sec, min 2.07 sec)
+[2026.04.20-14.24.13:217][ 92]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.04.20-14.24.13:217][ 92]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 19.24% of total time (compiled   80 times, average 3.81 sec, max 6.62 sec, min 2.72 sec)
+[2026.04.20-14.24.13:218][ 92]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.87% of total time (compiled   80 times, average 1.56 sec, max 13.09 sec, min 0.37 sec)
+[2026.04.20-14.24.13:218][ 92]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 7.78% of total time (compiled   15 times, average 8.20 sec, max 22.10 sec, min 1.62 sec)
+[2026.04.20-14.24.13:218][ 92]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 6.89% of total time (compiled   48 times, average 2.27 sec, max 11.22 sec, min 0.92 sec)
+[2026.04.20-14.24.13:218][ 92]LogShaderCompilers: Display:                         FLumenVisualizeHardwareRayTracingRGS - 6.00% of total time (compiled    8 times, average 11.87 sec, max 13.58 sec, min 4.49 sec)
+[2026.04.20-14.24.13:218][ 92]LogShaderCompilers: Display: === Material stats ===
+[2026.04.20-14.24.13:218][ 92]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.04.20-14.24.13:218][ 92]LogShaderCompilers: Display: Materials Translated:    356
+[2026.04.20-14.24.13:218][ 92]LogShaderCompilers: Display: Material Total Translate Time: 0.23 s
+[2026.04.20-14.24.13:218][ 92]LogShaderCompilers: Display: Material Translation Only: 0.11 s (48%)
+[2026.04.20-14.24.13:218][ 92]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.04.20-14.24.13:218][ 92]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.04.20-14.24.13:218][ 92]LogShaderCompilers: Display: ================================================
+[2026.04.20-14.24.13:808][125]LogSlate: Window 'SM_Hallway_Stairs' being destroyed
+[2026.04.20-14.24.13:817][125]LogSlate: Window 'SM_Hallway_Stairs' being destroyed
+[2026.04.20-14.24.13:937][125]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-14.24.13:937][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-14.24.13:972][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.04.20-14.25.33:302][469]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7882.155762
+[2026.04.20-14.25.34:301][472]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-14.25.34:301][472]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7882.827148, Update Interval: 324.709015
+[2026.04.20-14.26.15:605][ 64]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Art/Environment/Materials/M_Window_Paralax.M_Window_Paralax
+[2026.04.20-14.26.15:610][ 64]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2026.04.20-14.26.16:475][ 64]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.20-14.26.16:475][ 64]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.04.20-14.26.16:475][ 64]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.20-14.26.16:475][ 64]MaterialEditorStats: Shader Count: 0
+[2026.04.20-14.26.16:475][ 64]MaterialEditorStats: Preshaders: 4  (5 param fetches, 8 ops)
+[2026.04.20-14.26.16:612][ 66]MaterialEditorStats: Base pass shader: 208 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2026.04.20-14.26.16:612][ 66]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.20-14.26.16:612][ 66]MaterialEditorStats: Texture samplers: 3/16
+[2026.04.20-14.26.16:612][ 66]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.04.20-14.26.16:612][ 66]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.20-14.26.16:612][ 66]MaterialEditorStats: Shader Count: 5
+[2026.04.20-14.26.16:612][ 66]MaterialEditorStats: Preshaders: 4  (5 param fetches, 8 ops)
+[2026.04.20-14.27.18:515][778]LogSlate: Window 'M_Window_Paralax' being destroyed
+[2026.04.20-14.27.18:520][778]LogSlate: Window 'M_Window_Paralax' being destroyed
+[2026.04.20-14.27.18:610][778]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-14.27.18:610][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-14.27.18:663][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.04.20-14.27.19:748][884]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.04.20-14.27.19:769][884]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.20-14.27.19:769][884]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.04.20-14.27.19:770][884]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 765 us (total: 7.789 ms)
+[2026.04.20-14.27.19:771][884]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.20-14.27.19:771][884]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.04.20-14.27.19:782][884]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.20-14.27.19:783][884]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.141 ms (total: 11.945 ms)
+[2026.04.20-14.27.19:783][884]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012384s)
+[2026.04.20-14.27.19:783][884]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.012418s)
+[2026.04.20-14.27.19:801][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.04.20-14.27.19:802][884]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.04.20-14.27.19:803][884]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.20-14.27.19:803][884]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.20-14.27.19:803][884]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.20-14.27.19:803][884]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.20-14.27.19:806][884]LogWorldPartition: Display: WorldPartition initialize took 2.413 ms (total: 1.44 sec)
+[2026.04.20-14.27.19:806][884]LogPlayLevel: PIE: World Init took: (0.004306s)
+[2026.04.20-14.27.19:808][884]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.04.20-14.27.19:808][884]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.20-14.27.19:808][884]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.20-14.27.19:808][884]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.20-14.27.19:808][884]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.20-14.27.19:808][884]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.20-14.27.19:808][884]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.20-14.27.19:808][884]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.20-14.27.19:808][884]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.20-14.27.19:808][884]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.20-14.27.19:808][884]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.20-14.27.19:808][884]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.20-14.27.19:811][884]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.20-14.27.19:850][884]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics HD Audio)
+[2026.04.20-14.27.19:850][884]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.20-14.27.19:850][884]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.20-14.27.19:850][884]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.20-14.27.19:850][884]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2026.04.20-14.27.19:850][884]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2026.04.20-14.27.19:854][884]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2026.04.20-14.27.19:854][884]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2026.04.20-14.27.19:854][884]LogInit: FAudioDevice initialized with ID 7.
+[2026.04.20-14.27.19:854][884]LogAudio: Display: Audio Device (ID: 7) registered with world 'Lvl_FirstPerson'.
+[2026.04.20-14.27.19:854][884]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2026.04.20-14.27.19:931][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.20-14.27.19:931][884]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.04.20-14.27.19:939][884]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2026.04.20-15.27.19
+[2026.04.20-14.27.19:940][884]LogWorld: Bringing up level for play took: 0.007414
+[2026.04.20-14.27.19:944][884]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2026.04.20-14.27.19:952][884]LogBlueprintUserMessages: [BP-TimerTest_C_UAID_40C2BA7E73C438C702_1899021495] Day
+[2026.04.20-14.27.19:953][884]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] Day
+[2026.04.20-14.27.19:960][884]PIE: Server logged in
+[2026.04.20-14.27.19:965][884]PIE: Play in editor total start time 0.195 seconds.
+[2026.04.20-14.27.20:061][885]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.20-14.27.20:752][944]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 9
+[2026.04.20-14.27.21:494][ 13]LogBlueprintUserMessages: [Can_C_UAID_84A93E8DAADF71C802_1151834583] Hello
+[2026.04.20-14.27.21:687][ 31]LogBlueprintUserMessages: [STT_PickAndUseRandomSmartObject_C] Searching
+[2026.04.20-14.27.21:755][ 37]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 8
+[2026.04.20-14.27.22:764][133]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 7
+[2026.04.20-14.27.23:768][229]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 6
+[2026.04.20-14.27.24:456][296]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.04.20-14.27.24:456][296]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2026.04.20-14.27.24:456][296]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.04.20-14.27.24:456][296]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ShopEntryRefs' of length 0 in '/Game/UI/ShopUI/WBP_shopui.WBP_shopui_C'!
+[2026.04.20-14.27.24:456][296]LogScript: Warning: Script Msg called by: WBP_shopui_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.WBP_shopui_C_0
+[2026.04.20-14.27.24:456][296]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'ShopEntryRefs' of length 1 in '/Game/UI/ShopUI/WBP_shopui.WBP_shopui_C'!
+[2026.04.20-14.27.24:458][296]LogScript: Warning: Script Msg called by: WBP_shopui_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.WBP_shopui_C_0
+[2026.04.20-14.27.24:458][296]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'ShopEntryRefs' of length 2 in '/Game/UI/ShopUI/WBP_shopui.WBP_shopui_C'!
+[2026.04.20-14.27.24:458][296]LogScript: Warning: Script Msg called by: WBP_shopui_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.WBP_shopui_C_0
+[2026.04.20-14.27.24:458][296]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'ShopEntryRefs' of length 3 in '/Game/UI/ShopUI/WBP_shopui.WBP_shopui_C'!
+[2026.04.20-14.27.24:459][296]LogScript: Warning: Script Msg called by: WBP_shopui_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.WBP_shopui_C_0
+[2026.04.20-14.27.24:459][296]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'ShopEntryRefs' of length 4 in '/Game/UI/ShopUI/WBP_shopui.WBP_shopui_C'!
+[2026.04.20-14.27.24:459][296]LogScript: Warning: Script Msg called by: WBP_shopui_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.WBP_shopui_C_0
+[2026.04.20-14.27.24:775][320]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 5
+[2026.04.20-14.27.25:781][422]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 4
+[2026.04.20-14.27.25:976][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.20-14.27.25:977][438]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.04.20-14.27.25:977][438]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.04.20-14.27.25:977][438]LogSlate: Window 'Haunting_Sim Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.04.20-14.27.25:982][438]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-14.27.25:983][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-14.27.25:983][438]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.04.20-14.27.25:985][438]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.20-14.27.25:988][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-14.27.26:006][438]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2026.04.20-14.27.26:006][438]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2026.04.20-14.27.26:009][438]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2026.04.20-14.27.26:017][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.04.20-14.27.26:115][439]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2026.04.20-14.27.27:621][579]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.04.20-14.27.27:641][579]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.20-14.27.27:641][579]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.04.20-14.27.27:642][579]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 872 us (total: 8.662 ms)
+[2026.04.20-14.27.27:643][579]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.20-14.27.27:644][579]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.04.20-14.27.27:653][579]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.20-14.27.27:656][579]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.959 ms (total: 13.904 ms)
+[2026.04.20-14.27.27:656][579]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012454s)
+[2026.04.20-14.27.27:656][579]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.012486s)
+[2026.04.20-14.27.27:673][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.04.20-14.27.27:674][579]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.04.20-14.27.27:675][579]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.20-14.27.27:675][579]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.20-14.27.27:675][579]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.20-14.27.27:675][579]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.20-14.27.27:677][579]LogWorldPartition: Display: WorldPartition initialize took 2.239 ms (total: 1.45 sec)
+[2026.04.20-14.27.27:677][579]LogPlayLevel: PIE: World Init took: (0.004141s)
+[2026.04.20-14.27.27:679][579]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2026.04.20-14.27.27:679][579]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.20-14.27.27:679][579]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.20-14.27.27:679][579]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.20-14.27.27:679][579]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.20-14.27.27:679][579]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.20-14.27.27:679][579]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.20-14.27.27:679][579]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.20-14.27.27:679][579]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.20-14.27.27:679][579]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.20-14.27.27:679][579]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.20-14.27.27:679][579]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.20-14.27.27:682][579]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.20-14.27.27:719][579]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics HD Audio)
+[2026.04.20-14.27.27:719][579]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.20-14.27.27:719][579]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.20-14.27.27:719][579]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.20-14.27.27:719][579]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2026.04.20-14.27.27:719][579]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2026.04.20-14.27.27:723][579]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2026.04.20-14.27.27:723][579]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2026.04.20-14.27.27:723][579]LogInit: FAudioDevice initialized with ID 8.
+[2026.04.20-14.27.27:723][579]LogAudio: Display: Audio Device (ID: 8) registered with world 'Lvl_FirstPerson'.
+[2026.04.20-14.27.27:723][579]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2026.04.20-14.27.27:767][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.20-14.27.27:768][579]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.04.20-14.27.27:774][579]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2026.04.20-15.27.27
+[2026.04.20-14.27.27:774][579]LogWorld: Bringing up level for play took: 0.005965
+[2026.04.20-14.27.27:778][579]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2026.04.20-14.27.27:785][579]LogBlueprintUserMessages: [BP-TimerTest_C_UAID_40C2BA7E73C438C702_1899021495] Day
+[2026.04.20-14.27.27:785][579]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] Day
+[2026.04.20-14.27.27:792][579]PIE: Server logged in
+[2026.04.20-14.27.27:797][579]PIE: Play in editor total start time 0.156 seconds.
+[2026.04.20-14.27.27:893][580]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.20-14.27.28:631][644]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 9
+[2026.04.20-14.27.29:422][718]LogBlueprintUserMessages: [STT_PickAndUseRandomSmartObject_C] Searching
+[2026.04.20-14.27.29:635][739]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 8
+[2026.04.20-14.27.30:643][835]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 7
+[2026.04.20-14.27.31:651][927]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 6
+[2026.04.20-14.27.32:654][ 25]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 5
+[2026.04.20-14.27.33:655][118]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 4
+[2026.04.20-14.27.34:816][136]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 3
+[2026.04.20-14.27.35:816][139]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 2
+[2026.04.20-14.27.36:816][142]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 1
+[2026.04.20-14.27.37:502][146]LogBlueprintUserMessages: [STT_PickAndUseRandomSmartObject_C_0] Searching
+[2026.04.20-14.27.37:623][157]LogBlueprintUserMessages: [BP-TimerTest_C_UAID_40C2BA7E73C438C702_1899021495] Night
+[2026.04.20-14.27.37:820][175]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 0
+[2026.04.20-14.27.37:820][175]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] End
+[2026.04.20-14.27.37:820][175]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] Night
+[2026.04.20-14.27.38:831][265]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 9
+[2026.04.20-14.27.39:927][305]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 8
+[2026.04.20-14.27.40:927][308]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 7
+[2026.04.20-14.27.41:928][371]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 6
+[2026.04.20-14.27.42:938][465]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 5
+[2026.04.20-14.27.43:973][471]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 4
+[2026.04.20-14.27.44:974][474]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 3
+[2026.04.20-14.27.45:973][477]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 2
+[2026.04.20-14.27.46:973][480]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 1
+[2026.04.20-14.27.47:640][482]LogBlueprintUserMessages: [BP-TimerTest_C_UAID_40C2BA7E73C438C702_1899021495] Reset
+[2026.04.20-14.27.47:640][482]LogBlueprintUserMessages: [BP-TimerTest_C_UAID_40C2BA7E73C438C702_1899021495] Day
+[2026.04.20-14.27.47:973][483]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 0
+[2026.04.20-14.27.47:973][483]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] End
+[2026.04.20-14.27.47:973][483]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] Day
+[2026.04.20-14.27.48:976][486]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 9
+[2026.04.20-14.27.49:975][489]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 8
+[2026.04.20-14.27.51:140][513]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 7
+[2026.04.20-14.27.52:142][516]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 6
+[2026.04.20-14.27.53:142][519]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 5
+[2026.04.20-14.27.54:147][553]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 4
+[2026.04.20-14.27.55:153][655]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 3
+[2026.04.20-14.27.56:156][755]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 2
+[2026.04.20-14.27.57:160][847]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 1
+[2026.04.20-14.27.57:645][892]LogBlueprintUserMessages: [BP-TimerTest_C_UAID_40C2BA7E73C438C702_1899021495] Night
+[2026.04.20-14.27.58:165][941]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 0
+[2026.04.20-14.27.58:165][941]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] End
+[2026.04.20-14.27.58:165][941]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] Night
+[2026.04.20-14.27.59:173][ 35]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 9
+[2026.04.20-14.28.00:181][124]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 8
+[2026.04.20-14.28.01:187][216]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 7
+[2026.04.20-14.28.02:190][312]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 6
+[2026.04.20-14.28.03:197][407]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 5
+[2026.04.20-14.28.04:203][497]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 4
+[2026.04.20-14.28.05:208][585]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 3
+[2026.04.20-14.28.06:215][681]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 2
+[2026.04.20-14.28.07:218][773]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 1
+[2026.04.20-14.28.07:655][812]LogBlueprintUserMessages: [BP-TimerTest_C_UAID_40C2BA7E73C438C702_1899021495] Reset
+[2026.04.20-14.28.07:655][812]LogBlueprintUserMessages: [BP-TimerTest_C_UAID_40C2BA7E73C438C702_1899021495] Day
+[2026.04.20-14.28.08:221][862]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 0
+[2026.04.20-14.28.08:221][862]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] End
+[2026.04.20-14.28.08:222][862]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] Day
+[2026.04.20-14.28.08:297][869]LogBlueprintUserMessages: [Can_C_UAID_84A93E8DAADF71C802_1151834583] Hello
+[2026.04.20-14.28.09:230][953]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 9
+[2026.04.20-14.28.10:232][ 50]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 8
+[2026.04.20-14.28.10:441][ 70]LogBlueprintUserMessages: [Can_C_UAID_84A93E8DAADF71C802_1151834583] Hello
+[2026.04.20-14.28.11:232][143]LogBlueprintUserMessages: [BP_FirstPersonGameMode_C_0] 7
+[2026.04.20-14.28.12:100][218]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.20-14.28.12:100][218]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.04.20-14.28.12:100][218]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.04.20-14.28.12:102][218]LogSlate: Window 'Haunting_Sim Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.04.20-14.28.12:126][218]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-14.28.12:128][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-14.28.12:128][218]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.04.20-14.28.12:131][218]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.20-14.28.12:141][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-14.28.12:170][218]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2026.04.20-14.28.12:171][218]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2026.04.20-14.28.12:174][218]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2026.04.20-14.28.12:184][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.04.20-14.28.12:283][219]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2026.04.20-14.31.44:603][742]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8253.477539
+[2026.04.20-14.31.45:604][745]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-14.31.45:604][746]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8254.145508, Update Interval: 354.330872
