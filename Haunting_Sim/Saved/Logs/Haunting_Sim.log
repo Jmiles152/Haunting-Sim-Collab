@@ -6831,3 +6831,557 @@ Sampler Limit: 32
 [2026.04.20-14.31.44:603][742]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8253.477539
 [2026.04.20-14.31.45:604][745]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.04.20-14.31.45:604][746]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8254.145508, Update Interval: 354.330872
+[2026.04.20-14.38.23:992][940]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8652.845703
+[2026.04.20-14.38.24:993][943]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-14.38.24:994][944]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8653.512695, Update Interval: 310.310974
+[2026.04.20-14.39.35:957][863]LogStreaming: Display: FlushAsyncLoading(493): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.20-14.39.36:034][863]LogTexture: Display: Building textures: /Game/Art/Environment/Env_Parts/CurtainRails/textures/Curtains_OcclusionRoughnessMetallic.Curtains_OcclusionRoughnessMetallic (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 94.208323 MB), EncodeSpeed: Fast
+[2026.04.20-14.39.36:075][863]LogTexture: Display: Building textures: /Game/Art/Environment/Env_Parts/CurtainRails/textures/Curtains_Normal.Curtains_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 135.749988 MB), EncodeSpeed: Fast
+[2026.04.20-14.39.36:078][863]LogStaticMesh: Display: Building static mesh SM_Curtain (Required Memory Estimate: 11.783955 MB)...
+[2026.04.20-14.39.36:090][863]LogTexture: Display: Building textures: /Game/Art/Environment/Env_Parts/CurtainRails/textures/Curtains_BaseColor.Curtains_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 94.208323 MB), EncodeSpeed: Fast
+[2026.04.20-14.39.36:126][863]LogStaticMesh: Adjacency [0.00s], tris: 7696, UVs 1
+[2026.04.20-14.39.36:136][863]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2026.04.20-14.39.36:137][863]LogStaticMesh: Leaves [0.00s]
+[2026.04.20-14.39.36:392][863]LogStaticMesh: Reduce [0.25s]
+[2026.04.20-14.39.36:441][863]LogStaticMesh: Fallback [0.05s], num tris: 814
+[2026.04.20-14.39.36:501][863]LogStaticMesh: Fallback [0.06s], num tris: 516
+[2026.04.20-14.39.36:503][863]LogStaticMesh: ConstrainClusters:
+[2026.04.20-14.39.36:503][863]LogStaticMesh:   Input: 123 Clusters, 15506 Triangles and 10806 Vertices
+[2026.04.20-14.39.36:503][863]LogStaticMesh:   Output without splits: 123 Clusters, 15506 Triangles and 11192 Vertices
+[2026.04.20-14.39.36:503][863]LogStaticMesh:   Output with splits: 123 Clusters, 15506 Triangles and 11192 Vertices
+[2026.04.20-14.39.36:504][863]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 123, Slow Path Clusters: 0, 1 Material: 123, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.04.20-14.39.36:506][863]LogStaticMesh: WritePages:
+[2026.04.20-14.39.36:506][863]LogStaticMesh:   Root: GPU size: 32296 bytes. 1 Pages. 32296.000 bytes per page (98.560% utilization).
+[2026.04.20-14.39.36:506][863]LogStaticMesh:   Streaming: GPU size: 108116 bytes. 1 Pages (1 with relative encoding). 108116.000 bytes per page (82.486% utilization).
+[2026.04.20-14.39.36:506][863]LogStaticMesh:   Page data disk size: 121796 bytes. Fixup data size: 416 bytes.
+[2026.04.20-14.39.36:507][863]LogStaticMesh:   Total GPU size: 140412 bytes, Total disk size: 122212 bytes.
+[2026.04.20-14.39.36:507][863]LogStaticMesh: Encode [0.01s]
+[2026.04.20-14.39.36:507][863]LogStaticMesh: NaniteBuild [0.38s]
+[2026.04.20-14.39.36:536][863]LogStaticMesh: Built static mesh [0.46s] /Game/Art/Environment/Env_Parts/CurtainRails/SM_Curtain.SM_Curtain
+[2026.04.20-14.39.43:276][863]LogInterchangeEngine: [Pending] Importing
+[2026.04.20-14.39.43:276][863]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/l012783n/OneDrive - University of Staffordshire/COLLAB Stoke_12 - [Assets]/[Props]/Prop - Curtains - Rails/SM_Curtain_New.fbx]
+[2026.04.20-14.39.43:806][869]Interchange: Warning: [C:/Users/l012783n/OneDrive - University of Staffordshire/COLLAB Stoke_12 - [Assets]/[Props]/Prop - Curtains - Rails/SM_Curtain_New.fbx : '', Unknown] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.04.20-14.39.43:806][869]Interchange: Warning: [C:/Users/l012783n/OneDrive - University of Staffordshire/COLLAB Stoke_12 - [Assets]/[Props]/Prop - Curtains - Rails/SM_Curtain_New.fbx : '', Unknown] No smoothing group information was found for this mesh 'Mesh_001' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.04.20-14.39.43:806][869]Interchange: Warning: [C:/Users/l012783n/OneDrive - University of Staffordshire/COLLAB Stoke_12 - [Assets]/[Props]/Prop - Curtains - Rails/SM_Curtain_New.fbx : '', Unknown] No smoothing group information was found for this mesh 'Mesh_002' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.04.20-14.39.43:826][869]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.04.20-14.39.43:826][869]LogInterchangeEngine: Error: [Failure] Import Failed
+[2026.04.20-14.39.50:631][135]LogContentBrowser: Attempting asset rename: Curtains_BaseColor -> Curtains_BaseColor
+[2026.04.20-14.39.54:176][248]LogContentBrowser: Attempting asset rename: Curtains_Normal -> Curtains_Normal
+[2026.04.20-14.39.58:412][404]LogStreaming: Display: FlushAsyncLoading(500): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.20-14.39.58:426][404]LogInterchangeEngine: [Pending] Importing
+[2026.04.20-14.39.58:426][404]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/l012783n/OneDrive - University of Staffordshire/COLLAB Stoke_12 - [Assets]/[Props]/Prop - Curtains - Rails/textures/Curtains_BaseColor.png]
+[2026.04.20-14.39.59:298][404]LogTexture: Display: Building textures: /Game/Art/Environment/Env_Parts/CurtainRails/textures/Curtains_BaseColor.Curtains_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 94.208323 MB), EncodeSpeed: Fast
+[2026.04.20-14.39.59:328][404]LogInterchangeEngine: Display: Interchange import completed [C:/Users/l012783n/On...ins - Rails/textures/Curtains_BaseColor.png]
+[2026.04.20-14.39.59:328][404]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.04.20-14.39.59:328][404]LogInterchangeEngine: [Success] Import Done
+[2026.04.20-14.39.59:343][404]LogInterchangeEngine: [Pending] Importing
+[2026.04.20-14.39.59:343][404]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/l012783n/OneDrive - University of Staffordshire/COLLAB Stoke_12 - [Assets]/[Props]/Prop - Curtains - Rails/textures/Curtains_Normal.png]
+[2026.04.20-14.40.00:130][404]LogTexture: Display: Building textures: /Game/Art/Environment/Env_Parts/CurtainRails/textures/Curtains_Normal.Curtains_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 135.749988 MB), EncodeSpeed: Fast
+[2026.04.20-14.40.00:156][404]LogInterchangeEngine: Display: Interchange import completed [C:/Users/l012783n/On...ins - Rails/textures/Curtains_Normal.png]
+[2026.04.20-14.40.00:156][404]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.04.20-14.40.00:156][404]LogInterchangeEngine: [Success] Import Done
+[2026.04.20-14.40.00:176][404]LogInterchangeEngine: [Pending] Importing
+[2026.04.20-14.40.00:176][404]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/l012783n/OneDrive - University of Staffordshire/COLLAB Stoke_12 - [Assets]/[Props]/Prop - Curtains - Rails/textures/Curtains_OcclusionRoughnessMetallic.png]
+[2026.04.20-14.40.00:484][404]LogTexture: Display: Building textures: /Game/Art/Environment/Env_Parts/CurtainRails/textures/Curtains_OcclusionRoughnessMetallic.Curtains_OcclusionRoughnessMetallic (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 94.208323 MB), EncodeSpeed: Fast
+[2026.04.20-14.40.00:510][404]LogInterchangeEngine: Display: Interchange import completed [C:/Users/l012783n/On...ins - Rails/textures/Curtains_OcclusionRoughnessMetallic.png]
+[2026.04.20-14.40.00:510][404]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.04.20-14.40.00:510][404]LogInterchangeEngine: [Success] Import Done
+[2026.04.20-14.40.01:400][408]LogContentBrowser: Attempting asset rename: Curtains_OcclusionRoughnessMetallic -> Curtains_OcclusionRoughnessMetallic
+[2026.04.20-14.40.06:415][822]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Environment/Env_Parts/CurtainRails/SM_Curtain.SM_Curtain
+[2026.04.20-14.40.06:415][822]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Environment/Env_Parts/CurtainRails/SM_Curtain.SM_Curtain
+[2026.04.20-14.40.06:416][822]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Environment/Env_Parts/CurtainRails/SM_Curtain.SM_Curtain as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_1
+[2026.04.20-14.40.07:105][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.04.20-14.40.07:108][882]LogEditorActor: Deleted 0 Actors (0.041 secs)
+[2026.04.20-14.40.07:112][882]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Environment/Env_Parts/CurtainRails/SM_Curtain.SM_Curtain
+[2026.04.20-14.40.07:112][882]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Environment/Env_Parts/CurtainRails/SM_Curtain.SM_Curtain
+[2026.04.20-14.40.07:117][882]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Environment/Env_Parts/CurtainRails/SM_Curtain.SM_Curtain as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_84A93E8DAC6575D302_1526341903
+[2026.04.20-14.40.11:405][199]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Art/Environment/Env_Parts/CurtainRails/M_Curtains.M_Curtains
+[2026.04.20-14.40.11:408][199]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2026.04.20-14.40.12:208][199]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.20-14.40.12:208][199]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.04.20-14.40.12:208][199]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.20-14.40.12:208][199]MaterialEditorStats: Shader Count: 0
+[2026.04.20-14.40.12:208][199]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.20-14.40.12:311][201]MaterialEditorStats: Base pass shader: 191 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.04.20-14.40.12:312][201]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.20-14.40.12:312][201]MaterialEditorStats: Texture samplers: 4/16
+[2026.04.20-14.40.12:312][201]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.04.20-14.40.12:312][201]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.20-14.40.12:312][201]MaterialEditorStats: Shader Count: 5
+[2026.04.20-14.40.12:312][201]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.20-14.40.16:851][469]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.20-14.40.16:851][469]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.20-14.40.16:851][469]MaterialEditorStats: Shader Count: 0
+[2026.04.20-14.40.16:851][469]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.20-14.40.16:941][471]MaterialEditorStats: Base pass shader: 173 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.04.20-14.40.16:941][471]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.20-14.40.16:941][471]MaterialEditorStats: Texture samplers: 1/16
+[2026.04.20-14.40.16:941][471]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.20-14.40.16:941][471]MaterialEditorStats: Shader Count: 5
+[2026.04.20-14.40.16:941][471]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.20-14.40.23:046][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.04.20-14.40.24:755][782]LogSlate: Window 'Delete Assets' being destroyed
+[2026.04.20-14.40.24:898][782]LogSlate: Window 'M_Curtains' being destroyed
+[2026.04.20-14.40.24:947][782]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-14.40.24:947][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-14.40.25:007][782]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/Art/Environment/Env_Parts/CurtainRails/textures/Curtains_OcclusionRoughnessMetallic.Curtains_OcclusionRoughnessMetallic
+	Asset Type: Texture2D
+	Asset Name: /Game/Art/Environment/Env_Parts/CurtainRails/textures/Curtains_Normal.Curtains_Normal
+	Asset Type: Texture2D
+	Asset Name: /Game/Art/Environment/Env_Parts/CurtainRails/textures/Curtains_BaseColor.Curtains_BaseColor
+	Asset Type: Texture2D
+[2026.04.20-14.40.25:216][782]LogMaterial: Warning: [AssetLog] E:\[University_Asignments]\3rd\Collab\Haunting_Sim\Haunting-Sim-Collab\Haunting_Sim\Content\Art\Environment\Env_Parts\CurtainRails\M_Curtains.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.04.20-14.40.25:216][782]LogMaterial: Warning: M_Curtains: Requesting an invalid TextureIndex! (1 / 1)
+[2026.04.20-14.40.25:219][782]LogMaterial: Warning: [AssetLog] E:\[University_Asignments]\3rd\Collab\Haunting_Sim\Haunting-Sim-Collab\Haunting_Sim\Content\Art\Environment\Env_Parts\CurtainRails\M_Curtains.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.04.20-14.40.25:220][782]LogMaterial: Warning: [AssetLog] E:\[University_Asignments]\3rd\Collab\Haunting_Sim\Haunting-Sim-Collab\Haunting_Sim\Content\Art\Environment\Env_Parts\CurtainRails\M_Curtains.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.04.20-14.40.25:224][782]LogMaterial: Warning: [AssetLog] E:\[University_Asignments]\3rd\Collab\Haunting_Sim\Haunting-Sim-Collab\Haunting_Sim\Content\Art\Environment\Env_Parts\CurtainRails\M_Curtains.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.04.20-14.40.25:225][782]LogMaterial: Warning: [AssetLog] E:\[University_Asignments]\3rd\Collab\Haunting_Sim\Haunting-Sim-Collab\Haunting_Sim\Content\Art\Environment\Env_Parts\CurtainRails\M_Curtains.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.04.20-14.40.25:227][782]LogMaterial: Warning: [AssetLog] E:\[University_Asignments]\3rd\Collab\Haunting_Sim\Haunting-Sim-Collab\Haunting_Sim\Content\Art\Environment\Env_Parts\CurtainRails\M_Curtains.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.04.20-14.40.25:229][782]LogMaterial: Warning: [AssetLog] E:\[University_Asignments]\3rd\Collab\Haunting_Sim\Haunting-Sim-Collab\Haunting_Sim\Content\Art\Environment\Env_Parts\CurtainRails\M_Curtains.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.04.20-14.40.25:232][782]LogMaterial: Warning: [AssetLog] E:\[University_Asignments]\3rd\Collab\Haunting_Sim\Haunting-Sim-Collab\Haunting_Sim\Content\Art\Environment\Env_Parts\CurtainRails\M_Curtains.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.04.20-14.40.25:234][782]LogMaterial: Warning: [AssetLog] E:\[University_Asignments]\3rd\Collab\Haunting_Sim\Haunting-Sim-Collab\Haunting_Sim\Content\Art\Environment\Env_Parts\CurtainRails\M_Curtains.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.04.20-14.40.25:328][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.04.20-14.40.25:350][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.04.20-14.40.25:366][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.04.20-14.40.25:391][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.04.20-14.40.25:413][782]LogSourceControl: Display: Uncontrolled Changelist persistency file saved E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.20-14.40.28:033][998]LogStreaming: Display: FlushAsyncLoading(503): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.20-14.40.28:043][998]LogInterchangeEngine: [Pending] Importing
+[2026.04.20-14.40.28:043][998]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/l012783n/OneDrive - University of Staffordshire/COLLAB Stoke_12 - [Assets]/[Props]/Prop - Curtains - Rails/textures/Curtains_BaseColor.png]
+[2026.04.20-14.40.28:044][998]LogInterchangeEngine: [Pending] Importing -  (2)
+[2026.04.20-14.40.28:044][998]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/l012783n/OneDrive - University of Staffordshire/COLLAB Stoke_12 - [Assets]/[Props]/Prop - Curtains - Rails/textures/Curtains_Normal.png]
+[2026.04.20-14.40.28:045][998]LogInterchangeEngine: [Pending] Importing -  (3)
+[2026.04.20-14.40.28:045][998]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/l012783n/OneDrive - University of Staffordshire/COLLAB Stoke_12 - [Assets]/[Props]/Prop - Curtains - Rails/textures/Curtains_OcclusionRoughnessMetallic.png]
+[2026.04.20-14.40.28:196][  0]LogStreaming: Display: FlushAsyncLoading(506): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.20-14.40.28:258][  1]LogInterchangePipeline: Display: Auto-detected normal map
+[2026.04.20-14.40.28:366][  2]LogInterchangeEngine: Display: Interchange import completed [C:/Users/l012783n/On...ins - Rails/textures/Curtains_BaseColor.png]
+[2026.04.20-14.40.28:366][  2]LogInterchangeEngine: [Pending] Importing -  (2)
+[2026.04.20-14.40.28:366][  2]LogInterchangeEngine: Display: Interchange import completed [C:/Users/l012783n/On...ins - Rails/textures/Curtains_Normal.png]
+[2026.04.20-14.40.28:366][  2]LogInterchangeEngine: [Pending] Importing -  (1)
+[2026.04.20-14.40.28:366][  2]LogInterchangeEngine: Display: Interchange import completed [C:/Users/l012783n/On...ins - Rails/textures/Curtains_OcclusionRoughnessMetallic.png]
+[2026.04.20-14.40.28:380][  2]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.04.20-14.40.28:380][  2]LogInterchangeEngine: [Success] Import Done
+[2026.04.20-14.40.29:955][101]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Art/Environment/Env_Parts/CurtainRails/M_Curtains.M_Curtains
+[2026.04.20-14.40.29:956][101]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Curtains: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.04.20-14.40.29:957][101]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2026.04.20-14.40.30:324][101]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Curtains: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.04.20-14.40.30:326][101]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Curtains: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.04.20-14.40.30:757][101]MaterialEditorStats: Error: [SM6] (Node TextureSample) Texture Sample> Missing input texture
+[2026.04.20-14.40.30:757][101]MaterialEditorStats: Error: [SM6] (Node TextureSample) Texture Sample> Missing input texture
+[2026.04.20-14.40.30:757][101]MaterialEditorStats: Error: [SM6] (Node TextureSample) Texture Sample> Missing input texture
+[2026.04.20-14.40.37:119][498]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Curtains: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.04.20-14.40.37:124][498]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Curtains: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.04.20-14.40.37:128][498]MaterialEditorStats: Error: [SM6] (Node TextureSample) Texture Sample> Missing input texture
+[2026.04.20-14.40.37:128][498]MaterialEditorStats: Error: [SM6] (Node TextureSample) Texture Sample> Missing input texture
+[2026.04.20-14.40.40:067][685]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Curtains: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.04.20-14.40.40:071][685]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Curtains: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.04.20-14.40.40:077][685]MaterialEditorStats: Error: [SM6] (Node TextureSample) Texture Sample> Missing input texture
+[2026.04.20-14.40.43:377][889]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.20-14.40.43:377][889]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.04.20-14.40.43:377][889]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.20-14.40.43:377][889]MaterialEditorStats: Shader Count: 0
+[2026.04.20-14.40.43:377][889]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.20-14.40.43:492][891]MaterialEditorStats: Base pass shader: 191 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.04.20-14.40.43:493][891]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.20-14.40.43:493][891]MaterialEditorStats: Texture samplers: 4/16
+[2026.04.20-14.40.43:493][891]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.04.20-14.40.43:493][891]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.20-14.40.43:493][891]MaterialEditorStats: Shader Count: 5
+[2026.04.20-14.40.43:493][891]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.20-14.40.44:520][958]LogMaterialEditor: Applying material M_Curtains
+[2026.04.20-14.40.44:724][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.04.20-14.40.47:269][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.04.20-14.40.47:312][958]MaterialEditorStats: Base pass shader: 191 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.04.20-14.40.47:312][958]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.20-14.40.47:312][958]MaterialEditorStats: Nanite Compute Shader: 849 instructions
+Stats: Resources Used: 12
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.04.20-14.40.47:312][958]MaterialEditorStats: Texture samplers: 4/16
+[2026.04.20-14.40.47:312][958]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.04.20-14.40.47:312][958]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.04.20-14.40.47:312][958]MaterialEditorStats: Shader Count: 19
+[2026.04.20-14.40.47:312][958]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.20-14.40.47:786][979]LogMaterialEditor: Saving and Compiling material M_Curtains
+[2026.04.20-14.40.47:789][979]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.20-14.40.47:855][979]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Environment/Env_Parts/CurtainRails/M_Curtains] ([1] browsable assets)...
+[2026.04.20-14.40.47:895][979]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Art/Environment/Env_Parts/CurtainRails/M_Curtains.M_Curtains]
+[2026.04.20-14.40.47:895][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Env_Parts/CurtainRails/M_Curtains]
+[2026.04.20-14.40.47:907][979]LogSavePackage: Moving output files for package: /Game/Art/Environment/Env_Parts/CurtainRails/M_Curtains
+[2026.04.20-14.40.47:908][979]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/M_Curtains2C45BA05496B235AA1B9E8B3C48737DF.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Env_Parts/CurtainRails/M_Curtains.uasset'
+[2026.04.20-14.40.47:922][979]LogFileHelpers: InternalPromptForCheckoutAndSave took 133.134 ms (total: 6.96 sec)
+[2026.04.20-14.40.47:972][979]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.20-14.40.47:972][979]LogContentValidation: Enabled validators:
+[2026.04.20-14.40.47:974][979]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.20-14.40.47:974][979]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-14.40.47:974][979]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.20-14.40.47:974][979]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.20-14.40.47:974][979]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-14.40.47:974][979]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-14.40.47:974][979]AssetCheck: /Game/Art/Environment/Env_Parts/CurtainRails/M_Curtains Validating asset
+[2026.04.20-14.40.48:005][979]LogSourceControl: Display: Uncontrolled Changelist persistency file saved E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.20-14.41.34:559][670]LogInterchangeEngine: [Pending] Importing
+[2026.04.20-14.41.34:559][670]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/l012783n/OneDrive - University of Staffordshire/COLLAB Stoke_12 - [Assets]/[Props]/Prop - Curtains - Rails/SM_Curtain_New.fbx]
+[2026.04.20-14.41.34:921][675]Interchange: Warning: [C:/Users/l012783n/OneDrive - University of Staffordshire/COLLAB Stoke_12 - [Assets]/[Props]/Prop - Curtains - Rails/SM_Curtain_New.fbx : '', Unknown] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.04.20-14.41.34:921][675]Interchange: Warning: [C:/Users/l012783n/OneDrive - University of Staffordshire/COLLAB Stoke_12 - [Assets]/[Props]/Prop - Curtains - Rails/SM_Curtain_New.fbx : '', Unknown] No smoothing group information was found for this mesh 'Mesh_001' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.04.20-14.41.34:921][675]Interchange: Warning: [C:/Users/l012783n/OneDrive - University of Staffordshire/COLLAB Stoke_12 - [Assets]/[Props]/Prop - Curtains - Rails/SM_Curtain_New.fbx : '', Unknown] No smoothing group information was found for this mesh 'Mesh_002' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.04.20-14.41.34:926][675]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.04.20-14.41.34:926][675]LogInterchangeEngine: Error: [Failure] Import Failed
+[2026.04.20-14.41.35:767][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.04.20-14.41.35:775][711]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/47/1CSING5JNJP9HBBB11ETX4_Auto6
+[2026.04.20-14.41.35:775][711]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/1CSING5JNJP9HBBB11ETX4_Auto618936E3D483D31E2B090C1B51E9A59EC.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/47/1CSING5JNJP9HBBB11ETX4_Auto6.uasset'
+[2026.04.20-14.41.35:778][711]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.033
+[2026.04.20-14.41.35:778][711]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.033
+[2026.04.20-14.41.35:779][711]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Environment/Env_Parts/CurtainRails/SM_Curtain] ([1] browsable assets)...
+[2026.04.20-14.41.35:879][711]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/Environment/Env_Parts/CurtainRails/SM_Curtain.SM_Curtain]
+[2026.04.20-14.41.35:879][711]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Env_Parts/CurtainRails/SM_Curtain]
+[2026.04.20-14.41.35:910][711]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Environment/Env_Parts/CurtainRails/SM_Curtain_Auto6
+[2026.04.20-14.41.35:910][711]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/SM_Curtain_Auto6CA6307734314678CC936E6AB12BF73C0.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Autosaves/Game/Art/Environment/Env_Parts/CurtainRails/SM_Curtain_Auto6.uasset'
+[2026.04.20-14.41.35:913][711]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Environment/Env_Parts/CurtainRails/textures/Curtains_BaseColor] ([1] browsable assets)...
+[2026.04.20-14.41.35:915][711]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Environment/Env_Parts/CurtainRails/textures/Curtains_BaseColor.Curtains_BaseColor]
+[2026.04.20-14.41.35:915][711]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Env_Parts/CurtainRails/textures/Curtains_BaseColor]
+[2026.04.20-14.41.36:036][711]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Environment/Env_Parts/CurtainRails/textures/Curtains_BaseColor_Auto6
+[2026.04.20-14.41.36:036][711]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Curtains_BaseColor_Auto65762C5674576FFD2D184E18F35B56CB5.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Autosaves/Game/Art/Environment/Env_Parts/CurtainRails/textures/Curtains_BaseColor_Auto6.uasset'
+[2026.04.20-14.41.36:039][711]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Environment/Env_Parts/CurtainRails/textures/Curtains_Normal] ([1] browsable assets)...
+[2026.04.20-14.41.36:043][711]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Environment/Env_Parts/CurtainRails/textures/Curtains_Normal.Curtains_Normal]
+[2026.04.20-14.41.36:043][711]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Env_Parts/CurtainRails/textures/Curtains_Normal]
+[2026.04.20-14.41.36:156][711]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Environment/Env_Parts/CurtainRails/textures/Curtains_Normal_Auto6
+[2026.04.20-14.41.36:156][711]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Curtains_Normal_Auto679CB79E342771AEEEB91E2A125BF57F6.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Autosaves/Game/Art/Environment/Env_Parts/CurtainRails/textures/Curtains_Normal_Auto6.uasset'
+[2026.04.20-14.41.36:158][711]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Environment/Env_Parts/CurtainRails/textures/Curtains_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2026.04.20-14.41.36:161][711]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Environment/Env_Parts/CurtainRails/textures/Curtains_OcclusionRoughnessMetallic.Curtains_OcclusionRoughnessMetallic]
+[2026.04.20-14.41.36:161][711]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Env_Parts/CurtainRails/textures/Curtains_OcclusionRoughnessMetallic]
+[2026.04.20-14.41.36:281][711]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Environment/Env_Parts/CurtainRails/textures/Curtains_OcclusionRoughnessMetallic_Auto6
+[2026.04.20-14.41.36:281][711]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Curtains_OcclusionRoughnessMetal020729584F531689F9AA3D9762E354A7.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Autosaves/Game/Art/Environment/Env_Parts/CurtainRails/textures/Curtains_OcclusionRoughnessMetallic_Auto6.uasset'
+[2026.04.20-14.41.36:285][711]LogFileHelpers: Auto-saving content packages took 0.506
+[2026.04.20-14.41.40:742][853]LogInterchangeEngine: [Pending] Importing
+[2026.04.20-14.41.40:742][853]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/l012783n/OneDrive - University of Staffordshire/COLLAB Stoke_12 - [Assets]/[Props]/Prop - Curtains - Rails/SM_Curtain_New.fbx]
+[2026.04.20-14.41.40:979][859]Interchange: Warning: [C:/Users/l012783n/OneDrive - University of Staffordshire/COLLAB Stoke_12 - [Assets]/[Props]/Prop - Curtains - Rails/SM_Curtain_New.fbx : '', Unknown] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.04.20-14.41.40:979][859]Interchange: Warning: [C:/Users/l012783n/OneDrive - University of Staffordshire/COLLAB Stoke_12 - [Assets]/[Props]/Prop - Curtains - Rails/SM_Curtain_New.fbx : '', Unknown] No smoothing group information was found for this mesh 'Mesh_001' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.04.20-14.41.40:979][859]Interchange: Warning: [C:/Users/l012783n/OneDrive - University of Staffordshire/COLLAB Stoke_12 - [Assets]/[Props]/Prop - Curtains - Rails/SM_Curtain_New.fbx : '', Unknown] No smoothing group information was found for this mesh 'Mesh_002' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.04.20-14.41.40:992][859]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.04.20-14.41.40:992][859]LogInterchangeEngine: Error: [Failure] Import Failed
+[2026.04.20-14.41.43:214][ 11]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Environment/Env_Parts/CurtainRails/SM_Curtain.SM_Curtain
+[2026.04.20-14.41.43:249][ 11]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2026.04.20-14.41.44:918][ 34]LogSlate: Window 'SM_Curtain' being destroyed
+[2026.04.20-14.41.44:926][ 34]LogSlate: Window 'SM_Curtain' being destroyed
+[2026.04.20-14.41.45:016][ 34]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-14.41.45:016][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-14.41.45:126][ 34]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-14.41.45:126][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-14.41.45:177][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.04.20-14.41.45:920][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.04.20-14.41.47:041][ 91]LogSlate: Window 'Delete Assets' being destroyed
+[2026.04.20-14.41.47:143][ 91]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Art/Environment/Env_Parts/CurtainRails/SM_Curtain.SM_Curtain
+	Asset Type: StaticMesh
+[2026.04.20-14.41.47:367][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.04.20-14.41.47:386][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.04.20-14.41.47:404][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.04.20-14.41.47:438][ 91]LogSourceControl: Display: Uncontrolled Changelist persistency file saved E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.20-14.41.49:065][193]LogStreaming: Display: FlushAsyncLoading(509): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.20-14.41.49:105][193]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/l012783n/OneDrive - University of Staffordshire/COLLAB Stoke_12 - [Assets]/[Props]/Prop - Curtains - Rails/SM_Curtain_New.fbx]
+[2026.04.20-14.41.50:204][193]LogSlate: Window 'Import Content' being destroyed
+[2026.04.20-14.41.50:227][193]LogInterchangeEngine: [Pending] Importing
+[2026.04.20-14.41.50:313][194]LogStreaming: Display: FlushAsyncLoading(510): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.20-14.41.50:363][195]LogStreaming: Display: FlushAsyncLoading(511): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.20-14.41.50:413][196]LogStreaming: Display: FlushAsyncLoading(512): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.20-14.41.50:476][197]LogStreaming: Display: FlushAsyncLoading(514): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.20-14.41.50:565][199]LogStaticMesh: Display: Building static mesh SM_CurtainRail (Required Memory Estimate: 0.278017 MB)...
+[2026.04.20-14.41.50:565][199]LogStaticMesh: Display: Building static mesh SM_Curtain_R (Required Memory Estimate: 0.828817 MB)...
+[2026.04.20-14.41.50:565][199]LogStaticMesh: Display: Building static mesh SM_Curtain_L (Required Memory Estimate: 0.828817 MB)...
+[2026.04.20-14.41.50:566][199]LogStaticMesh: Adjacency [0.00s], tris: 176, UVs 1
+[2026.04.20-14.41.50:566][199]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.04.20-14.41.50:566][199]LogStaticMesh: Leaves [0.00s]
+[2026.04.20-14.41.50:568][199]LogStaticMesh: Adjacency [0.00s], tris: 536, UVs 1
+[2026.04.20-14.41.50:568][199]LogStaticMesh: Adjacency [0.00s], tris: 536, UVs 1
+[2026.04.20-14.41.50:570][199]LogStaticMesh: Reduce [0.00s]
+[2026.04.20-14.41.50:570][199]LogStaticMesh: Clustering [0.00s]. Ratio: 1.600000
+[2026.04.20-14.41.50:570][199]LogStaticMesh: Fallback [0.00s], num tris: 176
+[2026.04.20-14.41.50:570][199]LogStaticMesh: Leaves [0.00s]
+[2026.04.20-14.41.50:570][199]LogStaticMesh: Fallback [0.00s], num tris: 176
+[2026.04.20-14.41.50:571][199]LogStaticMesh: Clustering [0.00s]. Ratio: 1.600000
+[2026.04.20-14.41.50:571][199]LogStaticMesh: ConstrainClusters:
+[2026.04.20-14.41.50:571][199]LogStaticMesh:   Input: 3 Clusters, 302 Triangles and 223 Vertices
+[2026.04.20-14.41.50:571][199]LogStaticMesh:   Output without splits: 3 Clusters, 302 Triangles and 223 Vertices
+[2026.04.20-14.41.50:571][199]LogStaticMesh:   Output with splits: 3 Clusters, 302 Triangles and 223 Vertices
+[2026.04.20-14.41.50:571][199]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 3, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.04.20-14.41.50:571][199]LogStaticMesh: Leaves [0.00s]
+[2026.04.20-14.41.50:571][199]LogStaticMesh: WritePages:
+[2026.04.20-14.41.50:571][199]LogStaticMesh:   Root: GPU size: 3092 bytes. 1 Pages. 3092.000 bytes per page (9.436% utilization).
+[2026.04.20-14.41.50:571][199]LogStaticMesh:   Streaming: 0 bytes.
+[2026.04.20-14.41.50:571][199]LogStaticMesh:   Page data disk size: 2748 bytes. Fixup data size: 40 bytes.
+[2026.04.20-14.41.50:571][199]LogStaticMesh:   Total GPU size: 3092 bytes, Total disk size: 2788 bytes.
+[2026.04.20-14.41.50:571][199]LogStaticMesh: Encode [0.00s]
+[2026.04.20-14.41.50:571][199]LogStaticMesh: NaniteBuild [0.00s]
+[2026.04.20-14.41.50:583][199]LogStaticMesh: Built static mesh [0.02s] /Game/Art/Environment/Env_Parts/CurtainRails/SM_CurtainRail.SM_CurtainRail
+[2026.04.20-14.41.50:591][199]LogStaticMesh: Reduce [0.02s]
+[2026.04.20-14.41.50:591][199]LogStaticMesh: Reduce [0.02s]
+[2026.04.20-14.41.50:593][199]LogStaticMesh: Fallback [0.00s], num tris: 525
+[2026.04.20-14.41.50:595][199]LogStaticMesh: Fallback [0.00s], num tris: 498
+[2026.04.20-14.41.50:604][199]LogStaticMesh: Fallback [0.01s], num tris: 276
+[2026.04.20-14.41.50:605][199]LogStaticMesh: ConstrainClusters:
+[2026.04.20-14.41.50:605][199]LogStaticMesh:   Input: 14 Clusters, 1291 Triangles and 919 Vertices
+[2026.04.20-14.41.50:605][199]LogStaticMesh:   Output without splits: 14 Clusters, 1291 Triangles and 956 Vertices
+[2026.04.20-14.41.50:605][199]LogStaticMesh:   Output with splits: 14 Clusters, 1291 Triangles and 956 Vertices
+[2026.04.20-14.41.50:605][199]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 14, Slow Path Clusters: 0, 1 Material: 14, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.04.20-14.41.50:605][199]LogStaticMesh: WritePages:
+[2026.04.20-14.41.50:605][199]LogStaticMesh:   Root: GPU size: 13024 bytes. 1 Pages. 13024.000 bytes per page (39.746% utilization).
+[2026.04.20-14.41.50:605][199]LogStaticMesh:   Streaming: 0 bytes.
+[2026.04.20-14.41.50:605][199]LogStaticMesh:   Page data disk size: 11492 bytes. Fixup data size: 72 bytes.
+[2026.04.20-14.41.50:605][199]LogStaticMesh:   Total GPU size: 13024 bytes, Total disk size: 11564 bytes.
+[2026.04.20-14.41.50:605][199]LogStaticMesh: Encode [0.00s]
+[2026.04.20-14.41.50:605][199]LogStaticMesh: NaniteBuild [0.04s]
+[2026.04.20-14.41.50:605][199]LogStaticMesh: Fallback [0.01s], num tris: 258
+[2026.04.20-14.41.50:606][199]LogStaticMesh: ConstrainClusters:
+[2026.04.20-14.41.50:606][199]LogStaticMesh:   Input: 14 Clusters, 1292 Triangles and 914 Vertices
+[2026.04.20-14.41.50:606][199]LogStaticMesh:   Output without splits: 14 Clusters, 1292 Triangles and 930 Vertices
+[2026.04.20-14.41.50:606][199]LogStaticMesh:   Output with splits: 14 Clusters, 1292 Triangles and 930 Vertices
+[2026.04.20-14.41.50:606][199]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 14, Slow Path Clusters: 0, 1 Material: 14, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.04.20-14.41.50:606][199]LogStaticMesh: WritePages:
+[2026.04.20-14.41.50:606][199]LogStaticMesh:   Root: GPU size: 12808 bytes. 1 Pages. 12808.000 bytes per page (39.087% utilization).
+[2026.04.20-14.41.50:606][199]LogStaticMesh:   Streaming: 0 bytes.
+[2026.04.20-14.41.50:606][199]LogStaticMesh:   Page data disk size: 11324 bytes. Fixup data size: 72 bytes.
+[2026.04.20-14.41.50:606][199]LogStaticMesh:   Total GPU size: 12808 bytes, Total disk size: 11396 bytes.
+[2026.04.20-14.41.50:606][199]LogStaticMesh: Encode [0.00s]
+[2026.04.20-14.41.50:606][199]LogStaticMesh: NaniteBuild [0.04s]
+[2026.04.20-14.41.50:620][200]LogStaticMesh: Built static mesh [0.06s] /Game/Art/Environment/Env_Parts/CurtainRails/SM_Curtain_L.SM_Curtain_L
+[2026.04.20-14.41.50:620][200]LogStaticMesh: Built static mesh [0.06s] /Game/Art/Environment/Env_Parts/CurtainRails/SM_Curtain_R.SM_Curtain_R
+[2026.04.20-14.41.52:727][314]LogInterchangeEngine: Display: Interchange import completed [C:/Users/l012783n/On...p - Curtains - Rails/SM_Curtain_New.fbx]
+[2026.04.20-14.41.52:727][314]Interchange: Warning: [C:/Users/l012783n/OneDrive - University of Staffordshire/COLLAB Stoke_12 - [Assets]/[Props]/Prop - Curtains - Rails/SM_Curtain_New.fbx : 'SM_CurtainRail', StaticMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.04.20-14.41.52:727][314]Interchange: Warning: [C:/Users/l012783n/OneDrive - University of Staffordshire/COLLAB Stoke_12 - [Assets]/[Props]/Prop - Curtains - Rails/SM_Curtain_New.fbx : 'SM_Curtain_R', StaticMesh] No smoothing group information was found for this mesh 'Mesh_002' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.04.20-14.41.52:727][314]Interchange: Warning: [C:/Users/l012783n/OneDrive - University of Staffordshire/COLLAB Stoke_12 - [Assets]/[Props]/Prop - Curtains - Rails/SM_Curtain_New.fbx : 'SM_Curtain_L', StaticMesh] No smoothing group information was found for this mesh 'Mesh_001' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.04.20-14.41.52:760][314]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.04.20-14.41.52:761][314]LogInterchangeEngine: [Success] Import Done
+[2026.04.20-14.41.52:908][316]LogMaterial: Display: Material /Game/Art/Environment/Env_Parts/CurtainRails/Material__22.Material__22 needed to have new flag set bUsedWithNanite !
+[2026.04.20-14.41.56:534][515]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Environment/Env_Parts/CurtainRails/SM_Curtain_L.SM_Curtain_L
+[2026.04.20-14.41.56:635][515]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2026.04.20-14.41.58:302][524]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Environment/Env_Parts/CurtainRails/SM_Curtain_R.SM_Curtain_R
+[2026.04.20-14.41.58:313][524]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2026.04.20-14.42.00:806][580]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Environment/Env_Parts/CurtainRails/SM_CurtainRail.SM_CurtainRail
+[2026.04.20-14.42.00:820][580]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2026.04.20-14.42.12:654][170]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.20-14.42.12:749][170]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Environment/Env_Parts/CurtainRails/SM_CurtainRail] ([1] browsable assets)...
+[2026.04.20-14.42.12:801][170]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/Environment/Env_Parts/CurtainRails/SM_CurtainRail.SM_CurtainRail]
+[2026.04.20-14.42.12:801][170]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Env_Parts/CurtainRails/SM_CurtainRail]
+[2026.04.20-14.42.12:817][170]LogSavePackage: Moving output files for package: /Game/Art/Environment/Env_Parts/CurtainRails/SM_CurtainRail
+[2026.04.20-14.42.12:817][170]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/SM_CurtainRailE7330E434B8B284570DE80BD2DD2EBBF.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Env_Parts/CurtainRails/SM_CurtainRail.uasset'
+[2026.04.20-14.42.12:830][170]LogFileHelpers: InternalPromptForCheckoutAndSave took 176.183 ms (total: 7.14 sec)
+[2026.04.20-14.42.12:889][170]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.20-14.42.12:889][170]LogContentValidation: Enabled validators:
+[2026.04.20-14.42.12:889][170]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.20-14.42.12:889][170]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-14.42.12:889][170]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.20-14.42.12:889][170]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.20-14.42.12:890][170]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-14.42.12:890][170]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-14.42.12:890][170]AssetCheck: /Game/Art/Environment/Env_Parts/CurtainRails/SM_CurtainRail Validating asset
+[2026.04.20-14.42.12:922][170]LogSourceControl: Display: Uncontrolled Changelist persistency file saved E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.20-14.42.13:694][211]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-14.42.13:694][211]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-14.42.13:707][211]LogShaderCompilers: Display: ================================================
+[2026.04.20-14.42.13:707][211]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.04.20-14.42.13:707][211]LogShaderCompilers: Display: Total job queries 19,466, among them cache hits 5,528 (28.40%), DDC hits 12,385 (63.62%), Duplicates 759 (3.90%)
+[2026.04.20-14.42.13:707][211]LogShaderCompilers: Display: Tracking 13,179 distinct input hashes that result in 12,037 distinct outputs (91.33%)
+[2026.04.20-14.42.13:707][211]LogShaderCompilers: Display: RAM used: 160.07 MiB of 1.60 GiB budget. Usage: 9.77%
+[2026.04.20-14.42.13:707][211]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.04.20-14.42.13:707][211]LogShaderCompilers: Display: Shaders Compiled: 794
+[2026.04.20-14.42.13:707][211]LogShaderCompilers: Display: Jobs assigned 794, completed 794 (100%)
+[2026.04.20-14.42.13:707][211]LogShaderCompilers: Display: Average time worker was idle: 206.89 s
+[2026.04.20-14.42.13:708][211]LogShaderCompilers: Display: Time job spent in pending queue: average 10.92 s, longest 96.45 s
+[2026.04.20-14.42.13:708][211]LogShaderCompilers: Display: Job execution time: average 12.30 s, max 62.98 s
+[2026.04.20-14.42.13:708][211]LogShaderCompilers: Display: Job life time (pending + execution): average 23.23 s, max 109.32
+[2026.04.20-14.42.13:708][211]LogShaderCompilers: Display: Shader code size: total 11.696 MiB, numShaders 825, average 14.518 KiB, min 1.727 KiB, max 55.505 KiB
+[2026.04.20-14.42.13:708][211]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 276.91 s
+[2026.04.20-14.42.13:708][211]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.25%
+[2026.04.20-14.42.13:708][211]LogShaderCompilers: Display: Jobs were issued in 334 batches (only local compilation was used), average 2.38 jobs/batch
+[2026.04.20-14.42.13:708][211]LogShaderCompilers: Display: Average processing rate: 2.87 jobs/sec
+[2026.04.20-14.42.13:708][211]LogShaderCompilers: Display: Total thread time: 1,616.958 s
+[2026.04.20-14.42.13:708][211]LogShaderCompilers: Display: Total thread preprocess time: 187.509 s
+[2026.04.20-14.42.13:708][211]LogShaderCompilers: Display: Percentage time preprocessing: 11.60%
+[2026.04.20-14.42.13:708][211]LogShaderCompilers: Display: Effective parallelization: 5.84 (times faster than compiling all shaders on one thread). Compare with number of workers: 4 - 1.459824
+[2026.04.20-14.42.13:708][211]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.04.20-14.42.13:708][211]LogShaderCompilers: Display:                         FLumenVisualizeHardwareRayTracingRGS (compiled    8 times, average 11.87 sec, max 13.58 sec, min 4.49 sec)
+[2026.04.20-14.42.13:708][211]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   10 times, average 8.64 sec, max 14.08 sec, min 1.91 sec)
+[2026.04.20-14.42.13:708][211]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   15 times, average 8.20 sec, max 22.10 sec, min 1.62 sec)
+[2026.04.20-14.42.13:708][211]LogShaderCompilers: Display:                                        FRayTracingLightingMS (compiled    1 times, average 6.54 sec, max 6.54 sec, min 6.54 sec)
+[2026.04.20-14.42.13:708][211]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled   14 times, average 6.22 sec, max 24.98 sec, min 2.07 sec)
+[2026.04.20-14.42.13:708][211]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.04.20-14.42.13:708][211]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 18.83% of total time (compiled   80 times, average 3.81 sec, max 6.62 sec, min 2.72 sec)
+[2026.04.20-14.42.13:708][211]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.84% of total time (compiled   83 times, average 1.53 sec, max 13.09 sec, min 0.37 sec)
+[2026.04.20-14.42.13:708][211]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 7.61% of total time (compiled   15 times, average 8.20 sec, max 22.10 sec, min 1.62 sec)
+[2026.04.20-14.42.13:708][211]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 7.06% of total time (compiled   51 times, average 2.24 sec, max 11.22 sec, min 0.92 sec)
+[2026.04.20-14.42.13:708][211]LogShaderCompilers: Display:                         FLumenVisualizeHardwareRayTracingRGS - 5.87% of total time (compiled    8 times, average 11.87 sec, max 13.58 sec, min 4.49 sec)
+[2026.04.20-14.42.13:708][211]LogShaderCompilers: Display: === Material stats ===
+[2026.04.20-14.42.13:708][211]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.04.20-14.42.13:708][211]LogShaderCompilers: Display: Materials Translated:    397
+[2026.04.20-14.42.13:708][211]LogShaderCompilers: Display: Material Total Translate Time: 0.25 s
+[2026.04.20-14.42.13:708][211]LogShaderCompilers: Display: Material Translation Only: 0.12 s (48%)
+[2026.04.20-14.42.13:708][211]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.04.20-14.42.13:708][211]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.04.20-14.42.13:708][211]LogShaderCompilers: Display: ================================================
+[2026.04.20-14.42.13:787][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.04.20-14.42.17:272][395]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.20-14.42.17:341][395]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Environment/Env_Parts/CurtainRails/SM_Curtain_R] ([1] browsable assets)...
+[2026.04.20-14.42.17:385][395]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/Environment/Env_Parts/CurtainRails/SM_Curtain_R.SM_Curtain_R]
+[2026.04.20-14.42.17:385][395]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Env_Parts/CurtainRails/SM_Curtain_R]
+[2026.04.20-14.42.17:399][395]LogSavePackage: Moving output files for package: /Game/Art/Environment/Env_Parts/CurtainRails/SM_Curtain_R
+[2026.04.20-14.42.17:399][395]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/SM_Curtain_R56DABABA48349CF546C19A96657FB950.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Env_Parts/CurtainRails/SM_Curtain_R.uasset'
+[2026.04.20-14.42.17:412][395]LogFileHelpers: InternalPromptForCheckoutAndSave took 140.438 ms (total: 7.28 sec)
+[2026.04.20-14.42.17:474][395]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.20-14.42.17:474][395]LogContentValidation: Enabled validators:
+[2026.04.20-14.42.17:474][395]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.20-14.42.17:474][395]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-14.42.17:474][395]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.20-14.42.17:474][395]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.20-14.42.17:474][395]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-14.42.17:474][395]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-14.42.17:474][395]AssetCheck: /Game/Art/Environment/Env_Parts/CurtainRails/SM_Curtain_R Validating asset
+[2026.04.20-14.42.17:507][395]LogSourceControl: Display: Uncontrolled Changelist persistency file saved E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.20-14.42.18:285][439]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-14.42.18:285][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-14.42.18:319][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.04.20-14.42.21:253][608]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.20-14.42.21:307][608]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Environment/Env_Parts/CurtainRails/SM_Curtain_L] ([1] browsable assets)...
+[2026.04.20-14.42.21:351][608]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/Environment/Env_Parts/CurtainRails/SM_Curtain_L.SM_Curtain_L]
+[2026.04.20-14.42.21:351][608]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Env_Parts/CurtainRails/SM_Curtain_L]
+[2026.04.20-14.42.21:365][608]LogSavePackage: Moving output files for package: /Game/Art/Environment/Env_Parts/CurtainRails/SM_Curtain_L
+[2026.04.20-14.42.21:365][608]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/SM_Curtain_L06EAF15A4025B6AB206792A10BCC3E3F.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Env_Parts/CurtainRails/SM_Curtain_L.uasset'
+[2026.04.20-14.42.21:377][608]LogFileHelpers: InternalPromptForCheckoutAndSave took 123.691 ms (total: 7.40 sec)
+[2026.04.20-14.42.21:440][608]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.20-14.42.21:440][608]LogContentValidation: Enabled validators:
+[2026.04.20-14.42.21:440][608]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.20-14.42.21:440][608]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-14.42.21:440][608]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.20-14.42.21:440][608]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.20-14.42.21:440][608]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-14.42.21:440][608]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-14.42.21:440][608]AssetCheck: /Game/Art/Environment/Env_Parts/CurtainRails/SM_Curtain_L Validating asset
+[2026.04.20-14.42.21:477][608]LogSourceControl: Display: Uncontrolled Changelist persistency file saved E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.20-14.42.24:033][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.04.20-14.42.25:246][721]LogSlate: Window 'Delete Assets' being destroyed
+[2026.04.20-14.42.25:278][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.04.20-14.42.25:296][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.04.20-14.42.25:314][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.04.20-14.44.08:111][632]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8996.954102
+[2026.04.20-14.44.09:112][635]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-14.44.09:112][635]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8997.622070, Update Interval: 338.665741
+[2026.04.20-14.44.49:943][758]LogSlate: Window 'SM_Curtain_L' being destroyed
+[2026.04.20-14.44.49:948][758]LogSlate: Window 'SM_Curtain_L' being destroyed
+[2026.04.20-14.44.50:051][758]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-14.44.50:051][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-14.44.50:126][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.04.20-14.44.51:645][867]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.20-14.44.51:711][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/47/1CSING5JNJP9HBBB11ETX4
+[2026.04.20-14.44.51:711][867]LogSavePackage: Moving 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/1CSING5JNJP9HBBB11ETX43F7C909E49EE659EBE5F69B98E724DBE.tmp' to 'E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/47/1CSING5JNJP9HBBB11ETX4.uasset'
+[2026.04.20-14.44.51:723][867]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.493 ms (total: 7.48 sec)
+[2026.04.20-14.44.51:786][867]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.20-14.44.51:786][867]LogContentValidation: Enabled validators:
+[2026.04.20-14.44.51:786][867]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.20-14.44.51:786][867]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-14.44.51:786][867]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.20-14.44.51:787][867]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.20-14.44.51:787][867]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-14.44.51:787][867]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-14.44.51:787][867]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2026.04.20-14.44.51:828][867]LogSourceControl: Display: Uncontrolled Changelist persistency file saved E:/[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/SourceControl/UncontrolledChangelists.json
