@@ -1693,3 +1693,306 @@ Make sure '/Game/UI/ShopUI/WBP_shopui.WBP_shopui_C' has been compiled for  Get I
 [2026.04.20-12.31.25:753][414]LogEditorTransaction: Undo Add Node
 [2026.04.20-12.31.31:958][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
 [2026.04.20-12.31.37:978][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.04.20-12.32.37:012][780]LogShaderCompilers: Display: ================================================
+[2026.04.20-12.32.37:012][780]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.04.20-12.32.37:012][780]LogShaderCompilers: Display: Total job queries 18,355, among them cache hits 4,728 (25.76%), DDC hits 12,366 (67.37%), Duplicates 677 (3.69%)
+[2026.04.20-12.32.37:012][780]LogShaderCompilers: Display: Tracking 12,950 distinct input hashes that result in 11,860 distinct outputs (91.58%)
+[2026.04.20-12.32.37:012][780]LogShaderCompilers: Display: RAM used: 158.35 MiB of 1.60 GiB budget. Usage: 9.66%
+[2026.04.20-12.32.37:012][780]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.04.20-12.32.37:012][780]LogShaderCompilers: Display: Shaders Compiled: 584
+[2026.04.20-12.32.37:012][780]LogShaderCompilers: Display: Jobs assigned 584, completed 584 (100%)
+[2026.04.20-12.32.37:012][780]LogShaderCompilers: Display: Average time worker was idle: 14.48 s
+[2026.04.20-12.32.37:012][780]LogShaderCompilers: Display: Time job spent in pending queue: average 8.21 s, longest 52.48 s
+[2026.04.20-12.32.37:012][780]LogShaderCompilers: Display: Job execution time: average 13.27 s, max 50.79 s
+[2026.04.20-12.32.37:012][780]LogShaderCompilers: Display: Job life time (pending + execution): average 21.48 s, max 60.39
+[2026.04.20-12.32.37:012][780]LogShaderCompilers: Display: Shader code size: total 9.344 MiB, numShaders 607, average 15.763 KiB, min 2.246 KiB, max 55.505 KiB
+[2026.04.20-12.32.37:012][780]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 144.16 s
+[2026.04.20-12.32.37:012][780]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.06%
+[2026.04.20-12.32.37:012][780]LogShaderCompilers: Display: Jobs were issued in 173 batches (only local compilation was used), average 3.38 jobs/batch
+[2026.04.20-12.32.37:012][780]LogShaderCompilers: Display: Average processing rate: 4.05 jobs/sec
+[2026.04.20-12.32.37:012][780]LogShaderCompilers: Display: Total thread time: 1,384.64 s
+[2026.04.20-12.32.37:012][780]LogShaderCompilers: Display: Total thread preprocess time: 276.769 s
+[2026.04.20-12.32.37:012][780]LogShaderCompilers: Display: Percentage time preprocessing: 19.99%
+[2026.04.20-12.32.37:012][780]LogShaderCompilers: Display: Effective parallelization: 9.60 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 1.200575
+[2026.04.20-12.32.37:012][780]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.04.20-12.32.37:012][780]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 15.04 sec, max 15.04 sec, min 15.04 sec)
+[2026.04.20-12.32.37:012][780]LogShaderCompilers: Display:                         FLumenVisualizeHardwareRayTracingRGS (compiled    8 times, average 11.23 sec, max 19.67 sec, min 5.27 sec)
+[2026.04.20-12.32.37:012][780]LogShaderCompilers: Display:                                        FRayTracingLightingMS (compiled    1 times, average 10.80 sec, max 10.80 sec, min 10.80 sec)
+[2026.04.20-12.32.37:012][780]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 9.38 sec, max 14.58 sec, min 4.19 sec)
+[2026.04.20-12.32.37:012][780]LogShaderCompilers: Display:                                       FRayTracingSkyLightRGS (compiled   16 times, average 8.52 sec, max 12.78 sec, min 2.92 sec)
+[2026.04.20-12.32.37:012][780]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.04.20-12.32.37:012][780]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 33.16% of total time (compiled   80 times, average 5.74 sec, max 13.37 sec, min 4.01 sec)
+[2026.04.20-12.32.37:012][780]LogShaderCompilers: Display:                                       FRayTracingSkyLightRGS - 9.84% of total time (compiled   16 times, average 8.52 sec, max 12.78 sec, min 2.92 sec)
+[2026.04.20-12.32.37:012][780]LogShaderCompilers: Display:                         FLumenVisualizeHardwareRayTracingRGS - 6.49% of total time (compiled    8 times, average 11.23 sec, max 19.67 sec, min 5.27 sec)
+[2026.04.20-12.32.37:012][780]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 5.04% of total time (compiled   50 times, average 1.39 sec, max 10.01 sec, min 0.54 sec)
+[2026.04.20-12.32.37:012][780]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 3.91% of total time (compiled   10 times, average 5.41 sec, max 13.05 sec, min 1.74 sec)
+[2026.04.20-12.32.37:012][780]LogShaderCompilers: Display: === Material stats ===
+[2026.04.20-12.32.37:012][780]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.04.20-12.32.37:012][780]LogShaderCompilers: Display: Materials Translated:    147
+[2026.04.20-12.32.37:012][780]LogShaderCompilers: Display: Material Total Translate Time: 0.17 s
+[2026.04.20-12.32.37:012][780]LogShaderCompilers: Display: Material Translation Only: 0.07 s (42%)
+[2026.04.20-12.32.37:012][780]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.04.20-12.32.37:012][780]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.04.20-12.32.37:012][780]LogShaderCompilers: Display: ================================================
+[2026.04.20-12.32.37:202][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.04.20-12.32.59:131][997]LogStreaming: Display: FlushAsyncLoading(629): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.20-12.32.59:144][997]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu/WBP_MainMenu.WBP_MainMenu
+[2026.04.20-12.32.59:144][997]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2026.04.20-12.32.59:153][997]LogTexture: Display: Building textures: /Game/UI/UI_assets/main_menu_base.main_menu_base (BGRA8, 2250x1225 x1x1x1) (Required Memory Estimate: 95.628334 MB), EncodeSpeed: Fast
+[2026.04.20-12.32.59:153][997]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2026.04.20-12.33.10:926][592]LogSlate: Took 0.012116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2026.04.20-12.33.27:332][464]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_PauseMenu.WBP_PauseMenu
+[2026.04.20-12.33.27:332][464]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2026.04.20-12.33.27:339][464]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2026.04.20-12.33.50:769][610]LogEditorTransaction: Undo Edit Image
+[2026.04.20-12.33.53:069][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2026.04.20-12.34.34:802][ 55]LogEditorTransaction: Undo Drag and Drop Widget
+[2026.04.20-12.34.39:723][266]LogEditorTransaction: Undo Drag and Drop Widget
+[2026.04.20-12.35.01:139][342]LogStreaming: Display: FlushAsyncLoading(630): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.20-12.35.01:147][342]LogTexture: Display: Building textures: /Game/UI/UI_assets/button_select_2.button_select_2 (TFO_AutoDXT, 1296x1392 x1x1x1) (Required Memory Estimate: 135.244141 MB), EncodeSpeed: Fast
+[2026.04.20-12.35.16:033][ 29]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/UI_assets/button_select_2.button_select_2
+[2026.04.20-12.35.16:623][ 29]LogDeviceProfileManager: Display: Deviceprofile Android_ASTC not found.
+[2026.04.20-12.35.16:623][ 29]LogDeviceProfileManager: Display: Deviceprofile Android_DXT not found.
+[2026.04.20-12.35.16:623][ 29]LogDeviceProfileManager: Display: Deviceprofile Android_ETC2 not found.
+[2026.04.20-12.35.16:623][ 29]LogDeviceProfileManager: Display: Deviceprofile Android_Multi not found.
+[2026.04.20-12.35.19:774][186]LogSlate: Window 'button_select_2' being destroyed
+[2026.04.20-12.35.19:783][186]LogSlate: Window 'button_select_2' being destroyed
+[2026.04.20-12.35.19:793][186]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-12.35.19:793][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-12.35.19:803][186]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-12.35.19:805][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-12.35.19:848][186]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-12.35.19:848][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-12.35.19:860][186]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-12.35.19:860][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-12.35.19:907][186]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-12.35.19:907][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-12.35.19:918][186]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-12.35.19:918][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-12.35.19:967][186]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-12.35.19:968][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-12.35.19:978][186]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-12.35.19:978][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-12.35.20:096][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.04.20-12.35.21:131][244]LogSlate: Window 'Message Log' being destroyed
+[2026.04.20-12.35.21:137][244]LogSlate: Window 'Message Log' being destroyed
+[2026.04.20-12.35.29:898][755]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu/WBP_MainMenu.WBP_MainMenu
+[2026.04.20-12.35.29:898][755]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_31
+[2026.04.20-12.35.29:906][755]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_32
+[2026.04.20-12.35.56:252][164]LogEditorTransaction: Undo Drag and Drop Widget
+[2026.04.20-12.36.39:110][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2026.04.20-12.37.08:561][169]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1366.201294
+[2026.04.20-12.37.08:726][178]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-12.37.08:728][178]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1366.348267, Update Interval: 313.255402
+[2026.04.20-12.37.42:921][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.04.20-12.37.42:925][811]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.037
+[2026.04.20-12.37.42:925][811]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/TimerUI/WBP_TimerUI] ([2] browsable assets)...
+[2026.04.20-12.37.42:928][811]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/TimerUI/WBP_TimerUI.WBP_TimerUI]
+[2026.04.20-12.37.42:928][811]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/TimerUI/WBP_TimerUI]
+[2026.04.20-12.37.42:944][811]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/TimerUI/WBP_TimerUI_Auto2
+[2026.04.20-12.37.42:944][811]LogSavePackage: Moving '../../../../../../Users/f019230n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/WBP_TimerUI_Auto2656ABF42444DB2B2820B7FB9797DEFF2.tmp' to '../../../../../../Users/f019230n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/Autosaves/Game/UI/TimerUI/WBP_TimerUI_Auto2.uasset'
+[2026.04.20-12.37.42:947][811]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/MainMenu/WBP_MainMenu] ([2] browsable assets)...
+[2026.04.20-12.37.42:953][811]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/MainMenu/WBP_MainMenu.WBP_MainMenu]
+[2026.04.20-12.37.42:953][811]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu/WBP_MainMenu]
+[2026.04.20-12.37.42:982][811]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/MainMenu/WBP_MainMenu_Auto2
+[2026.04.20-12.37.42:983][811]LogSavePackage: Moving '../../../../../../Users/f019230n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/WBP_MainMenu_Auto2D05A4C5449CED193CFE677A67A748681.tmp' to '../../../../../../Users/f019230n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/Autosaves/Game/UI/MainMenu/WBP_MainMenu_Auto2.uasset'
+[2026.04.20-12.37.42:986][811]LogFileHelpers: Auto-saving content packages took 0.061
+[2026.04.20-12.38.31:133][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.04.20-12.38.31:137][ 48]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.20-12.38.31:171][ 48]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/TimerUI/WBP_TimerUI] ([2] browsable assets)...
+[2026.04.20-12.38.31:172][ 48]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/TimerUI/WBP_TimerUI]
+[2026.04.20-12.38.31:172][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TimerUI/WBP_TimerUI" FILE="../../../../../../Users/f019230n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/UI/TimerUI/WBP_TimerUI.uasset" SILENT=true
+[2026.04.20-12.38.31:186][ 48]LogSavePackage: Moving output files for package: /Game/UI/TimerUI/WBP_TimerUI
+[2026.04.20-12.38.31:187][ 48]LogSavePackage: Moving '../../../../../../Users/f019230n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/WBP_TimerUI8996A58D400D33B308C48684B23423A3.tmp' to '../../../../../../Users/f019230n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/UI/TimerUI/WBP_TimerUI.uasset'
+[2026.04.20-12.38.31:190][ 48]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/MainMenu/WBP_MainMenu] ([2] browsable assets)...
+[2026.04.20-12.38.31:190][ 48]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu/WBP_MainMenu]
+[2026.04.20-12.38.31:190][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/WBP_MainMenu" FILE="../../../../../../Users/f019230n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/UI/MainMenu/WBP_MainMenu.uasset" SILENT=true
+[2026.04.20-12.38.31:216][ 48]LogSavePackage: Moving output files for package: /Game/UI/MainMenu/WBP_MainMenu
+[2026.04.20-12.38.31:217][ 48]LogSavePackage: Moving '../../../../../../Users/f019230n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/WBP_MainMenuCAEAFC12433466DBDBF03C88EA9E640D.tmp' to '../../../../../../Users/f019230n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/UI/MainMenu/WBP_MainMenu.uasset'
+[2026.04.20-12.38.31:230][ 48]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.573 ms (total: 266.521 ms)
+[2026.04.20-12.38.31:270][ 48]LogContentValidation: Display: Starting to validate 2 assets
+[2026.04.20-12.38.31:270][ 48]LogContentValidation: Enabled validators:
+[2026.04.20-12.38.31:270][ 48]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.20-12.38.31:270][ 48]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-12.38.31:270][ 48]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.20-12.38.31:270][ 48]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.20-12.38.31:270][ 48]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-12.38.31:270][ 48]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-12.38.31:270][ 48]AssetCheck: /Game/UI/TimerUI/WBP_TimerUI Validating asset
+[2026.04.20-12.38.31:271][ 48]AssetCheck: /Game/UI/MainMenu/WBP_MainMenu Validating asset
+[2026.04.20-12.42.38:420][484]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1696.062988
+[2026.04.20-12.42.38:606][494]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-12.42.38:606][494]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1696.230103, Update Interval: 333.256622
+[2026.04.20-12.46.13:385][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2026.04.20-12.46.21:895][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.04.20-12.46.21:901][837]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.20-12.46.21:961][837]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/MainMenu/WBP_MainMenu] ([2] browsable assets)...
+[2026.04.20-12.46.21:964][837]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/MainMenu/WBP_MainMenu.WBP_MainMenu]
+[2026.04.20-12.46.21:964][837]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu/WBP_MainMenu]
+[2026.04.20-12.46.21:964][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/WBP_MainMenu" FILE="../../../../../../Users/f019230n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/UI/MainMenu/WBP_MainMenu.uasset" SILENT=true
+[2026.04.20-12.46.22:005][837]LogSavePackage: Moving output files for package: /Game/UI/MainMenu/WBP_MainMenu
+[2026.04.20-12.46.22:006][837]LogSavePackage: Moving '../../../../../../Users/f019230n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/WBP_MainMenuA16FFE1347DB91741E591C90E3B29651.tmp' to '../../../../../../Users/f019230n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/UI/MainMenu/WBP_MainMenu.uasset'
+[2026.04.20-12.46.22:018][837]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.356 ms (total: 383.878 ms)
+[2026.04.20-12.46.22:076][837]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.20-12.46.22:076][837]LogContentValidation: Enabled validators:
+[2026.04.20-12.46.22:076][837]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.20-12.46.22:076][837]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-12.46.22:076][837]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.20-12.46.22:076][837]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.20-12.46.22:076][837]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-12.46.22:076][837]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-12.46.22:077][837]AssetCheck: /Game/UI/MainMenu/WBP_MainMenu Validating asset
+[2026.04.20-12.46.37:626][498]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/TimerUI/WBP_TimerUI.WBP_TimerUI
+[2026.04.20-12.46.37:626][498]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_38
+[2026.04.20-12.46.37:634][498]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_39
+[2026.04.20-12.48.42:004][978]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2059.645752
+[2026.04.20-12.48.42:338][996]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-12.48.42:338][996]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2059.961426, Update Interval: 339.379852
+[2026.04.20-12.55.13:598][417]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2451.239502
+[2026.04.20-12.55.13:768][426]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-12.55.13:768][426]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2451.390869, Update Interval: 342.100891
+[2026.04.20-13.01.33:188][ 16]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2830.834717
+[2026.04.20-13.01.33:352][ 25]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-13.01.33:352][ 25]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2830.980225, Update Interval: 306.819061
+[2026.04.20-13.01.55:516][295]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_PauseMenu.WBP_PauseMenu
+[2026.04.20-13.01.55:516][295]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_40
+[2026.04.20-13.01.55:523][295]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_41
+[2026.04.20-13.02.00:367][483]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_OptionsMenu.WBP_OptionsMenu
+[2026.04.20-13.02.00:367][483]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2026.04.20-13.02.00:375][483]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2026.04.20-13.07.15:716][198]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3173.365723
+[2026.04.20-13.07.15:906][208]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-13.07.15:906][208]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3173.534912, Update Interval: 337.605530
+[2026.04.20-13.13.48:916][211]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3566.552002
+[2026.04.20-13.13.49:104][221]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-13.13.49:104][221]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3566.720215, Update Interval: 324.981842
+[2026.04.20-13.13.52:046][381]LogDerivedDataCache: C:/Users/f019230n/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.20-13.19.51:113][ 45]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3928.759277
+[2026.04.20-13.19.51:280][ 54]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-13.19.51:280][ 54]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3928.906738, Update Interval: 324.086426
+[2026.04.20-13.26.10:054][ 10]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4307.702148
+[2026.04.20-13.26.11:050][ 13]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-13.26.11:050][ 13]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4308.370605, Update Interval: 309.719543
+[2026.04.20-13.30.39:856][232]LogStreaming: Display: FlushAsyncLoading(631): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.20-13.30.39:865][232]LogTexture: Display: Building textures: /Game/UI/UI_assets/credit_button_1.credit_button_1 (TFO_AutoDXT, 1296x1392 x1x1x1) (Required Memory Estimate: 135.244141 MB), EncodeSpeed: Fast
+[2026.04.20-13.30.39:979][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2026.04.20-13.30.40:099][232]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.04.20-13.30.40:115][232]LogSlate: Took 0.013201 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.04.20-13.30.41:129][232]LogSlate: Window 'Delete Assets' being destroyed
+[2026.04.20-13.30.41:172][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.04.20-13.30.41:199][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2026.04.20-13.30.41:228][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.04.20-13.30.41:277][232]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/f019230n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.20-13.30.44:303][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2026.04.20-13.30.45:876][386]LogSlate: Window 'Delete Assets' being destroyed
+[2026.04.20-13.30.46:334][386]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-13.30.46:334][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-13.30.46:347][386]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-13.30.46:348][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-13.30.46:418][386]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-13.30.46:418][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-13.30.46:430][386]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-13.30.46:430][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-13.30.46:501][386]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-13.30.46:501][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-13.30.46:513][386]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-13.30.46:513][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-13.30.46:548][386]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/UI/UI_assets/button_select_2.button_select_2
+	Asset Type: Texture2D
+[2026.04.20-13.30.46:970][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2026.04.20-13.30.47:005][386]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2026.04.20-13.30.47:034][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.04.20-13.30.47:103][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.04.20-13.30.47:121][386]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/f019230n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.20-13.30.52:616][675]LogStreaming: Display: FlushAsyncLoading(632): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.20-13.30.52:630][675]LogTexture: Display: Building textures: /Game/UI/UI_assets/main_menu_button_1.main_menu_button_1 (TFO_AutoDXT, 2480x1632 x1x1x1) (Required Memory Estimate: 278.910156 MB), EncodeSpeed: Fast
+[2026.04.20-13.30.52:653][675]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2026.04.20-13.30.53:708][675]LogSlate: Window 'Delete Assets' being destroyed
+[2026.04.20-13.30.53:755][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.04.20-13.30.53:787][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.04.20-13.30.53:817][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.04.20-13.30.53:854][675]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/f019230n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.20-13.30.58:674][903]LogStreaming: Display: FlushAsyncLoading(633): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.20-13.30.58:681][903]LogTexture: Display: Building textures: /Game/UI/UI_assets/play_button_1.play_button_1 (BGRA8, 1296x1392 x1x1x1) (Required Memory Estimate: 62.936523 MB), EncodeSpeed: Fast
+[2026.04.20-13.30.58:711][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.04.20-13.31.00:929][903]LogSlate: Window 'Delete Assets' being destroyed
+[2026.04.20-13.31.00:990][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.04.20-13.31.01:020][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.04.20-13.31.01:046][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.04.20-13.31.01:096][903]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/f019230n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.20-13.31.04:222][ 59]LogStreaming: Display: FlushAsyncLoading(634): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.20-13.31.04:224][ 59]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/UI_assets/resume_button_1.resume_button_1
+[2026.04.20-13.31.04:234][ 59]LogTexture: Display: Building textures: /Game/UI/UI_assets/resume_button_1.resume_button_1 (TFO_AutoDXT, 2480x1632 x1x1x1) (Required Memory Estimate: 278.910156 MB), EncodeSpeed: Fast
+[2026.04.20-13.31.09:788][335]LogStreaming: Display: FlushAsyncLoading(635): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.20-13.31.09:789][335]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/UI_assets/quit_button_2.quit_button_2
+[2026.04.20-13.31.09:795][335]LogTexture: Display: Building textures: /Game/UI/UI_assets/quit_button_2.quit_button_2 (TFO_AutoDXT, 1296x1392 x1x1x1) (Required Memory Estimate: 135.244141 MB), EncodeSpeed: Fast
+[2026.04.20-13.31.17:970][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.04.20-13.31.20:167][737]LogSlate: Window 'Delete Assets' being destroyed
+[2026.04.20-13.31.20:240][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2026.04.20-13.31.20:271][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.04.20-13.31.20:301][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.04.20-13.31.20:336][737]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/f019230n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.20-13.31.22:820][866]LogStreaming: Display: FlushAsyncLoading(636): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.20-13.31.22:821][866]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/UI_assets/exit_button.exit_button
+[2026.04.20-13.31.22:823][866]LogTexture: Display: Building textures: /Game/UI/UI_assets/exit_button.exit_button (BGRA8, 205x192 x1x1x1) (Required Memory Estimate: 2.351318 MB), EncodeSpeed: Fast
+[2026.04.20-13.31.53:832][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.04.20-13.31.53:835][318]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.046
+[2026.04.20-13.31.53:835][318]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/MainMenu/WBP_MainMenu] ([2] browsable assets)...
+[2026.04.20-13.31.53:835][318]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu/WBP_MainMenu]
+[2026.04.20-13.31.53:870][318]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/MainMenu/WBP_MainMenu_Auto3
+[2026.04.20-13.31.53:870][318]LogSavePackage: Moving '../../../../../../Users/f019230n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/WBP_MainMenu_Auto3231FA300478745766ACBF5AD691D6EB0.tmp' to '../../../../../../Users/f019230n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/Autosaves/Game/UI/MainMenu/WBP_MainMenu_Auto3.uasset'
+[2026.04.20-13.31.53:872][318]LogFileHelpers: Auto-saving content packages took 0.037
+[2026.04.20-13.32.18:082][391]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4675.728516
+[2026.04.20-13.32.19:076][394]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-13.32.19:076][394]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4676.389648, Update Interval: 357.339386
+[2026.04.20-13.32.46:873][711]LogStreaming: Display: FlushAsyncLoading(637): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.20-13.32.46:878][711]LogInterchangeEngine: [Pending] Importing
+[2026.04.20-13.32.46:878][711]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/f019230n/Downloads/resume button 1.png]
+[2026.04.20-13.32.47:591][713]LogStreaming: Display: FlushAsyncLoading(638): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.20-13.32.47:886][715]LogTexture: Display: Building textures: /Game/UI/UI_assets/resume_button_1.resume_button_1 (BGRA8, 297x181 x1x1x1) (Required Memory Estimate: 2.8456 MB), EncodeSpeed: Fast
+[2026.04.20-13.32.48:236][715]LogInterchangeEngine: Display: Interchange import completed [C:/Users/f019230n/Downloads/resume button 1.png]
+[2026.04.20-13.32.48:247][715]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.04.20-13.32.48:247][715]LogInterchangeEngine: [Success] Import Done
+[2026.04.20-13.32.51:543][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.04.20-13.32.51:547][824]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.20-13.32.51:623][824]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/MainMenu/WBP_MainMenu] ([2] browsable assets)...
+[2026.04.20-13.32.51:623][824]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu/WBP_MainMenu]
+[2026.04.20-13.32.51:623][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/WBP_MainMenu" FILE="../../../../../../Users/f019230n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/UI/MainMenu/WBP_MainMenu.uasset" SILENT=true
+[2026.04.20-13.32.51:655][824]LogSavePackage: Moving output files for package: /Game/UI/MainMenu/WBP_MainMenu
+[2026.04.20-13.32.51:655][824]LogSavePackage: Moving '../../../../../../Users/f019230n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/WBP_MainMenu466AA9B0491302C7BB858AB9867B23B0.tmp' to '../../../../../../Users/f019230n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/UI/MainMenu/WBP_MainMenu.uasset'
+[2026.04.20-13.32.51:658][824]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/UI_assets/resume_button_1] ([1] browsable assets)...
+[2026.04.20-13.32.51:660][824]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/UI_assets/resume_button_1.resume_button_1]
+[2026.04.20-13.32.51:660][824]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_assets/resume_button_1]
+[2026.04.20-13.32.51:672][824]LogSavePackage: Moving output files for package: /Game/UI/UI_assets/resume_button_1
+[2026.04.20-13.32.51:672][824]LogSavePackage: Moving '../../../../../../Users/f019230n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/resume_button_1972494E84D66328F3FE5AFA9FC57B669.tmp' to '../../../../../../Users/f019230n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/UI/UI_assets/resume_button_1.uasset'
+[2026.04.20-13.32.51:683][824]LogFileHelpers: InternalPromptForCheckoutAndSave took 135.606 ms (total: 519.485 ms)
+[2026.04.20-13.32.51:766][824]LogContentValidation: Display: Starting to validate 2 assets
+[2026.04.20-13.32.51:766][824]LogContentValidation: Enabled validators:
+[2026.04.20-13.32.51:766][824]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.20-13.32.51:766][824]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-13.32.51:766][824]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.20-13.32.51:766][824]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.20-13.32.51:766][824]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-13.32.51:766][824]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-13.32.51:766][824]AssetCheck: /Game/UI/MainMenu/WBP_MainMenu Validating asset
+[2026.04.20-13.32.51:768][824]AssetCheck: /Game/UI/UI_assets/resume_button_1 Validating asset
+[2026.04.20-13.34.08:507][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2026.04.20-13.34.34:197][972]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2026.04.20-13.34.34:204][972]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.20-13.34.34:241][972]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/TimerUI/WBP_TimerUI] ([2] browsable assets)...
+[2026.04.20-13.34.34:242][972]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/TimerUI/WBP_TimerUI.WBP_TimerUI]
+[2026.04.20-13.34.34:242][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/TimerUI/WBP_TimerUI]
+[2026.04.20-13.34.34:242][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TimerUI/WBP_TimerUI" FILE="../../../../../../Users/f019230n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/UI/TimerUI/WBP_TimerUI.uasset" SILENT=true
+[2026.04.20-13.34.34:257][972]LogSavePackage: Moving output files for package: /Game/UI/TimerUI/WBP_TimerUI
+[2026.04.20-13.34.34:259][972]LogSavePackage: Moving '../../../../../../Users/f019230n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/WBP_TimerUIA9DD2C7D41F9A8B046B6A88DE2DE4D0C.tmp' to '../../../../../../Users/f019230n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/UI/TimerUI/WBP_TimerUI.uasset'
+[2026.04.20-13.34.34:268][972]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.290 ms (total: 584.775 ms)
+[2026.04.20-13.34.34:354][972]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.20-13.34.34:354][972]LogContentValidation: Enabled validators:
+[2026.04.20-13.34.34:354][972]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.20-13.34.34:354][972]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-13.34.34:354][972]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.20-13.34.34:354][972]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.20-13.34.34:354][972]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-13.34.34:354][972]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-13.34.34:354][972]AssetCheck: /Game/UI/TimerUI/WBP_TimerUI Validating asset
