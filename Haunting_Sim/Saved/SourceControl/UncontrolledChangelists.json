@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/m017398o/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/FirstPerson/Lvl_FirstPerson.umap",
+				"C:/Users/m017398o/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/VREditor/Teleport/TeleportDirectionMaterial.uasset",
 				"C:/Users/c017376n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/SmartObject/Blueprint/BP_Sofa.uasset",
 				"C:/Users/c017376n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/JU/0YSS01R790SGPIK9DESKNI.uasset",
 				"C:/Users/c017376n/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/1Z/BJ0N1CP1MCE17H0G33Z1A0.uasset",
