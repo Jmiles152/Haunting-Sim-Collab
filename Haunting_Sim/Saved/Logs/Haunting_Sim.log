@@ -4035,3 +4035,38 @@ Make sure '/Game/UI/ShopUI/WBP_shopui.WBP_shopui_C' has been compiled for  Get I
 [2026.04.26-21.20.01:246][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
 [2026.04.26-21.20.07:810][448]LogSlate: Window 'Message Log' being destroyed
 [2026.04.26-21.20.07:905][448]LogSlate: Window 'Message Log' being destroyed
+[2026.04.26-21.21.31:733][735]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13566.156250
+[2026.04.26-21.21.32:733][738]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.26-21.21.32:733][738]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13566.822266, Update Interval: 342.452454
+[2026.04.26-21.21.51:542][984]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu/WBP_MainMenu.WBP_MainMenu
+[2026.04.26-21.21.51:543][984]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_63
+[2026.04.26-21.21.51:545][984]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_64
+[2026.04.26-21.21.55:905][ 87]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_65
+[2026.04.26-21.21.55:958][ 88]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_66
+[2026.04.26-21.21.58:204][144]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_PauseMenu.WBP_PauseMenu
+[2026.04.26-21.21.58:205][144]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_67
+[2026.04.26-21.21.58:208][144]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_68
+[2026.04.26-21.22.06:806][348]LogEditorTransaction: Undo Move Node
+[2026.04.26-21.22.07:349][356]LogEditorTransaction: Undo Create Pin Link
+[2026.04.26-21.22.07:556][362]LogEditorTransaction: Undo Delete current selection
+[2026.04.26-21.22.07:718][366]LogEditorTransaction: Undo Move Node
+[2026.04.26-21.22.07:922][371]LogEditorTransaction: Undo Create Pin Link
+[2026.04.26-21.22.08:101][376]LogEditorTransaction: Undo Delete current selection
+[2026.04.26-21.22.08:322][381]LogEditorTransaction: Undo Move Node
+[2026.04.26-21.22.08:573][387]LogEditorTransaction: Undo Move Node
+[2026.04.26-21.22.08:793][393]LogEditorTransaction: Undo Move Node
+[2026.04.26-21.22.09:030][398]LogEditorTransaction: Undo Resize Node
+[2026.04.26-21.22.09:278][404]LogEditorTransaction: Undo Move Node
+[2026.04.26-21.22.10:093][424]LogEditorTransaction: Undo Resize Node
+[2026.04.26-21.22.10:547][435]LogEditorTransaction: Undo Resize Node
+[2026.04.26-21.22.10:874][439]LogEditorTransaction: Undo Move Node
+[2026.04.26-21.22.11:059][441]LogEditorTransaction: Undo Resize Node
+[2026.04.26-21.22.11:483][452]LogEditorTransaction: Undo Resize Node
+[2026.04.26-21.22.11:731][458]LogEditorTransaction: Undo Delete current selection
+[2026.04.26-21.22.11:977][464]LogEditorTransaction: Undo Move Node
+[2026.04.26-21.22.12:432][475]LogEditorTransaction: Undo Move Node
+[2026.04.26-21.22.12:889][486]LogEditorTransaction: Undo Move Nodes
+[2026.04.26-21.22.14:750][531]LogEditorTransaction: Undo Add Execution Pin
+[2026.04.26-21.22.15:260][539]LogEditorTransaction: Undo Add Execution Pin
+[2026.04.26-21.22.15:661][550]LogEditorTransaction: Undo Add Execution Pin
+[2026.04.26-21.22.16:111][561]LogEditorTransaction: Undo Move Node
