@@ -1376,3 +1376,429 @@ Make sure '/Game/UI/ShopUI/WBP_shopui.WBP_shopui_C' has been compiled for  Get I
 [2026.04.27-13.13.56:833][361]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.04.27-13.13.56:833][361]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.04.27-13.13.56:833][361]AssetCheck: /Game/UI/WBP_PauseMenu Validating asset
+[2026.04.27-13.14.14:720][741]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.27-13.14.14:730][741]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.27-13.14.14:730][741]LogPlayLevel: Creating play world package: /Game/UI/MainMenu/UEDPIE_0_lvl_MainMenu
+[2026.04.27-13.14.14:731][741]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001142s)
+[2026.04.27-13.14.14:731][741]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/MainMenu/lvl_MainMenu.lvl_MainMenu to /Game/UI/MainMenu/UEDPIE_0_lvl_MainMenu.lvl_MainMenu (0.001179s)
+[2026.04.27-13.14.14:753][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.04.27-13.14.14:755][741]LogChaosDD: Creating Chaos Debug Draw Scene for world lvl_MainMenu
+[2026.04.27-13.14.14:757][741]LogPlayLevel: PIE: World Init took: (0.001717s)
+[2026.04.27-13.14.14:758][741]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.04.27-13.14.14:758][741]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.27-13.14.14:758][741]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.27-13.14.14:758][741]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.27-13.14.14:758][741]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.27-13.14.14:758][741]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.27-13.14.14:758][741]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.27-13.14.14:758][741]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.27-13.14.14:758][741]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.27-13.14.14:758][741]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.27-13.14.14:758][741]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.27-13.14.14:758][741]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.27-13.14.14:760][741]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.27-13.14.14:791][741]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics HD Audio)
+[2026.04.27-13.14.14:791][741]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.27-13.14.14:791][741]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.27-13.14.14:791][741]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.27-13.14.14:792][741]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.04.27-13.14.14:792][741]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.04.27-13.14.14:795][741]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.04.27-13.14.14:795][741]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.04.27-13.14.14:795][741]LogInit: FAudioDevice initialized with ID 3.
+[2026.04.27-13.14.14:795][741]LogAudio: Display: Audio Device (ID: 3) registered with world 'lvl_MainMenu'.
+[2026.04.27-13.14.14:795][741]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.04.27-13.14.14:798][741]LogLoad: Game class is 'BP_MainMenu_Gamemode_C'
+[2026.04.27-13.14.14:799][741]LogWorld: Bringing World /Game/UI/MainMenu/UEDPIE_0_lvl_MainMenu.lvl_MainMenu up for play (max tick rate 0) at 2026.04.27-14.14.14
+[2026.04.27-13.14.14:799][741]LogWorld: Bringing up level for play took: 0.000426
+[2026.04.27-13.14.14:802][741]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2026.04.27-13.14.14:804][741]LogScript: Warning: Accessed None trying to read (real) property ShopRef in WBP_TempHUD_C
+	WBP_TempHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WBP_TempHUD_C_0
+	Function /Game/Shop-and-inventory/WBP_TempHUD.WBP_TempHUD_C:ExecuteUbergraph_WBP_TempHUD:0B26
+[2026.04.27-13.14.14:804][741]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property ShopRef in WBP_TempHUD_C". Node:  Bind Event to Shop Options Updated Graph:  EventGraph Function:  Execute Ubergraph WBP Temp HUD Blueprint:  WBP_TempHUD
+[2026.04.27-13.14.14:805][741]LogScript: Warning: Accessed None trying to read (real) property InventoryRef in WBP_TempHUD_C
+	WBP_TempHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WBP_TempHUD_C_0
+	Function /Game/Shop-and-inventory/WBP_TempHUD.WBP_TempHUD_C:ExecuteUbergraph_WBP_TempHUD:0B68
+[2026.04.27-13.14.14:805][741]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property InventoryRef in WBP_TempHUD_C". Node:  Bind Event to Update Inventory Contents Graph:  EventGraph Function:  Execute Ubergraph WBP Temp HUD Blueprint:  WBP_TempHUD
+[2026.04.27-13.14.14:805][741]PIE: Server logged in
+[2026.04.27-13.14.14:807][741]PIE: Play in editor total start time 0.078 seconds.
+[2026.04.27-13.14.14:864][742]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.27-13.14.17:111][963]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/FirstPerson/Lvl_FirstPerson"
+[2026.04.27-13.14.17:111][963]LogNet: Browse: /Game/FirstPerson/Lvl_FirstPerson
+[2026.04.27-13.14.17:111][963]LogLoad: LoadMap: /Game/FirstPerson/Lvl_FirstPerson
+[2026.04.27-13.14.17:111][963]LogWorld: BeginTearingDown for /Game/UI/MainMenu/UEDPIE_0_lvl_MainMenu
+[2026.04.27-13.14.17:112][963]LogWorld: UWorld::CleanupWorld for lvl_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2026.04.27-13.14.17:112][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.27-13.14.17:182][963]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.27-13.14.17:184][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2026.04.27-13.14.17:186][963]LogStreaming: Display: FlushAsyncLoading(654): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.27-13.14.17:190][963]LogAudio: Display: Audio Device (ID: 3) registered with world 'Lvl_FirstPerson'.
+[2026.04.27-13.14.17:190][963]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.04.27-13.14.17:192][963]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.27-13.14.17:192][963]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.27-13.14.17:192][963]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2026.04.27-13.14.17:192][963]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.27-13.14.17:193][963]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.04.27-13.14.17:215][963]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 20.847 ms (total: 42.459 ms)
+[2026.04.27-13.14.17:216][963]LogWorldPartition: Display: WorldPartition initialize took 24.152 ms (total: 133.811 ms)
+[2026.04.27-13.14.17:216][963]LogPlayLevel: PIE: World Init took: (0.025812s)
+[2026.04.27-13.14.17:216][963]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.04.27-13.14.17:221][963]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2026.04.27-14.14.17
+[2026.04.27-13.14.17:221][963]LogWorld: Bringing up level for play took: 0.004358
+[2026.04.27-13.14.17:227][963]LogScript: Warning: Accessed None trying to read (real) property InventoryManagerRef in BP_ShopManager_C
+	BP_ShopManager_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_ShopManager_C_UAID_84A93E8DA9B5A2CA02_2113409319
+	Function /Game/Shop-and-inventory/BP_ShopManager.BP_ShopManager_C:ExecuteUbergraph_BP_ShopManager:05A6
+[2026.04.27-13.14.17:227][963]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property InventoryManagerRef in BP_ShopManager_C". Node:  Branch Graph:  ForEachLoopWithBreak Function:  Execute Ubergraph BP Shop Manager Blueprint:  BP_ShopManager
+[2026.04.27-13.14.17:227][963]LogScript: Warning: Accessed None
+	BP_ShopManager_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_ShopManager_C_UAID_84A93E8DA9B5A2CA02_2113409319
+	Function /Game/Shop-and-inventory/BP_ShopManager.BP_ShopManager_C:ExecuteUbergraph_BP_ShopManager:0587
+[2026.04.27-13.14.17:227][963]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  ForEachLoopWithBreak Function:  Execute Ubergraph BP Shop Manager Blueprint:  BP_ShopManager
+[2026.04.27-13.14.17:227][963]LogScript: Warning: Accessed None trying to read (real) property InventoryManagerRef in BP_ShopManager_C
+	BP_ShopManager_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_ShopManager_C_UAID_84A93E8DA9B5A2CA02_2113409319
+	Function /Game/Shop-and-inventory/BP_ShopManager.BP_ShopManager_C:ExecuteUbergraph_BP_ShopManager:0155
+[2026.04.27-13.14.17:227][963]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property InventoryManagerRef in BP_ShopManager_C". Node:  Add Graph:  EventGraph Function:  Execute Ubergraph BP Shop Manager Blueprint:  BP_ShopManager
+[2026.04.27-13.14.17:227][963]LogScript: Warning: Accessed None trying to read (real) property InventoryManagerRef in BP_ShopManager_C
+	BP_ShopManager_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_ShopManager_C_UAID_84A93E8DA9B5A2CA02_2113409319
+	Function /Game/Shop-and-inventory/BP_ShopManager.BP_ShopManager_C:ExecuteUbergraph_BP_ShopManager:0155
+[2026.04.27-13.14.17:227][963]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property InventoryManagerRef in BP_ShopManager_C". Node:  Add Graph:  EventGraph Function:  Execute Ubergraph BP Shop Manager Blueprint:  BP_ShopManager
+[2026.04.27-13.14.17:227][963]LogScript: Warning: Accessed None trying to read (real) property InventoryManagerRef in BP_ShopManager_C
+	BP_ShopManager_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_ShopManager_C_UAID_84A93E8DA9B5A2CA02_2113409319
+	Function /Game/Shop-and-inventory/BP_ShopManager.BP_ShopManager_C:ExecuteUbergraph_BP_ShopManager:0155
+[2026.04.27-13.14.17:227][963]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property InventoryManagerRef in BP_ShopManager_C". Node:  Add Graph:  EventGraph Function:  Execute Ubergraph BP Shop Manager Blueprint:  BP_ShopManager
+[2026.04.27-13.14.17:227][963]LogScript: Warning: Accessed None trying to read (real) property InventoryManagerRef in BP_ShopManager_C
+	BP_ShopManager_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_ShopManager_C_UAID_84A93E8DA9B5A2CA02_2113409319
+	Function /Game/Shop-and-inventory/BP_ShopManager.BP_ShopManager_C:ExecuteUbergraph_BP_ShopManager:0155
+[2026.04.27-13.14.17:227][963]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property InventoryManagerRef in BP_ShopManager_C". Node:  Add Graph:  EventGraph Function:  Execute Ubergraph BP Shop Manager Blueprint:  BP_ShopManager
+[2026.04.27-13.14.17:227][963]LogScript: Warning: Accessed None trying to read (real) property InventoryManagerRef in BP_ShopManager_C
+	BP_ShopManager_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_ShopManager_C_UAID_84A93E8DA9B5A2CA02_2113409319
+	Function /Game/Shop-and-inventory/BP_ShopManager.BP_ShopManager_C:ExecuteUbergraph_BP_ShopManager:0155
+[2026.04.27-13.14.17:227][963]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property InventoryManagerRef in BP_ShopManager_C". Node:  Add Graph:  EventGraph Function:  Execute Ubergraph BP Shop Manager Blueprint:  BP_ShopManager
+[2026.04.27-13.14.17:228][963]LogScript: Warning: Accessed None trying to read (real) property InventoryRef in WBP_TempHUD_C
+	WBP_TempHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WBP_TempHUD_C_1
+	Function /Game/Shop-and-inventory/WBP_TempHUD.WBP_TempHUD_C:ExecuteUbergraph_WBP_TempHUD:0B68
+[2026.04.27-13.14.17:228][963]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property InventoryRef in WBP_TempHUD_C". Node:  Bind Event to Update Inventory Contents Graph:  EventGraph Function:  Execute Ubergraph WBP Temp HUD Blueprint:  WBP_TempHUD
+[2026.04.27-13.14.17:228][963]LogLoad: Took 0.117661 seconds to LoadMap(/Game/FirstPerson/Lvl_FirstPerson)
+[2026.04.27-13.14.17:228][963]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/FirstPerson/Lvl_FirstPerson
+[2026.04.27-13.14.17:241][963]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.27-13.14.18:647][ 77]LogScript: Warning: Accessed None trying to read (real) property CallFunc_SlotAsCanvasSlot_ReturnValue in not an UClass
+	WBP_PauseMenu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WBP_PauseMenu_C_0
+	Function /Game/UI/WBP_PauseMenu.WBP_PauseMenu_C:UpdateSelection:00D3
+[2026.04.27-13.14.18:647][ 77]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_SlotAsCanvasSlot_ReturnValue in not an UClass". Node:  Set Position Graph:  UpdateSelection Function:  Update Selection Blueprint:  WBP_PauseMenu
+[2026.04.27-13.14.18:647][ 77]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.04.27-13.14.18:648][ 77]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.04.27-13.14.18:648][ 77]PIE: Warning: The widget WBP_PauseMenu_C_0 does not support focus. If this is a UserWidget, you should set bIsFocusable to true.
+[2026.04.27-13.14.19:948][179]PIE: Error: SetInputMode_GameOnly expects a valid player controller as 'PlayerController' target
+[2026.04.27-13.14.25:351][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.27-13.14.25:351][554]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.04.27-13.14.25:351][554]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.04.27-13.14.25:352][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.27-13.14.25:352][554]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.04.27-13.14.25:354][554]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.27-13.14.25:358][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.27-13.14.25:381][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.27-13.14.25:381][554]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.04.27-13.14.25:381][554]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2026.04.27-13.14.25:383][554]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2026.04.27-13.14.25:391][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.04.27-13.14.25:543][555]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2026.04.27-13.14.26:810][666]LogSlate: Window 'Message Log' being destroyed
+[2026.04.27-13.14.26:821][666]LogSlate: Window 'Message Log' being destroyed
+[2026.04.27-13.14.27:730][770]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.27-13.14.27:740][770]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.27-13.14.27:740][770]LogPlayLevel: Creating play world package: /Game/UI/MainMenu/UEDPIE_0_lvl_MainMenu
+[2026.04.27-13.14.27:741][770]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001097s)
+[2026.04.27-13.14.27:741][770]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/MainMenu/lvl_MainMenu.lvl_MainMenu to /Game/UI/MainMenu/UEDPIE_0_lvl_MainMenu.lvl_MainMenu (0.001131s)
+[2026.04.27-13.14.27:763][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.04.27-13.14.27:764][770]LogChaosDD: Creating Chaos Debug Draw Scene for world lvl_MainMenu
+[2026.04.27-13.14.27:766][770]LogPlayLevel: PIE: World Init took: (0.001619s)
+[2026.04.27-13.14.27:766][770]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.04.27-13.14.27:766][770]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.27-13.14.27:766][770]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.27-13.14.27:766][770]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.27-13.14.27:766][770]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.27-13.14.27:766][770]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.27-13.14.27:766][770]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.27-13.14.27:766][770]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.27-13.14.27:766][770]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.27-13.14.27:766][770]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.27-13.14.27:766][770]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.27-13.14.27:766][770]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.27-13.14.27:768][770]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.27-13.14.27:798][770]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics HD Audio)
+[2026.04.27-13.14.27:799][770]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.27-13.14.27:799][770]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.27-13.14.27:799][770]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.27-13.14.27:799][770]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2026.04.27-13.14.27:799][770]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2026.04.27-13.14.27:802][770]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.04.27-13.14.27:802][770]LogInit: FAudioDevice initialized with ID 4.
+[2026.04.27-13.14.27:802][770]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2026.04.27-13.14.27:802][770]LogAudio: Display: Audio Device (ID: 4) registered with world 'lvl_MainMenu'.
+[2026.04.27-13.14.27:802][770]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.04.27-13.14.27:806][770]LogLoad: Game class is 'BP_MainMenu_Gamemode_C'
+[2026.04.27-13.14.27:807][770]LogWorld: Bringing World /Game/UI/MainMenu/UEDPIE_0_lvl_MainMenu.lvl_MainMenu up for play (max tick rate 0) at 2026.04.27-14.14.27
+[2026.04.27-13.14.27:807][770]LogWorld: Bringing up level for play took: 0.000390
+[2026.04.27-13.14.27:809][770]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2026.04.27-13.14.27:812][770]LogScript: Warning: Accessed None trying to read (real) property ShopRef in WBP_TempHUD_C
+	WBP_TempHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_2.WBP_TempHUD_C_0
+	Function /Game/Shop-and-inventory/WBP_TempHUD.WBP_TempHUD_C:ExecuteUbergraph_WBP_TempHUD:0B26
+[2026.04.27-13.14.27:812][770]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property ShopRef in WBP_TempHUD_C". Node:  Bind Event to Shop Options Updated Graph:  EventGraph Function:  Execute Ubergraph WBP Temp HUD Blueprint:  WBP_TempHUD
+[2026.04.27-13.14.27:812][770]LogScript: Warning: Accessed None trying to read (real) property InventoryRef in WBP_TempHUD_C
+	WBP_TempHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_2.WBP_TempHUD_C_0
+	Function /Game/Shop-and-inventory/WBP_TempHUD.WBP_TempHUD_C:ExecuteUbergraph_WBP_TempHUD:0B68
+[2026.04.27-13.14.27:812][770]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property InventoryRef in WBP_TempHUD_C". Node:  Bind Event to Update Inventory Contents Graph:  EventGraph Function:  Execute Ubergraph WBP Temp HUD Blueprint:  WBP_TempHUD
+[2026.04.27-13.14.27:813][770]PIE: Server logged in
+[2026.04.27-13.14.27:815][770]PIE: Play in editor total start time 0.076 seconds.
+[2026.04.27-13.14.27:867][771]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.27-13.14.44:008][611]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 352.097290
+[2026.04.27-13.14.44:175][629]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.27-13.14.44:175][630]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 352.240265, Update Interval: 329.262970
+[2026.04.27-13.14.49:762][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.27-13.14.49:762][138]LogWorld: BeginTearingDown for /Game/UI/MainMenu/UEDPIE_0_lvl_MainMenu
+[2026.04.27-13.14.49:762][138]LogWorld: UWorld::CleanupWorld for lvl_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2026.04.27-13.14.49:762][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.27-13.14.49:764][138]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.27-13.14.49:768][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.27-13.14.49:789][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.27-13.14.49:790][138]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.04.27-13.14.49:790][138]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2026.04.27-13.14.49:792][138]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2026.04.27-13.14.49:797][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.04.27-13.14.49:934][139]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2026.04.27-13.14.51:002][231]LogSlate: Window 'Message Log' being destroyed
+[2026.04.27-13.14.51:010][231]LogSlate: Window 'Message Log' being destroyed
+[2026.04.27-13.15.41:299][856]LogSlate: Window 'WBP_PauseMenu' being destroyed
+[2026.04.27-13.15.41:309][856]LogSlate: Window 'WBP_PauseMenu' being destroyed
+[2026.04.27-13.15.41:316][856]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.04.27-13.15.41:316][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.27-13.15.41:327][856]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.04.27-13.15.41:327][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.27-13.15.41:417][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.04.27-13.15.48:710][642]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu/WBP_MainMenu.WBP_MainMenu
+[2026.04.27-13.15.48:710][642]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.04.27-13.15.48:716][642]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.04.27-13.15.52:411][947]LogSlate: Took 0.001527 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2026.04.27-13.16.32:493][167]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.04.27-13.17.09:880][567]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_PauseMenu.WBP_PauseMenu
+[2026.04.27-13.17.09:880][567]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.04.27-13.17.09:888][567]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.04.27-13.18.15:150][262]LogEditorTransaction: Undo Drag and Drop Widget
+[2026.04.27-13.18.17:802][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2026.04.27-13.18.19:712][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.04.27-13.18.21:394][649]LogEditorTransaction: Undo Drag and Drop Widget
+[2026.04.27-13.18.21:825][652]LogEditorTransaction: Undo Drag and Drop Widget
+[2026.04.27-13.18.22:143][653]LogEditorTransaction: Undo Edit Image
+[2026.04.27-13.18.22:481][660]LogEditorTransaction: Undo Edit Right
+[2026.04.27-13.18.23:994][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.04.27-13.18.26:597][932]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.27-13.18.26:609][932]LogPlayLevel: [PlayLevel] Compiling WBP_PauseMenu before play...
+[2026.04.27-13.18.26:750][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.04.27-13.18.26:751][932]LogPlayLevel: PlayLevel: Blueprint regeneration took 144 ms (1 blueprints)
+[2026.04.27-13.18.26:752][932]LogPlayLevel: Creating play world package: /Game/UI/MainMenu/UEDPIE_0_lvl_MainMenu
+[2026.04.27-13.18.26:753][932]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001121s)
+[2026.04.27-13.18.26:753][932]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/MainMenu/lvl_MainMenu.lvl_MainMenu to /Game/UI/MainMenu/UEDPIE_0_lvl_MainMenu.lvl_MainMenu (0.001155s)
+[2026.04.27-13.18.26:775][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.04.27-13.18.26:776][932]LogChaosDD: Creating Chaos Debug Draw Scene for world lvl_MainMenu
+[2026.04.27-13.18.26:778][932]LogPlayLevel: PIE: World Init took: (0.001734s)
+[2026.04.27-13.18.26:778][932]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.04.27-13.18.26:778][932]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.27-13.18.26:778][932]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.27-13.18.26:778][932]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.27-13.18.26:778][932]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.27-13.18.26:778][932]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.27-13.18.26:778][932]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.27-13.18.26:778][932]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.27-13.18.26:778][932]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.27-13.18.26:778][932]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.27-13.18.26:778][932]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.27-13.18.26:778][932]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.27-13.18.26:781][932]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.27-13.18.26:813][932]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics HD Audio)
+[2026.04.27-13.18.26:813][932]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.27-13.18.26:813][932]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.27-13.18.26:813][932]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.27-13.18.26:814][932]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2026.04.27-13.18.26:814][932]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.04.27-13.18.26:817][932]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.04.27-13.18.26:817][932]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2026.04.27-13.18.26:817][932]LogInit: FAudioDevice initialized with ID 5.
+[2026.04.27-13.18.26:817][932]LogAudio: Display: Audio Device (ID: 5) registered with world 'lvl_MainMenu'.
+[2026.04.27-13.18.26:817][932]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.04.27-13.18.26:827][932]LogLoad: Game class is 'BP_MainMenu_Gamemode_C'
+[2026.04.27-13.18.26:829][932]LogWorld: Bringing World /Game/UI/MainMenu/UEDPIE_0_lvl_MainMenu.lvl_MainMenu up for play (max tick rate 0) at 2026.04.27-14.18.26
+[2026.04.27-13.18.26:829][932]LogWorld: Bringing up level for play took: 0.000713
+[2026.04.27-13.18.26:831][932]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2026.04.27-13.18.26:834][932]LogScript: Warning: Accessed None trying to read (real) property ShopRef in WBP_TempHUD_C
+	WBP_TempHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.WBP_TempHUD_C_0
+	Function /Game/Shop-and-inventory/WBP_TempHUD.WBP_TempHUD_C:ExecuteUbergraph_WBP_TempHUD:0B26
+[2026.04.27-13.18.26:834][932]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property ShopRef in WBP_TempHUD_C". Node:  Bind Event to Shop Options Updated Graph:  EventGraph Function:  Execute Ubergraph WBP Temp HUD Blueprint:  WBP_TempHUD
+[2026.04.27-13.18.26:834][932]LogScript: Warning: Accessed None trying to read (real) property InventoryRef in WBP_TempHUD_C
+	WBP_TempHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.WBP_TempHUD_C_0
+	Function /Game/Shop-and-inventory/WBP_TempHUD.WBP_TempHUD_C:ExecuteUbergraph_WBP_TempHUD:0B68
+[2026.04.27-13.18.26:834][932]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property InventoryRef in WBP_TempHUD_C". Node:  Bind Event to Update Inventory Contents Graph:  EventGraph Function:  Execute Ubergraph WBP Temp HUD Blueprint:  WBP_TempHUD
+[2026.04.27-13.18.26:835][932]PIE: Server logged in
+[2026.04.27-13.18.26:837][932]PIE: Play in editor total start time 0.231 seconds.
+[2026.04.27-13.18.26:890][933]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.27-13.18.28:292][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.27-13.18.28:292][ 34]LogWorld: BeginTearingDown for /Game/UI/MainMenu/UEDPIE_0_lvl_MainMenu
+[2026.04.27-13.18.28:292][ 34]LogWorld: UWorld::CleanupWorld for lvl_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2026.04.27-13.18.28:293][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.27-13.18.28:297][ 34]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.27-13.18.28:309][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.27-13.18.28:337][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.27-13.18.28:337][ 34]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.04.27-13.18.28:337][ 34]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2026.04.27-13.18.28:339][ 34]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2026.04.27-13.18.28:345][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.04.27-13.18.28:514][ 35]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2026.04.27-13.18.32:294][300]LogSlate: Window 'Message Log' being destroyed
+[2026.04.27-13.18.32:305][300]LogSlate: Window 'Message Log' being destroyed
+[2026.04.27-13.20.16:599][641]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 684.686157
+[2026.04.27-13.20.17:601][644]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.27-13.20.17:601][644]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 685.367371, Update Interval: 319.916992
+[2026.04.27-13.24.20:073][268]LogEditorTransaction: Undo Edit Left
+[2026.04.27-13.24.46:774][254]LogEditorTransaction: Undo Edit Left
+[2026.04.27-13.24.48:480][335]LogEditorTransaction: Undo Edit Top
+[2026.04.27-13.24.48:853][336]LogEditorTransaction: Undo Edit Left
+[2026.04.27-13.25.43:326][486]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1011.414185
+[2026.04.27-13.25.43:491][499]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.27-13.25.43:491][499]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1011.566040, Update Interval: 334.668427
+[2026.04.27-13.25.53:347][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2026.04.27-13.26.34:266][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.04.27-13.26.38:136][512]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.27-13.26.38:148][512]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.27-13.26.38:148][512]LogPlayLevel: Creating play world package: /Game/UI/MainMenu/UEDPIE_0_lvl_MainMenu
+[2026.04.27-13.26.38:149][512]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001150s)
+[2026.04.27-13.26.38:149][512]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/MainMenu/lvl_MainMenu.lvl_MainMenu to /Game/UI/MainMenu/UEDPIE_0_lvl_MainMenu.lvl_MainMenu (0.001187s)
+[2026.04.27-13.26.38:171][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.04.27-13.26.38:173][512]LogChaosDD: Creating Chaos Debug Draw Scene for world lvl_MainMenu
+[2026.04.27-13.26.38:175][512]LogPlayLevel: PIE: World Init took: (0.001815s)
+[2026.04.27-13.26.38:175][512]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.04.27-13.26.38:176][512]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.27-13.26.38:176][512]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.27-13.26.38:176][512]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.27-13.26.38:176][512]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.27-13.26.38:176][512]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.27-13.26.38:176][512]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.27-13.26.38:176][512]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.27-13.26.38:176][512]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.27-13.26.38:176][512]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.27-13.26.38:176][512]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.27-13.26.38:176][512]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.27-13.26.38:179][512]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.27-13.26.38:211][512]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics HD Audio)
+[2026.04.27-13.26.38:211][512]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.27-13.26.38:211][512]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.27-13.26.38:211][512]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.27-13.26.38:212][512]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.04.27-13.26.38:212][512]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.04.27-13.26.38:214][512]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.04.27-13.26.38:214][512]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.04.27-13.26.38:214][512]LogInit: FAudioDevice initialized with ID 6.
+[2026.04.27-13.26.38:214][512]LogAudio: Display: Audio Device (ID: 6) registered with world 'lvl_MainMenu'.
+[2026.04.27-13.26.38:214][512]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.04.27-13.26.38:219][512]LogLoad: Game class is 'BP_MainMenu_Gamemode_C'
+[2026.04.27-13.26.38:219][512]LogWorld: Bringing World /Game/UI/MainMenu/UEDPIE_0_lvl_MainMenu.lvl_MainMenu up for play (max tick rate 0) at 2026.04.27-14.26.38
+[2026.04.27-13.26.38:219][512]LogWorld: Bringing up level for play took: 0.000426
+[2026.04.27-13.26.38:222][512]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2026.04.27-13.26.38:225][512]LogScript: Warning: Accessed None trying to read (real) property ShopRef in WBP_TempHUD_C
+	WBP_TempHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.WBP_TempHUD_C_0
+	Function /Game/Shop-and-inventory/WBP_TempHUD.WBP_TempHUD_C:ExecuteUbergraph_WBP_TempHUD:0B26
+[2026.04.27-13.26.38:225][512]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property ShopRef in WBP_TempHUD_C". Node:  Bind Event to Shop Options Updated Graph:  EventGraph Function:  Execute Ubergraph WBP Temp HUD Blueprint:  WBP_TempHUD
+[2026.04.27-13.26.38:225][512]LogScript: Warning: Accessed None trying to read (real) property InventoryRef in WBP_TempHUD_C
+	WBP_TempHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.WBP_TempHUD_C_0
+	Function /Game/Shop-and-inventory/WBP_TempHUD.WBP_TempHUD_C:ExecuteUbergraph_WBP_TempHUD:0B68
+[2026.04.27-13.26.38:225][512]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property InventoryRef in WBP_TempHUD_C". Node:  Bind Event to Update Inventory Contents Graph:  EventGraph Function:  Execute Ubergraph WBP Temp HUD Blueprint:  WBP_TempHUD
+[2026.04.27-13.26.38:226][512]PIE: Server logged in
+[2026.04.27-13.26.38:228][512]PIE: Play in editor total start time 0.081 seconds.
+[2026.04.27-13.26.38:299][513]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.27-13.26.39:925][653]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/FirstPerson/Lvl_FirstPerson"
+[2026.04.27-13.26.39:925][653]LogNet: Browse: /Game/FirstPerson/Lvl_FirstPerson
+[2026.04.27-13.26.39:925][653]LogLoad: LoadMap: /Game/FirstPerson/Lvl_FirstPerson
+[2026.04.27-13.26.39:925][653]LogWorld: BeginTearingDown for /Game/UI/MainMenu/UEDPIE_0_lvl_MainMenu
+[2026.04.27-13.26.39:925][653]LogWorld: UWorld::CleanupWorld for lvl_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2026.04.27-13.26.39:925][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.27-13.26.39:977][653]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.27-13.26.39:980][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.04.27-13.26.39:981][653]LogStreaming: Display: FlushAsyncLoading(718): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.27-13.26.39:985][653]LogAudio: Display: Audio Device (ID: 6) registered with world 'Lvl_FirstPerson'.
+[2026.04.27-13.26.39:985][653]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.04.27-13.26.39:987][653]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.27-13.26.39:987][653]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.27-13.26.39:987][653]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2026.04.27-13.26.39:987][653]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.27-13.26.39:989][653]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.04.27-13.26.40:010][653]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 21.225 ms (total: 63.685 ms)
+[2026.04.27-13.26.40:011][653]LogWorldPartition: Display: WorldPartition initialize took 24.532 ms (total: 158.344 ms)
+[2026.04.27-13.26.40:011][653]LogPlayLevel: PIE: World Init took: (0.026195s)
+[2026.04.27-13.26.40:011][653]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.04.27-13.26.40:015][653]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2026.04.27-14.26.40
+[2026.04.27-13.26.40:016][653]LogWorld: Bringing up level for play took: 0.004351
+[2026.04.27-13.26.40:021][653]LogScript: Warning: Accessed None trying to read (real) property InventoryManagerRef in BP_ShopManager_C
+	BP_ShopManager_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_ShopManager_C_UAID_84A93E8DA9B5A2CA02_2113409319
+	Function /Game/Shop-and-inventory/BP_ShopManager.BP_ShopManager_C:ExecuteUbergraph_BP_ShopManager:05A6
+[2026.04.27-13.26.40:021][653]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property InventoryManagerRef in BP_ShopManager_C". Node:  Branch Graph:  ForEachLoopWithBreak Function:  Execute Ubergraph BP Shop Manager Blueprint:  BP_ShopManager
+[2026.04.27-13.26.40:021][653]LogScript: Warning: Accessed None
+	BP_ShopManager_C /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_ShopManager_C_UAID_84A93E8DA9B5A2CA02_2113409319
+	Function /Game/Shop-and-inventory/BP_ShopManager.BP_ShopManager_C:ExecuteUbergraph_BP_ShopManager:0587
+[2026.04.27-13.26.40:021][653]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  ForEachLoopWithBreak Function:  Execute Ubergraph BP Shop Manager Blueprint:  BP_ShopManager
+[2026.04.27-13.26.40:021][653]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property InventoryManagerRef in BP_ShopManager_C". Node:  Add Graph:  EventGraph Function:  Execute Ubergraph BP Shop Manager Blueprint:  BP_ShopManager
+[2026.04.27-13.26.40:022][653]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property InventoryManagerRef in BP_ShopManager_C". Node:  Add Graph:  EventGraph Function:  Execute Ubergraph BP Shop Manager Blueprint:  BP_ShopManager
+[2026.04.27-13.26.40:022][653]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property InventoryManagerRef in BP_ShopManager_C". Node:  Add Graph:  EventGraph Function:  Execute Ubergraph BP Shop Manager Blueprint:  BP_ShopManager
+[2026.04.27-13.26.40:022][653]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property InventoryManagerRef in BP_ShopManager_C". Node:  Add Graph:  EventGraph Function:  Execute Ubergraph BP Shop Manager Blueprint:  BP_ShopManager
+[2026.04.27-13.26.40:022][653]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property InventoryManagerRef in BP_ShopManager_C". Node:  Add Graph:  EventGraph Function:  Execute Ubergraph BP Shop Manager Blueprint:  BP_ShopManager
+[2026.04.27-13.26.40:023][653]LogScript: Warning: Accessed None trying to read (real) property InventoryRef in WBP_TempHUD_C
+	WBP_TempHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.WBP_TempHUD_C_1
+	Function /Game/Shop-and-inventory/WBP_TempHUD.WBP_TempHUD_C:ExecuteUbergraph_WBP_TempHUD:0B68
+[2026.04.27-13.26.40:023][653]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property InventoryRef in WBP_TempHUD_C". Node:  Bind Event to Update Inventory Contents Graph:  EventGraph Function:  Execute Ubergraph WBP Temp HUD Blueprint:  WBP_TempHUD
+[2026.04.27-13.26.40:023][653]LogLoad: Took 0.098930 seconds to LoadMap(/Game/FirstPerson/Lvl_FirstPerson)
+[2026.04.27-13.26.40:023][653]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/FirstPerson/Lvl_FirstPerson
+[2026.04.27-13.26.40:035][653]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.27-13.26.41:200][742]LogScript: Warning: Accessed None trying to read (real) property CallFunc_SlotAsCanvasSlot_ReturnValue in not an UClass
+	WBP_PauseMenu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.WBP_PauseMenu_C_0
+	Function /Game/UI/WBP_PauseMenu.WBP_PauseMenu_C:UpdateSelection:00D3
+[2026.04.27-13.26.41:200][742]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_SlotAsCanvasSlot_ReturnValue in not an UClass". Node:  Set Position Graph:  UpdateSelection Function:  Update Selection Blueprint:  WBP_PauseMenu
+[2026.04.27-13.26.41:200][742]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.04.27-13.26.41:200][742]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.04.27-13.26.41:200][742]PIE: Warning: The widget WBP_PauseMenu_C_0 does not support focus. If this is a UserWidget, you should set bIsFocusable to true.
+[2026.04.27-13.26.47:097][252]PIE: Error: SetInputMode_GameOnly expects a valid player controller as 'PlayerController' target
+[2026.04.27-13.26.51:038][549]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.27-13.26.51:038][549]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.04.27-13.26.51:038][549]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.04.27-13.26.51:039][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.27-13.26.51:039][549]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.04.27-13.26.51:041][549]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.27-13.26.51:045][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.27-13.26.51:068][549]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.27-13.26.51:068][549]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.04.27-13.26.51:068][549]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2026.04.27-13.26.51:070][549]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2026.04.27-13.26.51:080][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.04.27-13.26.51:232][550]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2026.04.27-13.26.53:496][689]LogSlate: Window 'Message Log' being destroyed
+[2026.04.27-13.26.53:508][689]LogSlate: Window 'Message Log' being destroyed
+[2026.04.27-13.27.13:103][215]LogStreaming: Display: FlushAsyncLoading(782): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.27-13.27.13:108][215]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/TimerUI/WBP_TimerUI.WBP_TimerUI
+[2026.04.27-13.27.13:109][215]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2026.04.27-13.27.13:117][215]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2026.04.27-13.27.17:871][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.04.27-13.27.17:871][650]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/UI/MainMenu/lvl_MainMenu' took 0.041
+[2026.04.27-13.27.17:872][650]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_PauseMenu] ([2] browsable assets)...
+[2026.04.27-13.27.17:875][650]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_PauseMenu.WBP_PauseMenu]
+[2026.04.27-13.27.17:875][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_PauseMenu]
+[2026.04.27-13.27.17:903][650]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WBP_PauseMenu_Auto1
+[2026.04.27-13.27.17:904][650]LogSavePackage: Moving '../../../../../../Users/f019230n.STUDENT/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/WBP_PauseMenu_Auto121D8386548EE34AC85AD0AAD8B14E5D3.tmp' to '../../../../../../Users/f019230n.STUDENT/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/Autosaves/Game/UI/WBP_PauseMenu_Auto1.uasset'
+[2026.04.27-13.27.17:906][650]LogFileHelpers: Auto-saving content packages took 0.034
+[2026.04.27-13.28.34:983][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
