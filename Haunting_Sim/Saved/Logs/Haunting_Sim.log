@@ -1925,3 +1925,38 @@ Make sure '/Game/UI/ShopUI/WBP_shopui.WBP_shopui_C' has been compiled for  Get I
 [2026.04.27-13.38.08:710][733]LogPlayLevel: Display: Destroying online subsystem :Context_17
 [2026.04.27-13.38.10:320][893]LogSlate: Window 'Message Log' being destroyed
 [2026.04.27-13.38.10:327][893]LogSlate: Window 'Message Log' being destroyed
+[2026.04.27-13.38.38:768][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.04.27-13.38.38:769][390]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/UI/MainMenu/lvl_MainMenu' took 0.024
+[2026.04.27-13.38.38:769][390]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_PauseMenu] ([2] browsable assets)...
+[2026.04.27-13.38.38:773][390]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_PauseMenu.WBP_PauseMenu]
+[2026.04.27-13.38.38:773][390]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_PauseMenu]
+[2026.04.27-13.38.38:801][390]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WBP_PauseMenu_Auto2
+[2026.04.27-13.38.38:802][390]LogSavePackage: Moving '../../../../../../Users/f019230n.STUDENT/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/WBP_PauseMenu_Auto2FA0E86024E39C667BA7E32AD255DB2D0.tmp' to '../../../../../../Users/f019230n.STUDENT/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/Autosaves/Game/UI/WBP_PauseMenu_Auto2.uasset'
+[2026.04.27-13.38.38:804][390]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/MainMenu/WBP_MainMenu] ([2] browsable assets)...
+[2026.04.27-13.38.38:808][390]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/MainMenu/WBP_MainMenu.WBP_MainMenu]
+[2026.04.27-13.38.38:808][390]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu/WBP_MainMenu]
+[2026.04.27-13.38.38:828][390]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/MainMenu/WBP_MainMenu_Auto2
+[2026.04.27-13.38.38:829][390]LogSavePackage: Moving '../../../../../../Users/f019230n.STUDENT/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/WBP_MainMenu_Auto20B054E3C49BD4068A4301CB5E2D9F714.tmp' to '../../../../../../Users/f019230n.STUDENT/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/Autosaves/Game/UI/MainMenu/WBP_MainMenu_Auto2.uasset'
+[2026.04.27-13.38.38:831][390]LogFileHelpers: Auto-saving content packages took 0.062
+[2026.04.27-13.39.03:816][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2026.04.27-13.39.03:820][652]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.27-13.39.03:898][652]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/WBP_PauseMenu] ([2] browsable assets)...
+[2026.04.27-13.39.03:898][652]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_PauseMenu]
+[2026.04.27-13.39.03:898][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_PauseMenu" FILE="../../../../../../Users/f019230n.STUDENT/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/UI/WBP_PauseMenu.uasset" SILENT=true
+[2026.04.27-13.39.03:928][652]LogSavePackage: Moving output files for package: /Game/UI/WBP_PauseMenu
+[2026.04.27-13.39.03:928][652]LogSavePackage: Moving '../../../../../../Users/f019230n.STUDENT/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/WBP_PauseMenuD2097C4243DE83C00BA9D68945E08820.tmp' to '../../../../../../Users/f019230n.STUDENT/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/UI/WBP_PauseMenu.uasset'
+[2026.04.27-13.39.03:930][652]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/MainMenu/WBP_MainMenu] ([2] browsable assets)...
+[2026.04.27-13.39.03:930][652]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu/WBP_MainMenu]
+[2026.04.27-13.39.03:950][652]LogSavePackage: Moving output files for package: /Game/UI/MainMenu/WBP_MainMenu
+[2026.04.27-13.39.03:951][652]LogSavePackage: Moving '../../../../../../Users/f019230n.STUDENT/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Saved/WBP_MainMenuE4C9268447D8AEBB77DEBA8F5D28C552.tmp' to '../../../../../../Users/f019230n.STUDENT/Documents/GitHub/Haunting-Sim-Collab/Haunting_Sim/Content/UI/MainMenu/WBP_MainMenu.uasset'
+[2026.04.27-13.39.03:964][652]LogFileHelpers: InternalPromptForCheckoutAndSave took 143.366 ms (total: 413.333 ms)
+[2026.04.27-13.39.04:026][652]LogContentValidation: Display: Starting to validate 2 assets
+[2026.04.27-13.39.04:026][652]LogContentValidation: Enabled validators:
+[2026.04.27-13.39.04:026][652]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.27-13.39.04:026][652]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.27-13.39.04:026][652]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.27-13.39.04:026][652]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.27-13.39.04:026][652]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.27-13.39.04:026][652]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.27-13.39.04:027][652]AssetCheck: /Game/UI/WBP_PauseMenu Validating asset
+[2026.04.27-13.39.04:027][652]AssetCheck: /Game/UI/MainMenu/WBP_MainMenu Validating asset
