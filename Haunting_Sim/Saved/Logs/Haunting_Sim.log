@@ -2131,3 +2131,26 @@ Sampler Limit: 32
 [2026.05.11-17.43.26:953][336]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
 [2026.05.11-17.43.26:953][336]LogShaderCompilers: Display: Material Cache Hits: 74 (26%)
 [2026.05.11-17.43.26:953][336]LogShaderCompilers: Display: ================================================
+[2026.05.11-17.44.59:448][941]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2440.205078
+[2026.05.11-17.44.59:592][958]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.11-17.44.59:593][958]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2440.341553, Update Interval: 330.085144
+[2026.05.11-17.46.01:742][365]LogAssetEditorSubsystem: Opening Asset editor for TextureCube /Game/Art/Environment/Materials/Textures/parallax-background-full.parallax-background-full
+[2026.05.11-17.46.24:547][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.05.11-17.46.29:792][510]LogSlate: Window 'Save Content' being destroyed
+[2026.05.11-17.46.29:803][510]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.11-17.46.29:854][510]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Environment/Materials/Textures/parallax-background-full] ([1] browsable assets)...
+[2026.05.11-17.46.29:855][510]OBJ SavePackage:     Rendered thumbnail for [TextureCube /Game/Art/Environment/Materials/Textures/parallax-background-full.parallax-background-full]
+[2026.05.11-17.46.29:856][510]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Environment/Materials/Textures/parallax-background-full]
+[2026.05.11-17.46.29:873][510]LogSavePackage: Moving output files for package: /Game/Art/Environment/Materials/Textures/parallax-background-full
+[2026.05.11-17.46.29:873][510]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/parallax-background-fullA5947E5C44F0FCBDF341488784D71D28.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Environment/Materials/Textures/parallax-background-full.uasset'
+[2026.05.11-17.46.29:892][510]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.099 ms (total: 458.679 ms)
+[2026.05.11-17.46.29:953][510]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.11-17.46.29:954][510]LogContentValidation: Enabled validators:
+[2026.05.11-17.46.29:954][510]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.11-17.46.29:954][510]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.11-17.46.29:954][510]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.11-17.46.29:954][510]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.11-17.46.29:954][510]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.11-17.46.29:954][510]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.11-17.46.29:954][510]AssetCheck: /Game/Art/Environment/Materials/Textures/parallax-background-full Validating asset
+[2026.05.11-17.46.29:986][510]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/SourceControl/UncontrolledChangelists.json
