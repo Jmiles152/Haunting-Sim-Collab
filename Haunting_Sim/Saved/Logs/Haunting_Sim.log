@@ -10350,3 +10350,478 @@ Sampler Limit: 32
 [2026.05.11-16.17.45:603][227]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.05.11-16.17.45:603][227]AssetCheck: /InterchangeAssets/gltf/M_Default Validating asset
 [2026.05.11-16.17.45:603][227]AssetCheck: /Game/Art/Props/HangingDecor/Material/M_FairyLights/Materials/M_FairyLights Validating asset
+[2026.05.11-16.18.22:965][250]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.05.11-16.18.22:979][250]LogContentBrowser: Creating deferred item: NewFolder
+[2026.05.11-16.18.22:992][251]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.05.11-16.18.25:475][525]LogContentBrowser: Attempting asset rename: NewFolder -> TVMount
+[2026.05.11-16.18.25:476][525]LogContentBrowser: End creating deferred item NewFolder
+[2026.05.11-16.18.34:466][805]LogStreaming: Display: FlushAsyncLoading(3496): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.11-16.18.34:515][805]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/capra/OneDrive - Staffordshire University/COLLAB Stoke_12 - [Assets]/[Props]/Prop - TV Stand/SM_draw.fbx]
+[2026.05.11-16.18.35:664][805]LogSlate: Window 'Import Content' being destroyed
+[2026.05.11-16.18.35:694][805]LogInterchangeEngine: [Pending] Importing
+[2026.05.11-16.18.35:780][806]LogStreaming: Display: FlushAsyncLoading(3497): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.11-16.18.35:832][807]LogStreaming: Display: FlushAsyncLoading(3498): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.11-16.18.35:912][809]LogStaticMesh: Display: Building static mesh SM_draw (Required Memory Estimate: 1.822512 MB)...
+[2026.05.11-16.18.35:917][809]LogStaticMesh: Adjacency [0.00s], tris: 1156, UVs 1
+[2026.05.11-16.18.35:920][809]LogStaticMesh: Clustering [0.00s]. Ratio: 1.400000
+[2026.05.11-16.18.35:920][809]LogStaticMesh: Leaves [0.00s]
+[2026.05.11-16.18.35:972][810]LogStaticMesh: Reduce [0.05s]
+[2026.05.11-16.18.35:989][810]LogStaticMesh: Fallback [0.02s], num tris: 864
+[2026.05.11-16.18.36:015][810]LogStaticMesh: Fallback [0.03s], num tris: 584
+[2026.05.11-16.18.36:016][810]LogStaticMesh: ConstrainClusters:
+[2026.05.11-16.18.36:016][810]LogStaticMesh:   Input: 25 Clusters, 2542 Triangles and 4085 Vertices
+[2026.05.11-16.18.36:017][810]LogStaticMesh:   Output without splits: 25 Clusters, 2542 Triangles and 4085 Vertices
+[2026.05.11-16.18.36:017][810]LogStaticMesh:   Output with splits: 25 Clusters, 2542 Triangles and 4085 Vertices
+[2026.05.11-16.18.36:017][810]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 25, Slow Path Clusters: 0, 1 Material: 25, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.05.11-16.18.36:018][810]LogStaticMesh: WritePages:
+[2026.05.11-16.18.36:018][810]LogStaticMesh:   Root: GPU size: 32024 bytes. 1 Pages. 32024.000 bytes per page (97.729% utilization).
+[2026.05.11-16.18.36:018][810]LogStaticMesh:   Streaming: GPU size: 15724 bytes. 1 Pages (1 with relative encoding). 15724.000 bytes per page (11.996% utilization).
+[2026.05.11-16.18.36:018][810]LogStaticMesh:   Page data disk size: 39536 bytes. Fixup data size: 224 bytes.
+[2026.05.11-16.18.36:018][810]LogStaticMesh:   Total GPU size: 47748 bytes, Total disk size: 39760 bytes.
+[2026.05.11-16.18.36:018][810]LogStaticMesh: Encode [0.00s]
+[2026.05.11-16.18.36:018][810]LogStaticMesh: NaniteBuild [0.10s]
+[2026.05.11-16.18.36:060][811]LogStaticMesh: Built static mesh [0.15s] /Game/Art/Props/TVMount/SM_draw.SM_draw
+[2026.05.11-16.18.36:121][812]LogInterchangeEngine: Display: Interchange import completed [C:/Users/capra/OneDr...ops]/Prop - TV Stand/SM_draw.fbx]
+[2026.05.11-16.18.36:121][812]Interchange: Warning: [C:/Users/capra/OneDrive - Staffordshire University/COLLAB Stoke_12 - [Assets]/[Props]/Prop - TV Stand/SM_draw.fbx : 'SM_draw', StaticMesh] No smoothing group information was found for this mesh 'Cube_004' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.05.11-16.18.36:141][812]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.05.11-16.18.36:142][812]LogInterchangeEngine: [Success] Import Done
+[2026.05.11-16.18.37:179][874]LogMaterial: Display: Material /Game/Art/Props/TVMount/Material_001.Material_001 needed to have new flag set bUsedWithNanite !
+[2026.05.11-16.18.38:602][983]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.05.11-16.18.38:612][983]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Props/TVMount/SM_draw.SM_draw
+[2026.05.11-16.18.38:612][983]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Props/TVMount/SM_draw.SM_draw
+[2026.05.11-16.18.38:612][983]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Props/TVMount/SM_draw.SM_draw as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_6
+[2026.05.11-16.18.40:054][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.05.11-16.18.40:057][115]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2026.05.11-16.18.40:063][115]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Props/TVMount/SM_draw.SM_draw
+[2026.05.11-16.18.40:063][115]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Props/TVMount/SM_draw.SM_draw
+[2026.05.11-16.18.40:065][115]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Props/TVMount/SM_draw.SM_draw as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_2CF05D3659F514DA02_1846899236
+[2026.05.11-16.18.41:694][282]Cmd: TRANSACTION UNDO
+[2026.05.11-16.18.41:694][282]LogEditorTransaction: Undo Place Objects
+[2026.05.11-16.18.43:825][411]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Props/TVMount/SM_draw.SM_draw
+[2026.05.11-16.18.43:825][411]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Props/TVMount/SM_draw.SM_draw
+[2026.05.11-16.18.43:825][411]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Props/TVMount/SM_draw.SM_draw as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_7
+[2026.05.11-16.18.45:462][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.05.11-16.18.45:465][562]LogEditorActor: Deleted 0 Actors (0.033 secs)
+[2026.05.11-16.18.57:605][693]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Props/TVMount/SM_draw.SM_draw
+[2026.05.11-16.18.57:606][693]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Props/TVMount/SM_draw.SM_draw
+[2026.05.11-16.18.57:606][693]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Props/TVMount/SM_draw.SM_draw as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_8
+[2026.05.11-16.18.58:362][772]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.05.11-16.18.58:368][772]LogEditorActor: Deleted 0 Actors (0.047 secs)
+[2026.05.11-16.18.58:372][772]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Props/TVMount/SM_draw.SM_draw
+[2026.05.11-16.18.58:372][772]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Props/TVMount/SM_draw.SM_draw
+[2026.05.11-16.18.58:374][772]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Props/TVMount/SM_draw.SM_draw as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_2CF05D3659F514DA02_1865208237
+[2026.05.11-16.19.01:816][ 70]Cmd: DELETE
+[2026.05.11-16.19.01:816][ 70]Cmd: ACTOR DELETE
+[2026.05.11-16.19.01:821][ 70]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.11-16.19.01:846][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.05.11-16.19.01:849][ 70]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2026.05.11-16.19.40:275][379]LogInterchangeEngine: [Pending] Importing
+[2026.05.11-16.19.40:275][379]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/capra/OneDrive - Staffordshire University/COLLAB Stoke_12 - [Assets]/[Props]/Prop - TV Stand/SM_draw.fbx]
+[2026.05.11-16.19.40:298][379]LogStaticMesh: Display: Building static mesh SM_draw (Required Memory Estimate: 1.822512 MB)...
+[2026.05.11-16.19.40:303][379]LogStaticMesh: Adjacency [0.00s], tris: 1156, UVs 1
+[2026.05.11-16.19.40:307][379]LogStaticMesh: Clustering [0.00s]. Ratio: 1.400000
+[2026.05.11-16.19.40:307][379]LogStaticMesh: Leaves [0.00s]
+[2026.05.11-16.19.40:358][379]LogStaticMesh: Reduce [0.05s]
+[2026.05.11-16.19.40:374][379]LogStaticMesh: Fallback [0.02s], num tris: 864
+[2026.05.11-16.19.40:401][379]LogStaticMesh: Fallback [0.03s], num tris: 586
+[2026.05.11-16.19.40:402][379]LogStaticMesh: ConstrainClusters:
+[2026.05.11-16.19.40:402][379]LogStaticMesh:   Input: 25 Clusters, 2542 Triangles and 4080 Vertices
+[2026.05.11-16.19.40:402][379]LogStaticMesh:   Output without splits: 25 Clusters, 2542 Triangles and 4080 Vertices
+[2026.05.11-16.19.40:402][379]LogStaticMesh:   Output with splits: 25 Clusters, 2542 Triangles and 4080 Vertices
+[2026.05.11-16.19.40:402][379]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 25, Slow Path Clusters: 0, 1 Material: 25, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.05.11-16.19.40:403][379]LogStaticMesh: WritePages:
+[2026.05.11-16.19.40:403][379]LogStaticMesh:   Root: GPU size: 31952 bytes. 1 Pages. 31952.000 bytes per page (97.510% utilization).
+[2026.05.11-16.19.40:403][379]LogStaticMesh:   Streaming: GPU size: 15724 bytes. 1 Pages (1 with relative encoding). 15724.000 bytes per page (11.996% utilization).
+[2026.05.11-16.19.40:403][379]LogStaticMesh:   Page data disk size: 39352 bytes. Fixup data size: 224 bytes.
+[2026.05.11-16.19.40:403][379]LogStaticMesh:   Total GPU size: 47676 bytes, Total disk size: 39576 bytes.
+[2026.05.11-16.19.40:403][379]LogStaticMesh: Encode [0.00s]
+[2026.05.11-16.19.40:403][379]LogStaticMesh: NaniteBuild [0.10s]
+[2026.05.11-16.19.40:444][379]LogStaticMesh: Built static mesh [0.15s] /Game/Art/Props/TVMount/SM_draw.SM_draw
+[2026.05.11-16.19.40:467][379]LogInterchangeEngine: Display: Interchange import completed [C:/Users/capra/OneDr...ops]/Prop - TV Stand/SM_draw.fbx]
+[2026.05.11-16.19.40:467][379]Interchange: Warning: [C:/Users/capra/OneDrive - Staffordshire University/COLLAB Stoke_12 - [Assets]/[Props]/Prop - TV Stand/SM_draw.fbx : 'SM_draw', StaticMesh] No smoothing group information was found for this mesh 'Cube_004' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.05.11-16.19.40:475][379]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.05.11-16.19.40:475][379]LogInterchangeEngine: [Success] Import Done
+[2026.05.11-16.19.43:072][452]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.05.11-16.19.43:163][452]LogContentBrowser: Creating deferred item: NewFolder
+[2026.05.11-16.19.43:173][453]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.05.11-16.19.44:248][564]LogContentBrowser: Attempting asset rename: NewFolder -> textures
+[2026.05.11-16.19.44:249][564]LogContentBrowser: End creating deferred item NewFolder
+[2026.05.11-16.19.48:319][984]LogContentBrowser: Attempting asset rename: Material_001 -> M_Drawer
+[2026.05.11-16.19.48:423][984]LogMaterial: Display: MaterialInterface Material_001 has a incorrectly name EditorOnlyData 'Material_001EditorOnlyData'. This may cause issues when running the editor on cooked data. Trying to rename it to the correct name 'M_DrawerEditorOnlyData'.
+[2026.05.11-16.19.48:427][984]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.11-16.19.48:427][984]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Props/TVMount/M_Drawer] ([1] browsable assets)...
+[2026.05.11-16.19.48:433][984]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Art/Props/TVMount/M_Drawer.M_Drawer]
+[2026.05.11-16.19.48:433][984]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Props/TVMount/M_Drawer]
+[2026.05.11-16.19.48:444][984]LogSavePackage: Moving output files for package: /Game/Art/Props/TVMount/M_Drawer
+[2026.05.11-16.19.48:444][984]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/M_Drawer32AE9D5E4E76E45405C0A6BF98DE074A.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Props/TVMount/M_Drawer.uasset'
+[2026.05.11-16.19.48:446][984]LogFileHelpers: InternalPromptForCheckoutAndSave took 19.267 ms (total: 9:03 min)
+[2026.05.11-16.19.48:490][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.05.11-16.19.48:522][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.05.11-16.19.48:552][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.05.11-16.19.48:618][984]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.11-16.19.48:618][984]LogContentValidation: Enabled validators:
+[2026.05.11-16.19.48:618][984]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.11-16.19.48:618][984]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.11-16.19.48:618][984]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.11-16.19.48:618][984]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.11-16.19.48:618][984]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.11-16.19.48:618][984]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.11-16.19.48:618][984]AssetCheck: /Game/Art/Props/TVMount/M_Drawer Validating asset
+[2026.05.11-16.19.48:691][984]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.11-16.19.49:313][ 32]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Art/Props/TVMount/M_Drawer.M_Drawer
+[2026.05.11-16.19.49:317][ 32]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_33
+[2026.05.11-16.19.50:042][ 32]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.11-16.19.50:042][ 32]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.05.11-16.19.50:042][ 32]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.11-16.19.50:042][ 32]MaterialEditorStats: Shader Count: 0
+[2026.05.11-16.19.50:042][ 32]MaterialEditorStats: Preshaders: 6  (6 param fetches, 13 ops)
+[2026.05.11-16.19.50:201][ 34]MaterialEditorStats: Base pass shader: 196 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.05.11-16.19.50:201][ 34]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.11-16.19.50:201][ 34]MaterialEditorStats: Texture samplers: 4/16
+[2026.05.11-16.19.50:201][ 34]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.05.11-16.19.50:201][ 34]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.11-16.19.50:201][ 34]MaterialEditorStats: Shader Count: 5
+[2026.05.11-16.19.50:201][ 34]MaterialEditorStats: Preshaders: 6  (6 param fetches, 13 ops)
+[2026.05.11-16.19.53:797][113]LogStreaming: Display: FlushAsyncLoading(3499): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.11-16.19.53:808][113]LogInterchangeEngine: [Pending] Importing
+[2026.05.11-16.19.53:808][113]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/capra/OneDrive - Staffordshire University/COLLAB Stoke_12 - [Assets]/[Props]/Prop - TV Stand/Material.001_occlusionRoughnessMetallic.png]
+[2026.05.11-16.19.53:809][113]LogInterchangeEngine: [Pending] Importing -  (2)
+[2026.05.11-16.19.53:809][113]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/capra/OneDrive - Staffordshire University/COLLAB Stoke_12 - [Assets]/[Props]/Prop - TV Stand/Material.001_baseColor.png]
+[2026.05.11-16.19.53:810][113]LogInterchangeEngine: [Pending] Importing -  (3)
+[2026.05.11-16.19.53:810][113]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/capra/OneDrive - Staffordshire University/COLLAB Stoke_12 - [Assets]/[Props]/Prop - TV Stand/Material.001_normal.png]
+[2026.05.11-16.19.54:517][115]LogStreaming: Display: FlushAsyncLoading(3502): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.11-16.19.55:156][118]LogTexture: Display: Building textures: /Game/Art/Props/TVMount/textures/Material_001_occlusionRoughnessMetallic.Material_001_occlusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 302.583323 MB), EncodeSpeed: Fast
+[2026.05.11-16.19.55:499][118]LogInterchangeEngine: Display: Interchange import completed [C:/Users/capra/OneDr...ops]/Prop - TV Stand/Material.001_occlusionRoughnessMetallic.png]
+[2026.05.11-16.19.55:499][118]LogInterchangeEngine: [Pending] Importing -  (2)
+[2026.05.11-16.19.56:429][168]LogTexture: Display: Building textures: /Game/Art/Props/TVMount/textures/Material_001_baseColor.Material_001_baseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 302.583323 MB), EncodeSpeed: Fast
+[2026.05.11-16.19.56:534][171]LogInterchangeEngine: Display: Interchange import completed [C:/Users/capra/OneDr...ops]/Prop - TV Stand/Material.001_baseColor.png]
+[2026.05.11-16.19.56:534][171]LogInterchangeEngine: [Pending] Importing -  (1)
+[2026.05.11-16.19.56:626][175]LogInterchangePipeline: Display: Auto-detected normal map
+[2026.05.11-16.19.56:631][176]LogTexture: Display: Building textures: /Game/Art/Props/TVMount/textures/Material_001_normal.Material_001_normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 427.499988 MB), EncodeSpeed: Fast
+[2026.05.11-16.19.56:798][177]LogInterchangeEngine: Display: Interchange import completed [C:/Users/capra/OneDr...ops]/Prop - TV Stand/Material.001_normal.png]
+[2026.05.11-16.19.56:820][177]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.05.11-16.19.56:820][177]LogInterchangeEngine: [Success] Import Done
+[2026.05.11-16.19.57:837][232]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.11-16.19.57:837][232]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.11-16.19.57:837][232]MaterialEditorStats: Shader Count: 0
+[2026.05.11-16.19.57:837][232]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.11-16.19.57:908][234]MaterialEditorStats: Base pass shader: 173 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.05.11-16.19.57:908][234]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.11-16.19.57:908][234]MaterialEditorStats: Texture samplers: 1/16
+[2026.05.11-16.19.57:908][234]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.11-16.19.57:908][234]MaterialEditorStats: Shader Count: 5
+[2026.05.11-16.19.57:908][234]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.11-16.19.59:404][339]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.11-16.19.59:404][339]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.11-16.19.59:404][339]MaterialEditorStats: Shader Count: 0
+[2026.05.11-16.19.59:405][339]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.11-16.19.59:496][341]MaterialEditorStats: Base pass shader: 173 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.05.11-16.19.59:496][341]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.11-16.19.59:497][341]MaterialEditorStats: Texture samplers: 1/16
+[2026.05.11-16.19.59:497][341]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.11-16.19.59:497][341]MaterialEditorStats: Shader Count: 5
+[2026.05.11-16.19.59:497][341]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.11-16.20.01:581][521]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.11-16.20.01:581][521]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.05.11-16.20.01:581][521]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.11-16.20.01:581][521]MaterialEditorStats: Shader Count: 0
+[2026.05.11-16.20.01:581][521]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.11-16.20.01:647][523]MaterialEditorStats: Base pass shader: 178 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.05.11-16.20.01:647][523]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.11-16.20.01:647][523]MaterialEditorStats: Texture samplers: 2/16
+[2026.05.11-16.20.01:647][523]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.05.11-16.20.01:647][523]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.11-16.20.01:647][523]MaterialEditorStats: Shader Count: 5
+[2026.05.11-16.20.01:647][523]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.11-16.20.02:748][593]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.11-16.20.02:748][593]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.05.11-16.20.02:749][593]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.11-16.20.02:749][593]MaterialEditorStats: Shader Count: 0
+[2026.05.11-16.20.02:749][593]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.11-16.20.02:849][595]MaterialEditorStats: Base pass shader: 178 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.05.11-16.20.02:849][595]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.11-16.20.02:849][595]MaterialEditorStats: Texture samplers: 2/16
+[2026.05.11-16.20.02:849][595]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.05.11-16.20.02:849][595]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.11-16.20.02:849][595]MaterialEditorStats: Shader Count: 5
+[2026.05.11-16.20.02:849][595]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.11-16.20.05:059][780]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.11-16.20.05:059][780]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.05.11-16.20.05:059][780]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.11-16.20.05:059][780]MaterialEditorStats: Shader Count: 0
+[2026.05.11-16.20.05:059][780]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.11-16.20.05:125][783]MaterialEditorStats: Base pass shader: 186 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2026.05.11-16.20.05:125][783]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.11-16.20.05:125][783]MaterialEditorStats: Texture samplers: 3/16
+[2026.05.11-16.20.05:125][783]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.05.11-16.20.05:125][783]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.11-16.20.05:125][783]MaterialEditorStats: Shader Count: 5
+[2026.05.11-16.20.05:125][783]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.11-16.20.06:200][859]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.11-16.20.06:200][859]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.05.11-16.20.06:200][859]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.11-16.20.06:200][859]MaterialEditorStats: Shader Count: 0
+[2026.05.11-16.20.06:200][859]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.11-16.20.06:297][861]MaterialEditorStats: Base pass shader: 186 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2026.05.11-16.20.06:297][861]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.11-16.20.06:298][861]MaterialEditorStats: Texture samplers: 3/16
+[2026.05.11-16.20.06:298][861]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.05.11-16.20.06:298][861]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.11-16.20.06:298][861]MaterialEditorStats: Shader Count: 5
+[2026.05.11-16.20.06:298][861]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.11-16.20.08:047][996]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.11-16.20.08:047][996]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.05.11-16.20.08:047][996]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.11-16.20.08:047][996]MaterialEditorStats: Shader Count: 0
+[2026.05.11-16.20.08:047][996]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.11-16.20.08:116][999]MaterialEditorStats: Base pass shader: 189 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.05.11-16.20.08:116][999]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.11-16.20.08:116][999]MaterialEditorStats: Texture samplers: 4/16
+[2026.05.11-16.20.08:116][999]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.05.11-16.20.08:116][999]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.11-16.20.08:116][999]MaterialEditorStats: Shader Count: 5
+[2026.05.11-16.20.08:116][999]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.11-16.20.09:728][131]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.11-16.20.09:728][131]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.05.11-16.20.09:728][131]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.11-16.20.09:728][131]MaterialEditorStats: Shader Count: 0
+[2026.05.11-16.20.09:728][131]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.11-16.20.09:788][134]MaterialEditorStats: Base pass shader: 189 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.05.11-16.20.09:788][134]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.11-16.20.09:788][134]MaterialEditorStats: Texture samplers: 4/16
+[2026.05.11-16.20.09:788][134]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.05.11-16.20.09:788][134]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.11-16.20.09:788][134]MaterialEditorStats: Shader Count: 5
+[2026.05.11-16.20.09:788][134]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.11-16.20.10:945][223]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.11-16.20.10:945][223]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.05.11-16.20.10:945][223]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.11-16.20.10:945][223]MaterialEditorStats: Shader Count: 0
+[2026.05.11-16.20.10:945][223]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.11-16.20.11:014][226]MaterialEditorStats: Base pass shader: 191 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.05.11-16.20.11:014][226]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.11-16.20.11:014][226]MaterialEditorStats: Texture samplers: 4/16
+[2026.05.11-16.20.11:015][226]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.05.11-16.20.11:015][226]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.11-16.20.11:015][226]MaterialEditorStats: Shader Count: 5
+[2026.05.11-16.20.11:015][226]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.11-16.20.11:614][273]LogMaterialEditor: Applying material M_Drawer
+[2026.05.11-16.20.11:786][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.05.11-16.20.11:987][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2026.05.11-16.20.11:999][273]MaterialEditorStats: Base pass shader: 191 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.05.11-16.20.11:999][273]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.11-16.20.11:999][273]MaterialEditorStats: Nanite Compute Shader: 849 instructions
+Stats: Resources Used: 12
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.05.11-16.20.11:999][273]MaterialEditorStats: Texture samplers: 4/16
+[2026.05.11-16.20.12:000][273]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.05.11-16.20.12:000][273]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.11-16.20.12:000][273]MaterialEditorStats: Shader Count: 19
+[2026.05.11-16.20.12:000][273]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.11-16.20.12:369][302]LogMaterialEditor: Saving and Compiling material M_Drawer
+[2026.05.11-16.20.12:371][302]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.11-16.20.12:433][302]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Props/TVMount/M_Drawer] ([1] browsable assets)...
+[2026.05.11-16.20.12:455][302]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Art/Props/TVMount/M_Drawer.M_Drawer]
+[2026.05.11-16.20.12:455][302]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Props/TVMount/M_Drawer]
+[2026.05.11-16.20.12:465][302]LogSavePackage: Moving output files for package: /Game/Art/Props/TVMount/M_Drawer
+[2026.05.11-16.20.12:465][302]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/M_DrawerCBD6D33E4B11E2F1D76738BF1C53C95C.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Props/TVMount/M_Drawer.uasset'
+[2026.05.11-16.20.12:474][302]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.038 ms (total: 9:03 min)
+[2026.05.11-16.20.12:534][302]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.11-16.20.12:534][302]LogContentValidation: Enabled validators:
+[2026.05.11-16.20.12:534][302]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.11-16.20.12:534][302]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.11-16.20.12:534][302]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.11-16.20.12:534][302]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.11-16.20.12:534][302]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.11-16.20.12:534][302]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.11-16.20.12:534][302]AssetCheck: /Game/Art/Props/TVMount/M_Drawer Validating asset
+[2026.05.11-16.20.13:532][383]LogSlate: Window 'M_Drawer' being destroyed
+[2026.05.11-16.20.13:538][383]LogSlate: Window 'M_Drawer' being destroyed
+[2026.05.11-16.20.13:613][383]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2026.05.11-16.20.13:613][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.11-16.20.13:660][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.05.11-16.20.14:918][510]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Props/TVMount/SM_draw.SM_draw
+[2026.05.11-16.20.14:918][510]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Props/TVMount/SM_draw.SM_draw
+[2026.05.11-16.20.14:919][510]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Props/TVMount/SM_draw.SM_draw as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_9
+[2026.05.11-16.20.16:161][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.05.11-16.20.16:163][640]LogEditorActor: Deleted 0 Actors (0.034 secs)
+[2026.05.11-16.20.16:167][640]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Props/TVMount/SM_draw.SM_draw
+[2026.05.11-16.20.16:167][640]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Props/TVMount/SM_draw.SM_draw
+[2026.05.11-16.20.16:170][640]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Props/TVMount/SM_draw.SM_draw as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_2CF05D3659F514DA02_1943003238
+[2026.05.11-16.20.34:897][311]Cmd: TRANSACTION UNDO
+[2026.05.11-16.20.34:897][311]LogEditorTransaction: Undo Scale Elements
+[2026.05.11-16.21.09:755][412]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.11-16.21.09:847][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.05.11-16.21.09:875][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.05.11-16.21.09:904][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.05.11-16.21.09:913][412]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/IN/P5V2IBMK8PZ4R3UZAB8EGL
+[2026.05.11-16.21.09:915][412]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/P5V2IBMK8PZ4R3UZAB8EGL26316DC945066BDA7D4B4A93E78A3F33.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/IN/P5V2IBMK8PZ4R3UZAB8EGL.uasset'
+[2026.05.11-16.21.09:923][412]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/LL/KDTXC72SZ9TIV5JTCAC13B
+[2026.05.11-16.21.09:924][412]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/KDTXC72SZ9TIV5JTCAC13B139CB0CA4A6C23BC2FB207BA7D7B9B0F.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/LL/KDTXC72SZ9TIV5JTCAC13B.uasset'
+[2026.05.11-16.21.09:932][412]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/3P/UCSX8372IQF235OCITT4CK
+[2026.05.11-16.21.09:933][412]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/UCSX8372IQF235OCITT4CK1336B9174E82C1477A8BBDBC8A1EB936.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/3P/UCSX8372IQF235OCITT4CK.uasset'
+[2026.05.11-16.21.10:064][412]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/TL/P1PBJ6ABYYK8USDUIAQSDC
+[2026.05.11-16.21.10:065][412]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/P1PBJ6ABYYK8USDUIAQSDC4D12405D43D564CD5AB790A2DD58BE57.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/TL/P1PBJ6ABYYK8USDUIAQSDC.uasset'
+[2026.05.11-16.21.10:074][412]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/51/4D7KRX1FYG8UZLSJU369NI
+[2026.05.11-16.21.10:074][412]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/4D7KRX1FYG8UZLSJU369NIDEDDC3984695A3249A4E5F9043E678BA.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/51/4D7KRX1FYG8UZLSJU369NI.uasset'
+[2026.05.11-16.21.10:086][412]LogFileHelpers: InternalPromptForCheckoutAndSave took 330.015 ms (total: 9:03 min)
+[2026.05.11-16.21.10:149][412]LogContentValidation: Display: Starting to validate 5 assets
+[2026.05.11-16.21.10:149][412]LogContentValidation: Enabled validators:
+[2026.05.11-16.21.10:149][412]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.11-16.21.10:149][412]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.11-16.21.10:149][412]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.11-16.21.10:149][412]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.11-16.21.10:149][412]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.11-16.21.10:149][412]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.11-16.21.10:149][412]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2026.05.11-16.21.10:203][412]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.11-16.21.11:949][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.05.11-16.21.12:713][610]LogSlate: Window 'Save Content' being destroyed
+[2026.05.11-16.21.12:723][610]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.11-16.21.12:784][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Props/TVMount/textures/Material_001_baseColor] ([1] browsable assets)...
+[2026.05.11-16.21.12:785][610]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Props/TVMount/textures/Material_001_baseColor.Material_001_baseColor]
+[2026.05.11-16.21.12:785][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Props/TVMount/textures/Material_001_baseColor]
+[2026.05.11-16.21.12:969][610]LogSavePackage: Moving output files for package: /Game/Art/Props/TVMount/textures/Material_001_baseColor
+[2026.05.11-16.21.12:969][610]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Material_001_baseColor6175AB564AB2C6C923D57E876EB9F6AC.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Props/TVMount/textures/Material_001_baseColor.uasset'
+[2026.05.11-16.21.12:971][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Props/TVMount/textures/Material_001_normal] ([1] browsable assets)...
+[2026.05.11-16.21.12:971][610]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Props/TVMount/textures/Material_001_normal.Material_001_normal]
+[2026.05.11-16.21.12:971][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Props/TVMount/textures/Material_001_normal]
+[2026.05.11-16.21.13:223][610]LogSavePackage: Moving output files for package: /Game/Art/Props/TVMount/textures/Material_001_normal
+[2026.05.11-16.21.13:223][610]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Material_001_normal853C34DC4508CCF6C35D7F8600A3D9C4.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Props/TVMount/textures/Material_001_normal.uasset'
+[2026.05.11-16.21.13:224][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Props/TVMount/textures/Material_001_occlusionRoughnessMetallic] ([1] browsable assets)...
+[2026.05.11-16.21.13:226][610]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Props/TVMount/textures/Material_001_occlusionRoughnessMetallic.Material_001_occlusionRoughnessMetallic]
+[2026.05.11-16.21.13:226][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Props/TVMount/textures/Material_001_occlusionRoughnessMetallic]
+[2026.05.11-16.21.13:286][610]LogSavePackage: Moving output files for package: /Game/Art/Props/TVMount/textures/Material_001_occlusionRoughnessMetallic
+[2026.05.11-16.21.13:286][610]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/Material_001_occlusionRoughnessMD350DE014F438FBF004D6B93F007308A.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Props/TVMount/textures/Material_001_occlusionRoughnessMetallic.uasset'
+[2026.05.11-16.21.13:288][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Props/TVMount/SM_draw] ([1] browsable assets)...
+[2026.05.11-16.21.13:324][610]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/Props/TVMount/SM_draw.SM_draw]
+[2026.05.11-16.21.13:324][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Props/TVMount/SM_draw]
+[2026.05.11-16.21.13:337][610]LogSavePackage: Moving output files for package: /Game/Art/Props/TVMount/SM_draw
+[2026.05.11-16.21.13:337][610]LogSavePackage: Moving '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/SM_draw03C5D5EB486B0A1F3A01278206FAB94B.tmp' to '../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Content/Art/Props/TVMount/SM_draw.uasset'
+[2026.05.11-16.21.13:345][610]LogFileHelpers: InternalPromptForCheckoutAndSave took 623.220 ms (total: 9:04 min)
+[2026.05.11-16.21.13:397][610]LogContentValidation: Display: Starting to validate 4 assets
+[2026.05.11-16.21.13:397][610]LogContentValidation: Enabled validators:
+[2026.05.11-16.21.13:397][610]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.11-16.21.13:397][610]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.11-16.21.13:397][610]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.11-16.21.13:397][610]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.11-16.21.13:397][610]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.11-16.21.13:397][610]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.11-16.21.13:397][610]AssetCheck: /Game/Art/Props/TVMount/textures/Material_001_baseColor Validating asset
+[2026.05.11-16.21.13:398][610]AssetCheck: /Game/Art/Props/TVMount/textures/Material_001_normal Validating asset
+[2026.05.11-16.21.13:398][610]AssetCheck: /Game/Art/Props/TVMount/textures/Material_001_occlusionRoughnessMetallic Validating asset
+[2026.05.11-16.21.13:398][610]AssetCheck: /Game/Art/Props/TVMount/SM_draw Validating asset
+[2026.05.11-16.21.13:421][610]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../../[University_Asignments]/3rd/Collab/Haunting_Sim/Haunting-Sim-Collab/Haunting_Sim/Saved/SourceControl/UncontrolledChangelists.json
